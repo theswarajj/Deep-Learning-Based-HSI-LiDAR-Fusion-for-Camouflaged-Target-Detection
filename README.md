@@ -516,7 +516,7 @@ The pipeline output for MUUFL Gulfport identified the candidate targets with the
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Deep-Learning-Based-HSI-LiDAR-Fusion-for-Camouflaged-Target-Detection.git
+git clone https://github.com/theswarajj/Deep-Learning-Based-HSI-LiDAR-Fusion-for-Camouflaged-Target-Detection.git
 cd "Deep-Learning-Based-HSI-LiDAR-Fusion-for-Camouflaged-Target-Detection"
 
 # Create and activate conda or venv environment (Python 3.10 recommended)
@@ -606,6 +606,20 @@ To push via **GitHub Desktop**:
 
 ---
 
+---
+
+## Author & Acknowledgments
+
+### Project Lead & Engineering
+- **Developer**: Swaraj Krishna P P
+- **Profile**: AI / ML Enthusiast & Computer Science and Engineering Graduate (Class of 2026)
+- **Institution**: APJ Abdul Kalam Technological University (KTU)
+- **Contact**: swrjkrishna@gmail.com
+- **GitHub**: https://github.com/theswarajj
+
+> **Attribution Note**:
+> All conceptualization, architecture design, neural network modeling, and end-to-end engineering for this project were executed by Swaraj Krishna P P.
+
 ## Citation & References
 
 If you build upon this work or use the pipeline in your research, please cite:
@@ -613,10 +627,10 @@ If you build upon this work or use the pipeline in your research, please cite:
 ```bibtex
 @article{hsi_lidar_camouflaged_fusion,
   title={Deep Learning-Based HSI–LiDAR Fusion for Camouflaged Target Detection},
-  author={Nasim, et al.},
+  author={Swaraj Krishna P P},
   year={2026},
   journal={GitHub Repository},
-  url={https://github.com/<your-username>/Deep-Learning-Based-HSI-LiDAR-Fusion-for-Camouflaged-Target-Detection}
+  url={https://github.com/theswarajj/Deep-Learning-Based-HSI-LiDAR-Fusion-for-Camouflaged-Target-Detection}
 }
 ```
 
