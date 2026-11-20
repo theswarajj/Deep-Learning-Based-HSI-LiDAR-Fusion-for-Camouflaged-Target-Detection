@@ -1,0 +1,21 @@
+Test split: 6,043 pixels
+Accuracy: 0.0397
+
+                    precision    recall  f1-score   support
+
+       Apple trees      0.094     0.287     0.142       807
+Buildings (TARGET)      0.000     0.000     0.000       581
+            Ground      0.015     0.021     0.017        96
+              Wood      0.030     0.001     0.002      1824
+          Vineyard      0.007     0.002     0.003      2100
+             Roads      0.000     0.000     0.000       635
+           Class 7      0.000     0.000     0.000         0
+           Class 8      0.000     0.000     0.000         0
+           Class 9      0.000     0.000     0.000         0
+          Class 10      0.000     0.000     0.000         0
+          Class 11      0.000     0.000     0.000         0
+
+          accuracy                          0.040      6043
+         macro avg      0.013     0.028     0.015      6043
+      weighted avg      0.024     0.040     0.021      6043
+

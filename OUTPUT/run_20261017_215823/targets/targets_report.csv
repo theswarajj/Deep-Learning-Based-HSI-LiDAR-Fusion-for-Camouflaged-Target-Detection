@@ -1,0 +1,3 @@
+id,name,dominant_color,size_category,surrounding_context,surrounding_pct,size_pixels,centroid,bbox,mean_confidence,max_confidence,spectral_contrast,ace_mean,ace_max,ace_verdict,sam_mean,sam_max,ensemble_mean,ensemble_max,quality_score,quality_tier
+1,Red + Green + Blue Cloth Panel (Large),Red + Green + Blue,Large,Mixed Ground Surface,65.0,299,"(159.4, 156.5)","(147, 173, 148, 164)",0.8784118294715881,0.9991194009780884,2.778,0.2335,0.5059,CONFIRMED by ACE,0.9483,0.9822,0.7588,0.998,91.3,HIGH CONFIDENCE
+2,Red + Dark Gray Cloth Panel (Medium),Red + Dark Gray,Medium,Mixed Ground Surface,54.5,22,"(80.5, 30.3)","(78, 82, 27, 33)",0.694075345993042,0.8726528882980347,0.361,0.0072,0.0279,FUSION ONLY (ACE below threshold),0.9354,0.9553,0.5255,0.6105,57.1,MEDIUM CONFIDENCE

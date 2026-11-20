@@ -1,0 +1,19 @@
+                       precision    recall  f1-score   support
+
+                Trees      0.994     0.989     0.991     23246
+         Mostly Grass      0.973     0.989     0.981      4270
+ Mixed Ground Surface      0.986     0.980     0.983      6882
+        Dirt and Sand      0.978     0.991     0.984      1826
+                 Road      0.986     0.987     0.987      6687
+                Water      0.993     0.983     0.988       466
+  Shadow of Buildings      0.964     0.989     0.976      2233
+            Buildings      0.995     0.992     0.994      6240
+             Sidewalk      0.940     0.960     0.950      1385
+          Yellow Curb      0.846     0.869     0.857       183
+Cloth Panels (TARGET)      0.974     0.967     0.970       269
+
+             accuracy                          0.987     53687
+            macro avg      0.966     0.972     0.969     53687
+         weighted avg      0.987     0.987     0.987     53687
+
+Overall accuracy: 0.9867

@@ -1,0 +1,30 @@
+Detected 2 candidate target(s), confidence threshold = 0.5
+======================================================================
+
+Target #1: Red + Green + Blue Cloth Panel (Large)
+  Quality Score: 91.3/100 -- HIGH CONFIDENCE
+  Location: in Mixed Ground Surface area (65% of surroundings)
+  Color: Red + Green + Blue
+  Size: 299px (Large)
+  Centroid (row, col): (159.4, 156.5)   Bbox: (147, 173, 148, 164)
+  Fusion confidence: mean=0.878, max=0.999
+  Spectral contrast ratio: 2.778
+  LiDAR 3D Profile: elevation=5.55m, rel_height=+0.30m (vs ground), roughness=1.472m, multi-return dz=-166.899m
+  ACE score: mean=0.234, max=0.506 (threshold 0.123) -> CONFIRMED by ACE
+  SAM score: mean=0.948, max=0.982
+  RX anomaly: mean=0.341, max=0.795 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.759, max=0.998
+
+Target #2: Red + Dark Gray Cloth Panel (Medium)
+  Quality Score: 57.1/100 -- MEDIUM CONFIDENCE
+  Location: in Mixed Ground Surface area (54% of surroundings)
+  Color: Red + Dark Gray
+  Size: 22px (Medium)
+  Centroid (row, col): (80.5, 30.3)   Bbox: (78, 82, 27, 33)
+  Fusion confidence: mean=0.694, max=0.873
+  Spectral contrast ratio: 0.361
+  LiDAR 3D Profile: elevation=5.10m, rel_height=-0.10m (vs ground), roughness=0.036m, multi-return dz=-164.793m
+  ACE score: mean=0.007, max=0.028 (threshold 0.123) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.935, max=0.955
+  RX anomaly: mean=0.019, max=0.029 -> Standard background spectral profile
+  Ensemble score: mean=0.525, max=0.611

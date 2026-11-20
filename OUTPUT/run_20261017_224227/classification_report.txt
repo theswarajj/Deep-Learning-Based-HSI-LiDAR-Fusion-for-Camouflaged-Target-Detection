@@ -1,0 +1,19 @@
+                    precision    recall  f1-score   support
+
+       Apple trees      0.093     0.282     0.140      4034
+Buildings (TARGET)      0.006     0.002     0.003      2903
+            Ground      0.013     0.019     0.015       479
+              Wood      0.015     0.000     0.001      9123
+          Vineyard      0.005     0.001     0.002     10501
+             Roads      0.000     0.000     0.000      3174
+           Class 7      0.000     0.000     0.000         0
+           Class 8      0.000     0.000     0.000         0
+           Class 9      0.000     0.000     0.000         0
+          Class 10      0.000     0.000     0.000         0
+          Class 11      0.000     0.000     0.000         0
+
+          accuracy                          0.039     30214
+         macro avg      0.012     0.028     0.015     30214
+      weighted avg      0.020     0.039     0.020     30214
+
+Overall accuracy: 0.0388

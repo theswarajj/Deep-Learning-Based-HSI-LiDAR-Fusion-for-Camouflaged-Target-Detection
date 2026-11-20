@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "name": "Dark Gray Cloth Panel (Small)",
+        "dominant_color": "Dark Gray",
+        "size_category": "Small",
+        "surrounding_context": "Trees",
+        "surrounding_pct": 60.0,
+        "size_pixels": 11,
+        "centroid": [
+            71.8,
+            41.0
+        ],
+        "bbox": [
+            69,
+            75,
+            40,
+            42
+        ],
+        "mean_confidence": 0.7963226437568665,
+        "max_confidence": 0.990329384803772,
+        "quality_score": 68.3,
+        "quality_tier": "MEDIUM CONFIDENCE"
+    },
+    {
+        "id": 2,
+        "name": "Red + Dark Gray Cloth Panel (Medium)",
+        "dominant_color": "Red + Dark Gray",
+        "size_category": "Medium",
+        "surrounding_context": "Mixed Ground Surface",
+        "surrounding_pct": 63.9,
+        "size_pixels": 27,
+        "centroid": [
+            80.1,
+            30.9
+        ],
+        "bbox": [
+            77,
+            82,
+            27,
+            35
+        ],
+        "mean_confidence": 0.8989918231964111,
+        "max_confidence": 0.9975544810295105,
+        "quality_score": 82.1,
+        "quality_tier": "HIGH CONFIDENCE"
+    },
+    {
+        "id": 3,
+        "name": "Red + Green + Blue Cloth Panel (Large)",
+        "dominant_color": "Red + Green + Blue",
+        "size_category": "Large",
+        "surrounding_context": "Mixed Ground Surface",
+        "surrounding_pct": 65.5,
+        "size_pixels": 301,
+        "centroid": [
+            159.5,
+            156.4
+        ],
+        "bbox": [
+            147,
+            173,
+            148,
+            164
+        ],
+        "mean_confidence": 0.9903852343559265,
+        "max_confidence": 0.9994926452636719,
+        "quality_score": 99.6,
+        "quality_tier": "HIGH CONFIDENCE"
+    },
+    {
+        "id": 4,
+        "name": "Red Cloth Panel (Small)",
+        "dominant_color": "Red",
+        "size_category": "Small",
+        "surrounding_context": "Mostly Grass",
+        "surrounding_pct": 97.7,
+        "size_pixels": 7,
+        "centroid": [
+            209.4,
+            171.6
+        ],
+        "bbox": [
+            208,
+            211,
+            171,
+            173
+        ],
+        "mean_confidence": 0.9102386832237244,
+        "max_confidence": 0.9964876174926758,
+        "quality_score": 70.5,
+        "quality_tier": "MEDIUM CONFIDENCE"
+    },
+    {
+        "id": 5,
+        "name": "Red Cloth Panel (Small)",
+        "dominant_color": "Red",
+        "size_category": "Small",
+        "surrounding_context": "Trees",
+        "surrounding_pct": 45.6,
+        "size_pixels": 9,
+        "centroid": [
+            289.6,
+            69.2
+        ],
+        "bbox": [
+            289,
+            290,
+            67,
+            71
+        ],
+        "mean_confidence": 0.7539205551147461,
+        "max_confidence": 0.963996171951294,
+        "quality_score": 64.8,
+        "quality_tier": "MEDIUM CONFIDENCE"
+    },
+    {
+        "id": 6,
+        "name": "Dark Gray Cloth Panel (Tiny)",
+        "dominant_color": "Dark Gray",
+        "size_category": "Tiny",
+        "surrounding_context": "Trees",
+        "surrounding_pct": 68.8,
+        "size_pixels": 3,
+        "centroid": [
+            295.7,
+            128.7
+        ],
+        "bbox": [
+            295,
+            296,
+            128,
+            129
+        ],
+        "mean_confidence": 0.5286484360694885,
+        "max_confidence": 0.5357484221458435,
+        "quality_score": 43.7,
+        "quality_tier": "LOW CONFIDENCE"
+    },
+    {
+        "id": 7,
+        "name": "Dark Gray Cloth Panel (Tiny)",
+        "dominant_color": "Dark Gray",
+        "size_category": "Tiny",
+        "surrounding_context": "Trees",
+        "surrounding_pct": 63.1,
+        "size_pixels": 2,
+        "centroid": [
+            296.5,
+            70.0
+        ],
+        "bbox": [
+            296,
+            297,
+            70,
+            70
+        ],
+        "mean_confidence": 0.9145113229751587,
+        "max_confidence": 0.9854012131690979,
+        "quality_score": 67.5,
+        "quality_tier": "MEDIUM CONFIDENCE"
+    }
+]

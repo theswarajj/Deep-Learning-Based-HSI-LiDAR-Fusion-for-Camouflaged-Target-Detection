@@ -1,0 +1,23 @@
+PER-CLASS CLASSIFICATION REPORT
+======================================================================
+                       precision    recall  f1-score   support
+
+              Class 0      0.000     0.000     0.000     69386
+                Trees      0.036     0.295     0.064      4034
+         Mostly Grass      0.002     0.004     0.003      2903
+ Mixed Ground Surface      0.002     0.021     0.003       479
+        Dirt and Sand      0.001     0.000     0.000      9123
+                 Road      0.003     0.002     0.002     10501
+                Water      0.000     0.000     0.000      3174
+  Shadow of Buildings      0.000     0.000     0.000         0
+            Buildings      0.000     0.000     0.000         0
+             Sidewalk      0.000     0.000     0.000         0
+          Yellow Curb      0.000     0.000     0.000         0
+Cloth Panels (TARGET)      0.000     0.000     0.000         0
+
+             accuracy                          0.012     99600
+            macro avg      0.004     0.027     0.006     99600
+         weighted avg      0.002     0.012     0.003     99600
+
+Overall accuracy: 0.0124
+Target (Cloth Panels) recall: 0.0000

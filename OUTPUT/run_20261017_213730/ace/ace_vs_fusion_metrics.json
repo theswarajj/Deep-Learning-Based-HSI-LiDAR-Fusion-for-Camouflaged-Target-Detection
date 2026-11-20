@@ -1,0 +1,25 @@
+{
+    "signature": "mean of 215 train+val target pixels",
+    "split": "TEST",
+    "n_eval": 10738,
+    "n_eval_targets": 54,
+    "fusion": {
+        "auc": 0.997925246474479,
+        "ap": 0.9672631703489255,
+        "pd_at_1pct_fpr": 0.9814814814814815,
+        "precision": 0.9433962264150944,
+        "recall": 0.9259259259259259,
+        "f1": 0.9345794392523364,
+        "operating_point": "argmax class"
+    },
+    "ace": {
+        "auc": 0.9965975428817062,
+        "ap": 0.9645854776145341,
+        "pd_at_1pct_fpr": 0.9814814814814815,
+        "precision": 0.9615384615384616,
+        "recall": 0.9259259259259259,
+        "f1": 0.9433962264150944,
+        "threshold": 0.16157430410385132,
+        "threshold_source": "best-F1 on train+val pixels"
+    }
+}

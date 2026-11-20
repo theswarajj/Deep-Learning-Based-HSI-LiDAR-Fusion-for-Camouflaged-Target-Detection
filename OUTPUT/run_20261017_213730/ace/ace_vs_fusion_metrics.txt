@@ -1,0 +1,8 @@
+Detector comparison on TEST pixels (n=10,738, targets=54)
+  Method                                AUC     AP  PD@1%FPR   Prec    Rec     F1
+  -------------------------------------------------------------------------------
+  Fusion model (argmax class)         0.998  0.967     0.981  0.943  0.926  0.935
+  ACE (HSI only, no training)         0.997  0.965     0.981  0.962  0.926  0.943
+  ACE threshold = 0.1616 (best-F1 on train+val pixels)
+
+ACE signature: mean of 215 train+val target pixels

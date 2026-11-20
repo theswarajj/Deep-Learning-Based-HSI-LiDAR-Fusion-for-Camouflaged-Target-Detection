@@ -1,0 +1,3654 @@
+Detected 258 candidate target(s), confidence threshold = 0.5
+======================================================================
+
+Target #1: Light Green + Red + Green Building (Medium)
+  Quality Score: 82.7/100 -- HIGH CONFIDENCE
+  Location: in Apple trees area (35% of surroundings)
+  Color: Light Green + Red + Green
+  Size: 59px (Medium)
+  Centroid (row, col): (106.3, 244.1)   Bbox: (101, 111, 240, 248)
+  Fusion confidence: mean=0.783, max=0.982
+  Spectral contrast ratio: 0.262
+  LiDAR 3D Profile: elevation=7.02m, rel_height=+5.47m (vs ground), roughness=1.254m, multi-return dz=-40.926m
+  ACE score: mean=0.123, max=0.347 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.978, max=0.991
+  RX anomaly: mean=0.014, max=0.026 -> Standard background spectral profile
+  Ensemble score: mean=0.692, max=0.908
+
+Target #2: Red + Light Green Building (Medium)
+  Quality Score: 80.9/100 -- HIGH CONFIDENCE
+  Location: in Vineyard area (32% of surroundings)
+  Color: Red + Light Green
+  Size: 51px (Medium)
+  Centroid (row, col): (10.7, 136.0)   Bbox: (7, 14, 129, 141)
+  Fusion confidence: mean=0.735, max=0.976
+  Spectral contrast ratio: 0.253
+  LiDAR 3D Profile: elevation=10.83m, rel_height=+1.53m (vs ground), roughness=0.783m, multi-return dz=-26.503m
+  ACE score: mean=0.102, max=0.186 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.949, max=0.976
+  RX anomaly: mean=0.022, max=0.033 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.626, max=0.741
+
+Target #3: Red + Light Green + Green Building (Medium)
+  Quality Score: 79.4/100 -- HIGH CONFIDENCE
+  Location: in Apple trees area (73% of surroundings)
+  Color: Red + Light Green + Green
+  Size: 41px (Medium)
+  Centroid (row, col): (162.4, 587.6)   Bbox: (160, 165, 584, 591)
+  Fusion confidence: mean=0.794, max=0.976
+  Spectral contrast ratio: 0.750
+  LiDAR 3D Profile: elevation=6.03m, rel_height=+3.94m (vs ground), roughness=0.746m, multi-return dz=-35.410m
+  ACE score: mean=0.112, max=0.164 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.979, max=0.986
+  RX anomaly: mean=0.013, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.689, max=0.821
+
+Target #4: Light Green + Red + Orange/Brown Building (Medium)
+  Quality Score: 78.8/100 -- HIGH CONFIDENCE
+  Location: in Apple trees area (36% of surroundings)
+  Color: Light Green + Red + Orange/Brown
+  Size: 52px (Medium)
+  Centroid (row, col): (54.0, 250.1)   Bbox: (47, 62, 248, 252)
+  Fusion confidence: mean=0.693, max=0.901
+  Spectral contrast ratio: 0.498
+  LiDAR 3D Profile: elevation=5.39m, rel_height=+2.47m (vs ground), roughness=2.479m, multi-return dz=-52.185m
+  ACE score: mean=0.095, max=0.226 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.977, max=0.991
+  RX anomaly: mean=0.025, max=0.131 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.621, max=0.759
+
+Target #5: Red + Light Green + Orange/Brown Building (Medium)
+  Quality Score: 76.6/100 -- HIGH CONFIDENCE
+  Location: in Class 9 area (39% of surroundings)
+  Color: Red + Light Green + Orange/Brown
+  Size: 55px (Medium)
+  Centroid (row, col): (95.7, 111.2)   Bbox: (92, 100, 105, 116)
+  Fusion confidence: mean=0.755, max=0.962
+  Spectral contrast ratio: 0.379
+  LiDAR 3D Profile: elevation=10.30m, rel_height=+4.78m (vs ground), roughness=0.818m, multi-return dz=-47.297m
+  ACE score: mean=0.074, max=0.135 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.925, max=0.980
+  RX anomaly: mean=0.024, max=0.069 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.591, max=0.751
+
+Target #6: Red Building (Medium)
+  Quality Score: 74.3/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (52% of surroundings)
+  Color: Red
+  Size: 62px (Medium)
+  Centroid (row, col): (22.3, 489.6)   Bbox: (16, 27, 485, 493)
+  Fusion confidence: mean=0.750, max=0.975
+  Spectral contrast ratio: 0.196
+  LiDAR 3D Profile: elevation=1.01m, rel_height=-0.05m (vs ground), roughness=0.587m, multi-return dz=-78.938m
+  ACE score: mean=0.005, max=0.026 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.805, max=0.848
+  RX anomaly: mean=0.010, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.430, max=0.535
+
+Target #7: Red Building (Large)
+  Quality Score: 74.0/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (49% of surroundings)
+  Color: Red
+  Size: 182px (Large)
+  Centroid (row, col): (66.0, 387.7)   Bbox: (51, 75, 380, 399)
+  Fusion confidence: mean=0.749, max=0.968
+  Spectral contrast ratio: 0.111
+  LiDAR 3D Profile: elevation=0.50m, rel_height=+0.31m (vs ground), roughness=0.550m, multi-return dz=-78.662m
+  ACE score: mean=0.011, max=0.068 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.809, max=0.838
+  RX anomaly: mean=0.016, max=0.031 -> Standard background spectral profile
+  Ensemble score: mean=0.438, max=0.558
+
+Target #8: Red Building (Large)
+  Quality Score: 73.9/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (66% of surroundings)
+  Color: Red
+  Size: 213px (Large)
+  Centroid (row, col): (88.8, 465.4)   Bbox: (77, 107, 458, 472)
+  Fusion confidence: mean=0.737, max=0.966
+  Spectral contrast ratio: 0.320
+  LiDAR 3D Profile: elevation=1.35m, rel_height=+0.08m (vs ground), roughness=0.481m, multi-return dz=-81.427m
+  ACE score: mean=0.015, max=0.062 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.792, max=0.820
+  RX anomaly: mean=0.014, max=0.025 -> Standard background spectral profile
+  Ensemble score: mean=0.421, max=0.561
+
+Target #9: Red Building (Large)
+  Quality Score: 73.2/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (56% of surroundings)
+  Color: Red
+  Size: 120px (Large)
+  Centroid (row, col): (66.3, 411.0)   Bbox: (54, 76, 406, 416)
+  Fusion confidence: mean=0.719, max=0.946
+  Spectral contrast ratio: 0.435
+  LiDAR 3D Profile: elevation=0.54m, rel_height=-0.10m (vs ground), roughness=0.562m, multi-return dz=-78.390m
+  ACE score: mean=0.009, max=0.046 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.798, max=0.829
+  RX anomaly: mean=0.015, max=0.025 -> Standard background spectral profile
+  Ensemble score: mean=0.412, max=0.538
+
+Target #10: Red Building (Large)
+  Quality Score: 73.0/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (55% of surroundings)
+  Color: Red
+  Size: 195px (Large)
+  Centroid (row, col): (107.7, 203.8)   Bbox: (97, 123, 194, 211)
+  Fusion confidence: mean=0.715, max=0.946
+  Spectral contrast ratio: 0.399
+  LiDAR 3D Profile: elevation=0.83m, rel_height=+0.28m (vs ground), roughness=0.656m, multi-return dz=-82.930m
+  ACE score: mean=0.006, max=0.032 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.804, max=0.836
+  RX anomaly: mean=0.011, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.412, max=0.530
+
+Target #11: Red Building (Medium)
+  Quality Score: 72.9/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (69% of surroundings)
+  Color: Red
+  Size: 77px (Medium)
+  Centroid (row, col): (96.6, 416.6)   Bbox: (91, 104, 410, 424)
+  Fusion confidence: mean=0.735, max=0.916
+  Spectral contrast ratio: 0.203
+  LiDAR 3D Profile: elevation=0.72m, rel_height=-0.09m (vs ground), roughness=0.818m, multi-return dz=-77.619m
+  ACE score: mean=0.008, max=0.038 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.801, max=0.844
+  RX anomaly: mean=0.014, max=0.024 -> Standard background spectral profile
+  Ensemble score: mean=0.421, max=0.521
+
+Target #12: Red Building (Large)
+  Quality Score: 72.4/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (28% of surroundings)
+  Color: Red
+  Size: 127px (Large)
+  Centroid (row, col): (4.3, 491.7)   Bbox: (1, 6, 474, 510)
+  Fusion confidence: mean=0.702, max=0.955
+  Spectral contrast ratio: 0.251
+  LiDAR 3D Profile: elevation=0.93m, rel_height=+0.70m (vs ground), roughness=0.519m, multi-return dz=-76.399m
+  ACE score: mean=0.010, max=0.054 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.799, max=0.831
+  RX anomaly: mean=0.011, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.405, max=0.533
+
+Target #13: Red Building (Large)
+  Quality Score: 71.8/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (32% of surroundings)
+  Color: Red
+  Size: 135px (Large)
+  Centroid (row, col): (66.2, 215.9)   Bbox: (59, 72, 205, 224)
+  Fusion confidence: mean=0.696, max=0.940
+  Spectral contrast ratio: 0.175
+  LiDAR 3D Profile: elevation=0.66m, rel_height=+0.38m (vs ground), roughness=0.914m, multi-return dz=-80.852m
+  ACE score: mean=0.004, max=0.036 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.848, max=0.911
+  RX anomaly: mean=0.017, max=0.031 -> Standard background spectral profile
+  Ensemble score: mean=0.438, max=0.571
+
+Target #14: Red Building (Large)
+  Quality Score: 71.5/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (53% of surroundings)
+  Color: Red
+  Size: 172px (Large)
+  Centroid (row, col): (53.2, 468.6)   Bbox: (41, 67, 462, 475)
+  Fusion confidence: mean=0.697, max=0.917
+  Spectral contrast ratio: 0.179
+  LiDAR 3D Profile: elevation=1.25m, rel_height=+0.06m (vs ground), roughness=0.566m, multi-return dz=-80.564m
+  ACE score: mean=0.013, max=0.055 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.825
+  RX anomaly: mean=0.012, max=0.021 -> Standard background spectral profile
+  Ensemble score: mean=0.397, max=0.531
+  (Merged from 2 nearby fragments)
+
+Target #15: Red Building (Large)
+  Quality Score: 71.5/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (46% of surroundings)
+  Color: Red
+  Size: 174px (Large)
+  Centroid (row, col): (72.5, 488.6)   Bbox: (57, 89, 477, 497)
+  Fusion confidence: mean=0.685, max=0.930
+  Spectral contrast ratio: 0.280
+  LiDAR 3D Profile: elevation=1.17m, rel_height=+0.02m (vs ground), roughness=0.520m, multi-return dz=-79.888m
+  ACE score: mean=0.008, max=0.047 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.788, max=0.830
+  RX anomaly: mean=0.012, max=0.021 -> Standard background spectral profile
+  Ensemble score: mean=0.386, max=0.509
+
+Target #16: Red Building (Large)
+  Quality Score: 71.2/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (62% of surroundings)
+  Color: Red
+  Size: 135px (Large)
+  Centroid (row, col): (100.4, 307.1)   Bbox: (95, 107, 299, 314)
+  Fusion confidence: mean=0.794, max=0.970
+  Spectral contrast ratio: 0.408
+  LiDAR 3D Profile: elevation=0.54m, rel_height=+0.13m (vs ground), roughness=0.363m, multi-return dz=-76.705m
+  ACE score: mean=0.002, max=0.018 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.815, max=0.832
+  RX anomaly: mean=0.011, max=0.021 -> Standard background spectral profile
+  Ensemble score: mean=0.457, max=0.550
+
+Target #17: Red Building (Large)
+  Quality Score: 70.8/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (35% of surroundings)
+  Color: Red
+  Size: 296px (Large)
+  Centroid (row, col): (159.6, 156.4)   Bbox: (152, 165, 133, 175)
+  Fusion confidence: mean=0.751, max=0.964
+  Spectral contrast ratio: 1.043
+  LiDAR 3D Profile: elevation=0.98m, rel_height=+0.76m (vs ground), roughness=0.612m, multi-return dz=-87.106m
+  ACE score: mean=0.026, max=0.077 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.774, max=0.803
+  RX anomaly: mean=0.012, max=0.021 -> Standard background spectral profile
+  Ensemble score: mean=0.423, max=0.534
+
+Target #18: Red Building (Large)
+  Quality Score: 70.8/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (40% of surroundings)
+  Color: Red
+  Size: 155px (Large)
+  Centroid (row, col): (161.7, 257.9)   Bbox: (158, 165, 240, 275)
+  Fusion confidence: mean=0.757, max=0.974
+  Spectral contrast ratio: 0.851
+  LiDAR 3D Profile: elevation=1.80m, rel_height=+1.21m (vs ground), roughness=0.573m, multi-return dz=-86.223m
+  ACE score: mean=0.023, max=0.090 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.784, max=0.877
+  RX anomaly: mean=0.011, max=0.021 -> Standard background spectral profile
+  Ensemble score: mean=0.431, max=0.567
+
+Target #19: Red Building (Medium)
+  Quality Score: 70.7/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (67% of surroundings)
+  Color: Red
+  Size: 79px (Medium)
+  Centroid (row, col): (130.3, 206.5)   Bbox: (125, 137, 203, 211)
+  Fusion confidence: mean=0.680, max=0.908
+  Spectral contrast ratio: 0.165
+  LiDAR 3D Profile: elevation=0.76m, rel_height=-0.04m (vs ground), roughness=0.468m, multi-return dz=-80.862m
+  ACE score: mean=0.006, max=0.033 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.802, max=0.817
+  RX anomaly: mean=0.009, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.392, max=0.504
+
+Target #20: Red Building (Medium)
+  Quality Score: 70.4/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (31% of surroundings)
+  Color: Red
+  Size: 69px (Medium)
+  Centroid (row, col): (23.2, 504.4)   Bbox: (16, 32, 497, 509)
+  Fusion confidence: mean=0.654, max=0.925
+  Spectral contrast ratio: 0.330
+  LiDAR 3D Profile: elevation=1.17m, rel_height=+0.36m (vs ground), roughness=0.701m, multi-return dz=-81.277m
+  ACE score: mean=0.004, max=0.016 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.801, max=0.935
+  RX anomaly: mean=0.011, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.377, max=0.489
+
+Target #21: Red Building (Large)
+  Quality Score: 70.3/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (44% of surroundings)
+  Color: Red
+  Size: 534px (Large)
+  Centroid (row, col): (70.7, 296.8)   Bbox: (57, 83, 277, 315)
+  Fusion confidence: mean=0.776, max=0.970
+  Spectral contrast ratio: 0.302
+  LiDAR 3D Profile: elevation=0.52m, rel_height=+0.20m (vs ground), roughness=0.383m, multi-return dz=-78.155m
+  ACE score: mean=0.002, max=0.014 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.809, max=0.834
+  RX anomaly: mean=0.013, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.443, max=0.552
+
+Target #22: Green + Red + Yellow/Gold Building (Medium)
+  Quality Score: 70.1/100 -- MEDIUM CONFIDENCE
+  Location: in Vineyard area (65% of surroundings)
+  Color: Green + Red + Yellow/Gold
+  Size: 33px (Medium)
+  Centroid (row, col): (156.8, 340.9)   Bbox: (154, 159, 337, 344)
+  Fusion confidence: mean=0.704, max=0.893
+  Spectral contrast ratio: 0.284
+  LiDAR 3D Profile: elevation=3.32m, rel_height=+3.23m (vs ground), roughness=1.203m, multi-return dz=-55.860m
+  ACE score: mean=0.061, max=0.148 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.972, max=0.983
+  RX anomaly: mean=0.026, max=0.041 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.593, max=0.753
+
+Target #23: Red + Green Building (Medium)
+  Quality Score: 70.0/100 -- MEDIUM CONFIDENCE
+  Location: in Vineyard area (32% of surroundings)
+  Color: Red + Green
+  Size: 51px (Medium)
+  Centroid (row, col): (71.0, 181.2)   Bbox: (64, 77, 175, 183)
+  Fusion confidence: mean=0.679, max=0.907
+  Spectral contrast ratio: 0.297
+  LiDAR 3D Profile: elevation=1.48m, rel_height=+1.41m (vs ground), roughness=1.295m, multi-return dz=-74.246m
+  ACE score: mean=0.030, max=0.144 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.865, max=0.981
+  RX anomaly: mean=0.018, max=0.030 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.465, max=0.638
+  (Merged from 2 nearby fragments)
+
+Target #24: Red Building (Large)
+  Quality Score: 69.6/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (45% of surroundings)
+  Color: Red
+  Size: 520px (Large)
+  Centroid (row, col): (119.8, 282.5)   Bbox: (107, 138, 264, 310)
+  Fusion confidence: mean=0.763, max=0.980
+  Spectral contrast ratio: 0.116
+  LiDAR 3D Profile: elevation=0.60m, rel_height=+0.00m (vs ground), roughness=0.395m, multi-return dz=-77.121m
+  ACE score: mean=0.002, max=0.016 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.812, max=0.834
+  RX anomaly: mean=0.010, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.439, max=0.563
+
+Target #25: Red + Black/Dark Building (Medium)
+  Quality Score: 69.6/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (59% of surroundings)
+  Color: Red + Black/Dark
+  Size: 46px (Medium)
+  Centroid (row, col): (129.7, 41.4)   Bbox: (125, 134, 39, 46)
+  Fusion confidence: mean=0.707, max=0.884
+  Spectral contrast ratio: 0.278
+  LiDAR 3D Profile: elevation=9.32m, rel_height=-0.46m (vs ground), roughness=1.069m, multi-return dz=-56.394m
+  ACE score: mean=0.006, max=0.036 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.789, max=0.814
+  RX anomaly: mean=0.011, max=0.021 -> Standard background spectral profile
+  Ensemble score: mean=0.395, max=0.480
+
+Target #26: Red Building (Medium)
+  Quality Score: 69.4/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (81% of surroundings)
+  Color: Red
+  Size: 45px (Medium)
+  Centroid (row, col): (95.0, 430.1)   Bbox: (90, 99, 427, 434)
+  Fusion confidence: mean=0.704, max=0.912
+  Spectral contrast ratio: 0.276
+  LiDAR 3D Profile: elevation=0.79m, rel_height=-0.10m (vs ground), roughness=0.768m, multi-return dz=-78.633m
+  ACE score: mean=0.012, max=0.060 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.801, max=0.845
+  RX anomaly: mean=0.014, max=0.024 -> Standard background spectral profile
+  Ensemble score: mean=0.409, max=0.523
+
+Target #27: Red Building (Medium)
+  Quality Score: 69.1/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (37% of surroundings)
+  Color: Red
+  Size: 67px (Medium)
+  Centroid (row, col): (144.7, 325.1)   Bbox: (140, 151, 321, 328)
+  Fusion confidence: mean=0.747, max=0.924
+  Spectral contrast ratio: 0.537
+  LiDAR 3D Profile: elevation=0.36m, rel_height=+0.23m (vs ground), roughness=0.406m, multi-return dz=-79.398m
+  ACE score: mean=0.005, max=0.034 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.821, max=0.890
+  RX anomaly: mean=0.017, max=0.030 -> Standard background spectral profile
+  Ensemble score: mean=0.441, max=0.573
+
+Target #28: Red Building (Medium)
+  Quality Score: 69.0/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (46% of surroundings)
+  Color: Red
+  Size: 63px (Medium)
+  Centroid (row, col): (15.8, 344.1)   Bbox: (11, 20, 338, 348)
+  Fusion confidence: mean=0.753, max=0.947
+  Spectral contrast ratio: 0.244
+  LiDAR 3D Profile: elevation=1.19m, rel_height=+0.82m (vs ground), roughness=1.235m, multi-return dz=-75.857m
+  ACE score: mean=0.002, max=0.022 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.846, max=0.892
+  RX anomaly: mean=0.014, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.462, max=0.577
+
+Target #29: Red Building (Medium)
+  Quality Score: 69.0/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (47% of surroundings)
+  Color: Red
+  Size: 97px (Medium)
+  Centroid (row, col): (157.9, 319.1)   Bbox: (148, 165, 309, 327)
+  Fusion confidence: mean=0.734, max=0.988
+  Spectral contrast ratio: 0.242
+  LiDAR 3D Profile: elevation=0.44m, rel_height=+0.27m (vs ground), roughness=0.541m, multi-return dz=-77.416m
+  ACE score: mean=0.011, max=0.153 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.836, max=0.975
+  RX anomaly: mean=0.018, max=0.033 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.452, max=0.747
+
+Target #30: Red Building (Medium)
+  Quality Score: 68.9/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (62% of surroundings)
+  Color: Red
+  Size: 45px (Medium)
+  Centroid (row, col): (6.8, 589.5)   Bbox: (4, 11, 584, 593)
+  Fusion confidence: mean=0.706, max=0.873
+  Spectral contrast ratio: 0.292
+  LiDAR 3D Profile: elevation=0.88m, rel_height=+0.07m (vs ground), roughness=0.513m, multi-return dz=-82.652m
+  ACE score: mean=0.021, max=0.064 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.779, max=0.788
+  RX anomaly: mean=0.012, max=0.021 -> Standard background spectral profile
+  Ensemble score: mean=0.399, max=0.484
+
+Target #31: Red Building (Large)
+  Quality Score: 68.9/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (32% of surroundings)
+  Color: Red
+  Size: 247px (Large)
+  Centroid (row, col): (98.3, 283.6)   Bbox: (91, 109, 271, 296)
+  Fusion confidence: mean=0.740, max=0.958
+  Spectral contrast ratio: 0.294
+  LiDAR 3D Profile: elevation=0.61m, rel_height=+0.19m (vs ground), roughness=0.374m, multi-return dz=-79.185m
+  ACE score: mean=0.002, max=0.020 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.811, max=0.833
+  RX anomaly: mean=0.011, max=0.023 -> Standard background spectral profile
+  Ensemble score: mean=0.427, max=0.538
+
+Target #32: Red Building (Large)
+  Quality Score: 68.7/100 -- MEDIUM CONFIDENCE
+  Location: in Class 8 area (35% of surroundings)
+  Color: Red
+  Size: 464px (Large)
+  Centroid (row, col): (47.0, 311.6)   Bbox: (27, 62, 290, 331)
+  Fusion confidence: mean=0.728, max=0.983
+  Spectral contrast ratio: 0.231
+  LiDAR 3D Profile: elevation=0.48m, rel_height=+0.01m (vs ground), roughness=0.368m, multi-return dz=-79.042m
+  ACE score: mean=0.002, max=0.017 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.808, max=0.842
+  RX anomaly: mean=0.015, max=0.028 -> Standard background spectral profile
+  Ensemble score: mean=0.418, max=0.567
+
+Target #33: Red Building (Large)
+  Quality Score: 68.6/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (63% of surroundings)
+  Color: Red
+  Size: 206px (Large)
+  Centroid (row, col): (141.7, 297.8)   Bbox: (132, 150, 288, 308)
+  Fusion confidence: mean=0.731, max=0.986
+  Spectral contrast ratio: 0.135
+  LiDAR 3D Profile: elevation=0.56m, rel_height=+0.01m (vs ground), roughness=0.398m, multi-return dz=-76.351m
+  ACE score: mean=0.003, max=0.024 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.811, max=0.839
+  RX anomaly: mean=0.013, max=0.028 -> Standard background spectral profile
+  Ensemble score: mean=0.423, max=0.548
+
+Target #34: Red Building (Medium)
+  Quality Score: 68.4/100 -- MEDIUM CONFIDENCE
+  Location: in Vineyard area (41% of surroundings)
+  Color: Red
+  Size: 33px (Medium)
+  Centroid (row, col): (27.6, 128.5)   Bbox: (25, 31, 126, 131)
+  Fusion confidence: mean=0.747, max=0.963
+  Spectral contrast ratio: 1.633
+  LiDAR 3D Profile: elevation=6.28m, rel_height=+6.16m (vs ground), roughness=2.461m, multi-return dz=-66.177m
+  ACE score: mean=0.003, max=0.020 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.766, max=0.883
+  RX anomaly: mean=0.027, max=0.044 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.394, max=0.492
+
+Target #35: Red Building (Medium)
+  Quality Score: 68.2/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (46% of surroundings)
+  Color: Red
+  Size: 43px (Medium)
+  Centroid (row, col): (75.7, 554.6)   Bbox: (71, 82, 552, 558)
+  Fusion confidence: mean=0.707, max=0.907
+  Spectral contrast ratio: 0.184
+  LiDAR 3D Profile: elevation=1.08m, rel_height=-0.24m (vs ground), roughness=0.519m, multi-return dz=-77.156m
+  ACE score: mean=0.009, max=0.037 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.796, max=0.829
+  RX anomaly: mean=0.010, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.404, max=0.511
+
+Target #36: Red Building (Medium)
+  Quality Score: 68.1/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (38% of surroundings)
+  Color: Red
+  Size: 76px (Medium)
+  Centroid (row, col): (2.7, 7.4)   Bbox: (0, 8, 0, 18)
+  Fusion confidence: mean=0.712, max=0.926
+  Spectral contrast ratio: 0.646
+  LiDAR 3D Profile: elevation=12.14m, rel_height=-0.64m (vs ground), roughness=1.640m, multi-return dz=-58.112m
+  ACE score: mean=0.005, max=0.024 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.798
+  RX anomaly: mean=0.017, max=0.028 -> Standard background spectral profile
+  Ensemble score: mean=0.398, max=0.510
+
+Target #37: Red Building (Medium)
+  Quality Score: 67.7/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (31% of surroundings)
+  Color: Red
+  Size: 98px (Medium)
+  Centroid (row, col): (46.3, 338.6)   Bbox: (39, 54, 333, 343)
+  Fusion confidence: mean=0.723, max=0.944
+  Spectral contrast ratio: 0.123
+  LiDAR 3D Profile: elevation=0.72m, rel_height=+0.22m (vs ground), roughness=0.893m, multi-return dz=-77.919m
+  ACE score: mean=0.002, max=0.014 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.818, max=0.838
+  RX anomaly: mean=0.014, max=0.024 -> Standard background spectral profile
+  Ensemble score: mean=0.424, max=0.542
+
+Target #38: Red Building (Medium)
+  Quality Score: 67.7/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (44% of surroundings)
+  Color: Red
+  Size: 70px (Medium)
+  Centroid (row, col): (148.2, 273.7)   Bbox: (142, 154, 270, 280)
+  Fusion confidence: mean=0.723, max=0.899
+  Spectral contrast ratio: 0.425
+  LiDAR 3D Profile: elevation=0.52m, rel_height=+0.14m (vs ground), roughness=0.350m, multi-return dz=-78.541m
+  ACE score: mean=0.002, max=0.009 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.809, max=0.820
+  RX anomaly: mean=0.009, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.417, max=0.503
+
+Target #39: Red Building (Medium)
+  Quality Score: 67.5/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (42% of surroundings)
+  Color: Red
+  Size: 54px (Medium)
+  Centroid (row, col): (34.4, 348.6)   Bbox: (29, 41, 346, 352)
+  Fusion confidence: mean=0.718, max=0.920
+  Spectral contrast ratio: 0.301
+  LiDAR 3D Profile: elevation=1.26m, rel_height=+0.68m (vs ground), roughness=1.283m, multi-return dz=-75.309m
+  ACE score: mean=0.002, max=0.008 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.814, max=0.833
+  RX anomaly: mean=0.013, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.418, max=0.527
+
+Target #40: Red Building (Medium)
+  Quality Score: 67.5/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (33% of surroundings)
+  Color: Red
+  Size: 49px (Medium)
+  Centroid (row, col): (32.9, 270.0)   Bbox: (30, 37, 266, 274)
+  Fusion confidence: mean=0.727, max=0.932
+  Spectral contrast ratio: 0.281
+  LiDAR 3D Profile: elevation=0.07m, rel_height=+0.01m (vs ground), roughness=0.226m, multi-return dz=-74.867m
+  ACE score: mean=0.009, max=0.032 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.813, max=0.837
+  RX anomaly: mean=0.016, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.428, max=0.540
+
+Target #41: Red Building (Medium)
+  Quality Score: 67.4/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (52% of surroundings)
+  Color: Red
+  Size: 70px (Medium)
+  Centroid (row, col): (128.2, 324.4)   Bbox: (122, 135, 320, 328)
+  Fusion confidence: mean=0.716, max=0.932
+  Spectral contrast ratio: 0.165
+  LiDAR 3D Profile: elevation=0.53m, rel_height=+0.31m (vs ground), roughness=0.344m, multi-return dz=-78.383m
+  ACE score: mean=0.003, max=0.013 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.826, max=0.890
+  RX anomaly: mean=0.017, max=0.030 -> Standard background spectral profile
+  Ensemble score: mean=0.428, max=0.561
+
+Target #42: Red Building (Medium)
+  Quality Score: 67.1/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (34% of surroundings)
+  Color: Red
+  Size: 40px (Medium)
+  Centroid (row, col): (76.7, 518.3)   Bbox: (72, 81, 516, 520)
+  Fusion confidence: mean=0.721, max=0.899
+  Spectral contrast ratio: 0.168
+  LiDAR 3D Profile: elevation=1.23m, rel_height=-0.03m (vs ground), roughness=0.340m, multi-return dz=-80.168m
+  ACE score: mean=0.011, max=0.058 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.797, max=0.812
+  RX anomaly: mean=0.011, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.414, max=0.509
+
+Target #43: Red Building (Large)
+  Quality Score: 67.0/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (32% of surroundings)
+  Color: Red
+  Size: 182px (Large)
+  Centroid (row, col): (31.7, 305.1)   Bbox: (26, 40, 295, 318)
+  Fusion confidence: mean=0.695, max=0.916
+  Spectral contrast ratio: 0.479
+  LiDAR 3D Profile: elevation=0.68m, rel_height=+0.24m (vs ground), roughness=0.411m, multi-return dz=-78.842m
+  ACE score: mean=0.003, max=0.021 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.796, max=0.856
+  RX anomaly: mean=0.016, max=0.023 -> Standard background spectral profile
+  Ensemble score: mean=0.393, max=0.528
+
+Target #44: Red Building (Medium)
+  Quality Score: 66.9/100 -- MEDIUM CONFIDENCE
+  Location: in Class 8 area (44% of surroundings)
+  Color: Red
+  Size: 72px (Medium)
+  Centroid (row, col): (141.3, 281.7)   Bbox: (135, 148, 275, 286)
+  Fusion confidence: mean=0.701, max=0.915
+  Spectral contrast ratio: 0.307
+  LiDAR 3D Profile: elevation=0.52m, rel_height=-0.05m (vs ground), roughness=0.382m, multi-return dz=-78.567m
+  ACE score: mean=0.002, max=0.013 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.813, max=0.828
+  RX anomaly: mean=0.009, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.408, max=0.521
+
+Target #45: Red Building (Medium)
+  Quality Score: 66.5/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (45% of surroundings)
+  Color: Red
+  Size: 81px (Medium)
+  Centroid (row, col): (103.9, 222.1)   Bbox: (94, 115, 218, 226)
+  Fusion confidence: mean=0.599, max=0.790
+  Spectral contrast ratio: 0.328
+  LiDAR 3D Profile: elevation=0.54m, rel_height=+0.00m (vs ground), roughness=0.508m, multi-return dz=-82.966m
+  ACE score: mean=0.002, max=0.014 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.834, max=0.920
+  RX anomaly: mean=0.012, max=0.024 -> Standard background spectral profile
+  Ensemble score: mean=0.375, max=0.541
+
+Target #46: Red Building (Large)
+  Quality Score: 66.3/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (30% of surroundings)
+  Color: Red
+  Size: 163px (Large)
+  Centroid (row, col): (61.6, 338.7)   Bbox: (55, 69, 327, 352)
+  Fusion confidence: mean=0.693, max=0.906
+  Spectral contrast ratio: 0.198
+  LiDAR 3D Profile: elevation=0.76m, rel_height=+0.47m (vs ground), roughness=1.037m, multi-return dz=-78.544m
+  ACE score: mean=0.004, max=0.048 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.826, max=0.920
+  RX anomaly: mean=0.016, max=0.031 -> Standard background spectral profile
+  Ensemble score: mean=0.418, max=0.525
+
+Target #47: Red + Yellow/Gold Building (Medium)
+  Quality Score: 66.0/100 -- MEDIUM CONFIDENCE
+  Location: in Vineyard area (26% of surroundings)
+  Color: Red + Yellow/Gold
+  Size: 40px (Medium)
+  Centroid (row, col): (153.5, 497.2)   Bbox: (150, 158, 494, 501)
+  Fusion confidence: mean=0.677, max=0.897
+  Spectral contrast ratio: 0.448
+  LiDAR 3D Profile: elevation=3.77m, rel_height=-2.25m (vs ground), roughness=3.522m, multi-return dz=-58.029m
+  ACE score: mean=0.024, max=0.060 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.897, max=0.976
+  RX anomaly: mean=0.020, max=0.043 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.485, max=0.670
+
+Target #48: Red + Black/Dark Building (Medium)
+  Quality Score: 65.9/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (55% of surroundings)
+  Color: Red + Black/Dark
+  Size: 35px (Medium)
+  Centroid (row, col): (95.9, 53.4)   Bbox: (93, 98, 50, 57)
+  Fusion confidence: mean=0.738, max=0.943
+  Spectral contrast ratio: 0.210
+  LiDAR 3D Profile: elevation=11.43m, rel_height=+0.47m (vs ground), roughness=1.945m, multi-return dz=-56.282m
+  ACE score: mean=0.008, max=0.046 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.788, max=0.815
+  RX anomaly: mean=0.014, max=0.024 -> Standard background spectral profile
+  Ensemble score: mean=0.412, max=0.526
+
+Target #49: Red + Light Green + Green Building (Medium)
+  Quality Score: 65.0/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (42% of surroundings)
+  Color: Red + Light Green + Green
+  Size: 27px (Medium)
+  Centroid (row, col): (140.8, 236.2)   Bbox: (138, 143, 234, 239)
+  Fusion confidence: mean=0.749, max=0.969
+  Spectral contrast ratio: 0.357
+  LiDAR 3D Profile: elevation=6.12m, rel_height=+4.59m (vs ground), roughness=1.682m, multi-return dz=-38.805m
+  ACE score: mean=0.108, max=0.218 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.959, max=0.988
+  RX anomaly: mean=0.017, max=0.049 -> Standard background spectral profile
+  Ensemble score: mean=0.646, max=0.823
+
+Target #50: Red Building (Medium)
+  Quality Score: 64.4/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (49% of surroundings)
+  Color: Red
+  Size: 34px (Medium)
+  Centroid (row, col): (129.7, 21.7)   Bbox: (125, 134, 20, 23)
+  Fusion confidence: mean=0.719, max=0.883
+  Spectral contrast ratio: 0.501
+  LiDAR 3D Profile: elevation=0.52m, rel_height=-0.53m (vs ground), roughness=0.556m, multi-return dz=-89.011m
+  ACE score: mean=0.030, max=0.056 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.782, max=0.794
+  RX anomaly: mean=0.013, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.416, max=0.502
+
+Target #51: Red + Light Green Building (Medium)
+  Quality Score: 64.3/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (35% of surroundings)
+  Color: Red + Light Green
+  Size: 26px (Medium)
+  Centroid (row, col): (163.3, 577.1)   Bbox: (161, 165, 574, 580)
+  Fusion confidence: mean=0.782, max=0.989
+  Spectral contrast ratio: 0.547
+  LiDAR 3D Profile: elevation=9.72m, rel_height=+3.34m (vs ground), roughness=2.435m, multi-return dz=-52.859m
+  ACE score: mean=0.028, max=0.128 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.819, max=0.983
+  RX anomaly: mean=0.020, max=0.041 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.477, max=0.683
+
+Target #52: Red Building (Medium)
+  Quality Score: 63.9/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (37% of surroundings)
+  Color: Red
+  Size: 32px (Medium)
+  Centroid (row, col): (3.4, 425.3)   Bbox: (2, 5, 421, 430)
+  Fusion confidence: mean=0.730, max=0.910
+  Spectral contrast ratio: 0.361
+  LiDAR 3D Profile: elevation=0.51m, rel_height=+0.10m (vs ground), roughness=0.536m, multi-return dz=-77.056m
+  ACE score: mean=0.004, max=0.014 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.827, max=0.866
+  RX anomaly: mean=0.012, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.437, max=0.530
+
+Target #53: Red + Light Green + Green Building (Medium)
+  Quality Score: 63.4/100 -- MEDIUM CONFIDENCE
+  Location: in Vineyard area (42% of surroundings)
+  Color: Red + Light Green + Green
+  Size: 34px (Medium)
+  Centroid (row, col): (60.0, 177.4)   Bbox: (57, 63, 171, 181)
+  Fusion confidence: mean=0.736, max=0.961
+  Spectral contrast ratio: 0.336
+  LiDAR 3D Profile: elevation=1.45m, rel_height=+1.37m (vs ground), roughness=1.150m, multi-return dz=-73.064m
+  ACE score: mean=0.045, max=0.155 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.869, max=0.980
+  RX anomaly: mean=0.017, max=0.026 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.510, max=0.717
+  (Merged from 2 nearby fragments)
+
+Target #54: Red Building (Medium)
+  Quality Score: 63.2/100 -- MEDIUM CONFIDENCE
+  Location: in Buildings (TARGET) area (39% of surroundings)
+  Color: Red
+  Size: 45px (Medium)
+  Centroid (row, col): (7.5, 241.9)   Bbox: (5, 10, 237, 247)
+  Fusion confidence: mean=0.672, max=0.901
+  Spectral contrast ratio: 0.309
+  LiDAR 3D Profile: elevation=0.30m, rel_height=+0.14m (vs ground), roughness=0.218m, multi-return dz=-81.347m
+  ACE score: mean=0.012, max=0.053 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.788, max=0.804
+  RX anomaly: mean=0.016, max=0.027 -> Standard background spectral profile
+  Ensemble score: mean=0.383, max=0.496
+
+Target #55: Light Green + Orange/Brown + Red Building (Medium)
+  Quality Score: 62.8/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (58% of surroundings)
+  Color: Light Green + Orange/Brown + Red
+  Size: 21px (Medium)
+  Centroid (row, col): (129.0, 238.8)   Bbox: (126, 132, 237, 240)
+  Fusion confidence: mean=0.681, max=0.837
+  Spectral contrast ratio: 0.480
+  LiDAR 3D Profile: elevation=7.80m, rel_height=+4.68m (vs ground), roughness=0.833m, multi-return dz=-36.723m
+  ACE score: mean=0.097, max=0.131 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.986, max=0.989
+  RX anomaly: mean=0.015, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.624, max=0.725
+
+Target #56: Red Building (Medium)
+  Quality Score: 62.7/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (37% of surroundings)
+  Color: Red
+  Size: 45px (Medium)
+  Centroid (row, col): (46.3, 564.2)   Bbox: (43, 51, 557, 569)
+  Fusion confidence: mean=0.647, max=0.895
+  Spectral contrast ratio: 0.295
+  LiDAR 3D Profile: elevation=1.27m, rel_height=+0.25m (vs ground), roughness=0.542m, multi-return dz=-76.895m
+  ACE score: mean=0.009, max=0.043 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.824
+  RX anomaly: mean=0.010, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.369, max=0.480
+  (Merged from 2 nearby fragments)
+
+Target #57: Red Building (Medium)
+  Quality Score: 62.5/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (65% of surroundings)
+  Color: Red
+  Size: 38px (Medium)
+  Centroid (row, col): (105.6, 2.7)   Bbox: (103, 109, 0, 6)
+  Fusion confidence: mean=0.659, max=0.812
+  Spectral contrast ratio: 0.141
+  LiDAR 3D Profile: elevation=1.11m, rel_height=-0.07m (vs ground), roughness=0.555m, multi-return dz=-88.157m
+  ACE score: mean=0.038, max=0.111 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.777, max=0.786
+  RX anomaly: mean=0.012, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.389, max=0.480
+
+Target #58: Red Building (Medium)
+  Quality Score: 62.2/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (45% of surroundings)
+  Color: Red
+  Size: 32px (Medium)
+  Centroid (row, col): (43.0, 503.1)   Bbox: (40, 45, 500, 506)
+  Fusion confidence: mean=0.693, max=0.898
+  Spectral contrast ratio: 0.225
+  LiDAR 3D Profile: elevation=0.80m, rel_height=-0.17m (vs ground), roughness=0.751m, multi-return dz=-83.044m
+  ACE score: mean=0.007, max=0.035 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.802, max=0.972
+  RX anomaly: mean=0.015, max=0.048 -> Standard background spectral profile
+  Ensemble score: mean=0.401, max=0.479
+
+Target #59: Red Building (Medium)
+  Quality Score: 61.9/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (41% of surroundings)
+  Color: Red
+  Size: 36px (Medium)
+  Centroid (row, col): (137.7, 91.8)   Bbox: (135, 141, 89, 95)
+  Fusion confidence: mean=0.730, max=0.920
+  Spectral contrast ratio: 0.760
+  LiDAR 3D Profile: elevation=14.67m, rel_height=+3.17m (vs ground), roughness=1.495m, multi-return dz=-57.885m
+  ACE score: mean=0.005, max=0.020 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.779, max=0.793
+  RX anomaly: mean=0.012, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.398, max=0.490
+
+Target #60: Red Building (Medium)
+  Quality Score: 61.8/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (59% of surroundings)
+  Color: Red
+  Size: 69px (Medium)
+  Centroid (row, col): (116.2, 461.7)   Bbox: (109, 122, 457, 468)
+  Fusion confidence: mean=0.651, max=0.877
+  Spectral contrast ratio: 0.189
+  LiDAR 3D Profile: elevation=1.32m, rel_height=+0.14m (vs ground), roughness=0.445m, multi-return dz=-81.710m
+  ACE score: mean=0.015, max=0.032 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.789, max=0.813
+  RX anomaly: mean=0.014, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.375, max=0.499
+  (Merged from 3 nearby fragments)
+
+Target #61: Red Building (Medium)
+  Quality Score: 61.7/100 -- MEDIUM CONFIDENCE
+  Location: in Ground area (26% of surroundings)
+  Color: Red
+  Size: 29px (Medium)
+  Centroid (row, col): (85.7, 140.3)   Bbox: (83, 88, 137, 143)
+  Fusion confidence: mean=0.700, max=0.910
+  Spectral contrast ratio: 0.518
+  LiDAR 3D Profile: elevation=0.02m, rel_height=-0.09m (vs ground), roughness=0.036m, multi-return dz=-86.148m
+  ACE score: mean=0.013, max=0.030 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.812, max=0.822
+  RX anomaly: mean=0.014, max=0.023 -> Standard background spectral profile
+  Ensemble score: mean=0.417, max=0.535
+
+Target #62: Light Green Building (Small)
+  Quality Score: 61.4/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (27% of surroundings)
+  Color: Light Green
+  Size: 17px (Small)
+  Centroid (row, col): (151.7, 544.3)   Bbox: (150, 154, 542, 546)
+  Fusion confidence: mean=0.678, max=0.856
+  Spectral contrast ratio: 0.655
+  LiDAR 3D Profile: elevation=4.16m, rel_height=+1.55m (vs ground), roughness=4.216m, multi-return dz=-54.956m
+  ACE score: mean=0.056, max=0.085 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.964, max=0.982
+  RX anomaly: mean=0.018, max=0.026 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.569, max=0.679
+
+Target #63: Green + Red + Orange/Brown Building (Medium)
+  Quality Score: 60.7/100 -- MEDIUM CONFIDENCE
+  Location: in Vineyard area (31% of surroundings)
+  Color: Green + Red + Orange/Brown
+  Size: 29px (Medium)
+  Centroid (row, col): (143.9, 500.0)   Bbox: (140, 148, 498, 502)
+  Fusion confidence: mean=0.682, max=0.864
+  Spectral contrast ratio: 0.667
+  LiDAR 3D Profile: elevation=10.36m, rel_height=+9.61m (vs ground), roughness=3.868m, multi-return dz=-43.435m
+  ACE score: mean=0.039, max=0.092 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.941, max=0.980
+  RX anomaly: mean=0.021, max=0.044 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.537, max=0.676
+
+Target #64: Red Building (Medium)
+  Quality Score: 60.5/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (34% of surroundings)
+  Color: Red
+  Size: 41px (Medium)
+  Centroid (row, col): (112.0, 490.3)   Bbox: (108, 117, 488, 493)
+  Fusion confidence: mean=0.677, max=0.838
+  Spectral contrast ratio: 0.369
+  LiDAR 3D Profile: elevation=0.67m, rel_height=-0.17m (vs ground), roughness=0.688m, multi-return dz=-86.871m
+  ACE score: mean=0.009, max=0.033 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.812, max=0.975
+  RX anomaly: mean=0.020, max=0.056 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.402, max=0.557
+
+Target #65: Red Building (Medium)
+  Quality Score: 59.7/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (53% of surroundings)
+  Color: Red
+  Size: 32px (Medium)
+  Centroid (row, col): (79.3, 527.8)   Bbox: (76, 83, 524, 531)
+  Fusion confidence: mean=0.656, max=0.836
+  Spectral contrast ratio: 0.097
+  LiDAR 3D Profile: elevation=1.25m, rel_height=+0.04m (vs ground), roughness=0.347m, multi-return dz=-77.377m
+  ACE score: mean=0.009, max=0.045 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.796, max=0.812
+  RX anomaly: mean=0.010, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.378, max=0.468
+
+Target #66: Red Building (Medium)
+  Quality Score: 59.7/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (33% of surroundings)
+  Color: Red
+  Size: 35px (Medium)
+  Centroid (row, col): (114.9, 559.0)   Bbox: (112, 118, 556, 562)
+  Fusion confidence: mean=0.709, max=0.911
+  Spectral contrast ratio: 0.351
+  LiDAR 3D Profile: elevation=1.11m, rel_height=+0.27m (vs ground), roughness=0.636m, multi-return dz=-82.516m
+  ACE score: mean=0.014, max=0.053 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.786, max=0.799
+  RX anomaly: mean=0.011, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.401, max=0.492
+
+Target #67: Red Building (Medium)
+  Quality Score: 59.4/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (40% of surroundings)
+  Color: Red
+  Size: 34px (Medium)
+  Centroid (row, col): (13.6, 474.8)   Bbox: (10, 18, 472, 477)
+  Fusion confidence: mean=0.705, max=0.916
+  Spectral contrast ratio: 0.513
+  LiDAR 3D Profile: elevation=0.76m, rel_height=+0.02m (vs ground), roughness=0.653m, multi-return dz=-77.266m
+  ACE score: mean=0.006, max=0.017 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.813, max=0.829
+  RX anomaly: mean=0.009, max=0.014 -> Standard background spectral profile
+  Ensemble score: mean=0.414, max=0.531
+
+Target #68: Red Building (Medium)
+  Quality Score: 59.4/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (51% of surroundings)
+  Color: Red
+  Size: 36px (Medium)
+  Centroid (row, col): (154.4, 289.5)   Bbox: (152, 156, 284, 294)
+  Fusion confidence: mean=0.704, max=0.887
+  Spectral contrast ratio: 0.238
+  LiDAR 3D Profile: elevation=0.53m, rel_height=+0.18m (vs ground), roughness=0.383m, multi-return dz=-80.696m
+  ACE score: mean=0.001, max=0.008 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.812, max=0.819
+  RX anomaly: mean=0.011, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.409, max=0.499
+
+Target #69: Red + Black/Dark Building (Medium)
+  Quality Score: 59.3/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (51% of surroundings)
+  Color: Red + Black/Dark
+  Size: 32px (Medium)
+  Centroid (row, col): (83.8, 60.3)   Bbox: (78, 87, 56, 63)
+  Fusion confidence: mean=0.647, max=0.828
+  Spectral contrast ratio: 0.134
+  LiDAR 3D Profile: elevation=11.33m, rel_height=+0.34m (vs ground), roughness=1.190m, multi-return dz=-51.075m
+  ACE score: mean=0.005, max=0.037 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.818
+  RX anomaly: mean=0.014, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.364, max=0.463
+
+Target #70: Red Building (Medium)
+  Quality Score: 59.2/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (52% of surroundings)
+  Color: Red
+  Size: 30px (Medium)
+  Centroid (row, col): (131.7, 8.4)   Bbox: (129, 135, 6, 11)
+  Fusion confidence: mean=0.669, max=0.832
+  Spectral contrast ratio: 0.158
+  LiDAR 3D Profile: elevation=1.06m, rel_height=+0.07m (vs ground), roughness=0.447m, multi-return dz=-88.039m
+  ACE score: mean=0.037, max=0.076 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.782, max=0.791
+  RX anomaly: mean=0.011, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.397, max=0.482
+
+Target #71: Red Building (Medium)
+  Quality Score: 59.0/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (54% of surroundings)
+  Color: Red
+  Size: 25px (Medium)
+  Centroid (row, col): (65.4, 536.9)   Bbox: (64, 67, 534, 540)
+  Fusion confidence: mean=0.701, max=0.888
+  Spectral contrast ratio: 0.323
+  LiDAR 3D Profile: elevation=0.99m, rel_height=-0.21m (vs ground), roughness=0.507m, multi-return dz=-78.050m
+  ACE score: mean=0.011, max=0.035 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.807
+  RX anomaly: mean=0.009, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.398, max=0.503
+
+Target #72: Red Building (Medium)
+  Quality Score: 59.0/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (70% of surroundings)
+  Color: Red
+  Size: 39px (Medium)
+  Centroid (row, col): (124.4, 298.9)   Bbox: (122, 128, 295, 304)
+  Fusion confidence: mean=0.668, max=0.860
+  Spectral contrast ratio: 0.100
+  LiDAR 3D Profile: elevation=0.62m, rel_height=+0.02m (vs ground), roughness=0.390m, multi-return dz=-75.921m
+  ACE score: mean=0.002, max=0.012 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.816, max=0.824
+  RX anomaly: mean=0.011, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.394, max=0.495
+
+Target #73: Red Building (Medium)
+  Quality Score: 58.6/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (72% of surroundings)
+  Color: Red
+  Size: 34px (Medium)
+  Centroid (row, col): (45.0, 424.0)   Bbox: (42, 48, 421, 427)
+  Fusion confidence: mean=0.610, max=0.762
+  Spectral contrast ratio: 0.383
+  LiDAR 3D Profile: elevation=1.05m, rel_height=+0.22m (vs ground), roughness=0.596m, multi-return dz=-81.218m
+  ACE score: mean=0.024, max=0.061 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.789, max=0.812
+  RX anomaly: mean=0.012, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.362, max=0.453
+
+Target #74: Red Building (Medium)
+  Quality Score: 58.4/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (69% of surroundings)
+  Color: Red
+  Size: 38px (Medium)
+  Centroid (row, col): (140.4, 414.7)   Bbox: (136, 143, 409, 421)
+  Fusion confidence: mean=0.691, max=0.891
+  Spectral contrast ratio: 0.168
+  LiDAR 3D Profile: elevation=1.35m, rel_height=+0.20m (vs ground), roughness=1.051m, multi-return dz=-75.609m
+  ACE score: mean=0.006, max=0.021 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.787, max=0.806
+  RX anomaly: mean=0.015, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.386, max=0.492
+  (Merged from 2 nearby fragments)
+
+Target #75: Light Green + Green + Orange/Brown Building (Medium)
+  Quality Score: 57.8/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (36% of surroundings)
+  Color: Light Green + Green + Orange/Brown
+  Size: 28px (Medium)
+  Centroid (row, col): (73.4, 247.1)   Bbox: (69, 76, 241, 250)
+  Fusion confidence: mean=0.677, max=0.842
+  Spectral contrast ratio: 0.457
+  LiDAR 3D Profile: elevation=6.92m, rel_height=+3.68m (vs ground), roughness=1.453m, multi-return dz=-42.506m
+  ACE score: mean=0.104, max=0.213 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.980, max=0.989
+  RX anomaly: mean=0.021, max=0.056 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.624, max=0.805
+  (Merged from 3 nearby fragments)
+
+Target #76: Red Building (Medium)
+  Quality Score: 57.4/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (30% of surroundings)
+  Color: Red
+  Size: 21px (Medium)
+  Centroid (row, col): (163.3, 38.9)   Bbox: (161, 165, 37, 41)
+  Fusion confidence: mean=0.719, max=0.869
+  Spectral contrast ratio: 0.340
+  LiDAR 3D Profile: elevation=9.07m, rel_height=+0.82m (vs ground), roughness=0.454m, multi-return dz=-61.075m
+  ACE score: mean=0.007, max=0.024 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.791, max=0.797
+  RX anomaly: mean=0.010, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.404, max=0.485
+
+Target #77: Red + Black/Dark Building (Medium)
+  Quality Score: 56.9/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (59% of surroundings)
+  Color: Red + Black/Dark
+  Size: 24px (Medium)
+  Centroid (row, col): (31.2, 39.5)   Bbox: (29, 37, 37, 42)
+  Fusion confidence: mean=0.681, max=0.857
+  Spectral contrast ratio: 0.587
+  LiDAR 3D Profile: elevation=13.95m, rel_height=+1.28m (vs ground), roughness=0.988m, multi-return dz=-57.956m
+  ACE score: mean=0.002, max=0.011 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.782, max=0.797
+  RX anomaly: mean=0.016, max=0.025 -> Standard background spectral profile
+  Ensemble score: mean=0.373, max=0.462
+  (Merged from 2 nearby fragments)
+
+Target #78: Red Building (Medium)
+  Quality Score: 56.7/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (70% of surroundings)
+  Color: Red
+  Size: 29px (Medium)
+  Centroid (row, col): (142.6, 6.8)   Bbox: (140, 145, 0, 10)
+  Fusion confidence: mean=0.641, max=0.788
+  Spectral contrast ratio: 0.477
+  LiDAR 3D Profile: elevation=1.14m, rel_height=+0.08m (vs ground), roughness=0.434m, multi-return dz=-91.375m
+  ACE score: mean=0.032, max=0.062 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.779, max=0.785
+  RX anomaly: mean=0.011, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.376, max=0.455
+  (Merged from 2 nearby fragments)
+
+Target #79: Red Building (Medium)
+  Quality Score: 56.4/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (60% of surroundings)
+  Color: Red
+  Size: 45px (Medium)
+  Centroid (row, col): (44.9, 281.1)   Bbox: (38, 50, 277, 285)
+  Fusion confidence: mean=0.715, max=0.922
+  Spectral contrast ratio: 0.270
+  LiDAR 3D Profile: elevation=0.19m, rel_height=+0.02m (vs ground), roughness=0.284m, multi-return dz=-80.707m
+  ACE score: mean=0.014, max=0.039 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.817, max=0.861
+  RX anomaly: mean=0.015, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.430, max=0.523
+  (Merged from 2 nearby fragments)
+
+Target #80: Red Building (Medium)
+  Quality Score: 56.3/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (46% of surroundings)
+  Color: Red
+  Size: 31px (Medium)
+  Centroid (row, col): (67.5, 368.1)   Bbox: (63, 71, 365, 373)
+  Fusion confidence: mean=0.640, max=0.782
+  Spectral contrast ratio: 0.567
+  LiDAR 3D Profile: elevation=1.77m, rel_height=+1.61m (vs ground), roughness=1.351m, multi-return dz=-76.384m
+  ACE score: mean=0.013, max=0.036 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.813, max=0.970
+  RX anomaly: mean=0.017, max=0.025 -> Standard background spectral profile
+  Ensemble score: mean=0.387, max=0.463
+  (Merged from 2 nearby fragments)
+
+Target #81: Red Building (Medium)
+  Quality Score: 56.2/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (62% of surroundings)
+  Color: Red
+  Size: 51px (Medium)
+  Centroid (row, col): (76.9, 543.2)   Bbox: (70, 82, 538, 548)
+  Fusion confidence: mean=0.648, max=0.864
+  Spectral contrast ratio: 0.275
+  LiDAR 3D Profile: elevation=0.87m, rel_height=-0.38m (vs ground), roughness=0.585m, multi-return dz=-76.380m
+  ACE score: mean=0.005, max=0.018 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.799, max=0.827
+  RX anomaly: mean=0.010, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.372, max=0.479
+  (Merged from 2 nearby fragments)
+
+Target #82: Red Building (Medium)
+  Quality Score: 55.9/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (34% of surroundings)
+  Color: Red
+  Size: 33px (Medium)
+  Centroid (row, col): (77.8, 565.1)   Bbox: (72, 83, 564, 567)
+  Fusion confidence: mean=0.661, max=0.833
+  Spectral contrast ratio: 0.374
+  LiDAR 3D Profile: elevation=1.10m, rel_height=+0.28m (vs ground), roughness=0.494m, multi-return dz=-81.836m
+  ACE score: mean=0.011, max=0.033 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.788, max=0.805
+  RX anomaly: mean=0.010, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.376, max=0.471
+
+Target #83: Red Building (Medium)
+  Quality Score: 55.6/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (35% of surroundings)
+  Color: Red
+  Size: 25px (Medium)
+  Centroid (row, col): (81.4, 18.6)   Bbox: (78, 85, 16, 20)
+  Fusion confidence: mean=0.633, max=0.793
+  Spectral contrast ratio: 0.536
+  LiDAR 3D Profile: elevation=7.34m, rel_height=+2.18m (vs ground), roughness=1.508m, multi-return dz=-70.059m
+  ACE score: mean=0.008, max=0.025 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.779, max=0.786
+  RX anomaly: mean=0.016, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.351, max=0.442
+
+Target #84: Red Building (Medium)
+  Quality Score: 55.5/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (47% of surroundings)
+  Color: Red
+  Size: 22px (Medium)
+  Centroid (row, col): (56.8, 1.9)   Bbox: (55, 59, 0, 4)
+  Fusion confidence: mean=0.654, max=0.824
+  Spectral contrast ratio: 0.620
+  LiDAR 3D Profile: elevation=10.50m, rel_height=+1.28m (vs ground), roughness=0.713m, multi-return dz=-60.224m
+  ACE score: mean=0.004, max=0.015 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.779, max=0.787
+  RX anomaly: mean=0.018, max=0.027 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.358, max=0.445
+
+Target #85: Black/Dark + Red Building (Medium)
+  Quality Score: 55.4/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (41% of surroundings)
+  Color: Black/Dark + Red
+  Size: 21px (Medium)
+  Centroid (row, col): (21.7, 280.3)   Bbox: (21, 23, 276, 285)
+  Fusion confidence: mean=0.619, max=0.733
+  Spectral contrast ratio: 1.125
+  LiDAR 3D Profile: elevation=1.21m, rel_height=+0.83m (vs ground), roughness=1.276m, multi-return dz=-68.269m
+  ACE score: mean=0.057, max=0.110 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.951, max=0.972
+  RX anomaly: mean=0.017, max=0.024 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.529, max=0.633
+
+Target #86: Yellow/Gold + Red Building (Medium)
+  Quality Score: 55.1/100 -- MEDIUM CONFIDENCE
+  Location: in Buildings (TARGET) area (29% of surroundings)
+  Color: Yellow/Gold + Red
+  Size: 38px (Medium)
+  Centroid (row, col): (134.6, 491.8)   Bbox: (128, 140, 488, 494)
+  Fusion confidence: mean=0.623, max=0.780
+  Spectral contrast ratio: 0.812
+  LiDAR 3D Profile: elevation=0.52m, rel_height=+0.41m (vs ground), roughness=0.646m, multi-return dz=-82.067m
+  ACE score: mean=0.004, max=0.029 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.896, max=0.974
+  RX anomaly: mean=0.029, max=0.045 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.441, max=0.580
+  (Merged from 2 nearby fragments)
+
+Target #87: Light Green Building (Small)
+  Quality Score: 54.1/100 -- MEDIUM CONFIDENCE
+  Location: in Vineyard area (53% of surroundings)
+  Color: Light Green
+  Size: 12px (Small)
+  Centroid (row, col): (28.2, 112.8)   Bbox: (26, 30, 112, 114)
+  Fusion confidence: mean=0.605, max=0.709
+  Spectral contrast ratio: 0.671
+  LiDAR 3D Profile: elevation=13.00m, rel_height=+1.64m (vs ground), roughness=0.417m, multi-return dz=-35.662m
+  ACE score: mean=0.116, max=0.170 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.976, max=0.985
+  RX anomaly: mean=0.021, max=0.033 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.594, max=0.658
+
+Target #88: Red Building (Medium)
+  Quality Score: 53.7/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (54% of surroundings)
+  Color: Red
+  Size: 28px (Medium)
+  Centroid (row, col): (22.4, 335.1)   Bbox: (20, 26, 331, 339)
+  Fusion confidence: mean=0.673, max=0.834
+  Spectral contrast ratio: 0.316
+  LiDAR 3D Profile: elevation=0.46m, rel_height=-0.00m (vs ground), roughness=0.433m, multi-return dz=-75.716m
+  ACE score: mean=0.002, max=0.013 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.823, max=0.852
+  RX anomaly: mean=0.014, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.403, max=0.507
+
+Target #89: Red Building (Small)
+  Quality Score: 53.7/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (40% of surroundings)
+  Color: Red
+  Size: 17px (Small)
+  Centroid (row, col): (37.4, 580.4)   Bbox: (35, 39, 578, 582)
+  Fusion confidence: mean=0.638, max=0.815
+  Spectral contrast ratio: 1.322
+  LiDAR 3D Profile: elevation=3.31m, rel_height=+2.44m (vs ground), roughness=2.292m, multi-return dz=-74.333m
+  ACE score: mean=0.004, max=0.026 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.788, max=0.807
+  RX anomaly: mean=0.012, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.358, max=0.458
+
+Target #90: Red Building (Small)
+  Quality Score: 53.4/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (42% of surroundings)
+  Color: Red
+  Size: 22px (Medium)
+  Centroid (row, col): (4.7, 277.8)   Bbox: (0, 8, 276, 279)
+  Fusion confidence: mean=0.661, max=0.835
+  Spectral contrast ratio: 0.607
+  LiDAR 3D Profile: elevation=0.54m, rel_height=-0.07m (vs ground), roughness=0.356m, multi-return dz=-82.340m
+  ACE score: mean=0.041, max=0.065 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.775, max=0.781
+  RX anomaly: mean=0.022, max=0.033 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.390, max=0.468
+  (Merged from 2 nearby fragments)
+
+Target #91: Red Building (Small)
+  Quality Score: 53.4/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (57% of surroundings)
+  Color: Red
+  Size: 33px (Medium)
+  Centroid (row, col): (76.8, 52.8)   Bbox: (71, 82, 49, 57)
+  Fusion confidence: mean=0.665, max=0.816
+  Spectral contrast ratio: 0.202
+  LiDAR 3D Profile: elevation=12.99m, rel_height=+1.06m (vs ground), roughness=1.354m, multi-return dz=-53.482m
+  ACE score: mean=0.004, max=0.015 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.786, max=0.801
+  RX anomaly: mean=0.013, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.370, max=0.445
+  (Merged from 2 nearby fragments)
+
+Target #92: Red Building (Medium)
+  Quality Score: 53.2/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (50% of surroundings)
+  Color: Red
+  Size: 29px (Medium)
+  Centroid (row, col): (10.2, 352.9)   Bbox: (6, 14, 350, 355)
+  Fusion confidence: mean=0.653, max=0.822
+  Spectral contrast ratio: 0.236
+  LiDAR 3D Profile: elevation=0.45m, rel_height=+0.02m (vs ground), roughness=0.490m, multi-return dz=-76.209m
+  ACE score: mean=0.005, max=0.043 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.849, max=0.923
+  RX anomaly: mean=0.014, max=0.023 -> Standard background spectral profile
+  Ensemble score: mean=0.417, max=0.516
+
+Target #93: Red Building (Small)
+  Quality Score: 53.0/100 -- MEDIUM CONFIDENCE
+  Location: in Vineyard area (33% of surroundings)
+  Color: Red
+  Size: 9px (Small)
+  Centroid (row, col): (43.0, 236.0)   Bbox: (42, 44, 235, 237)
+  Fusion confidence: mean=0.611, max=0.738
+  Spectral contrast ratio: 0.514
+  LiDAR 3D Profile: elevation=2.55m, rel_height=+2.42m (vs ground), roughness=0.836m, multi-return dz=-60.008m
+  ACE score: mean=0.069, max=0.169 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.908, max=0.960
+  RX anomaly: mean=0.011, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.500, max=0.642
+
+Target #94: Red + Black/Dark Building (Medium)
+  Quality Score: 53.0/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (43% of surroundings)
+  Color: Red + Black/Dark
+  Size: 20px (Medium)
+  Centroid (row, col): (79.4, 89.0)   Bbox: (75, 83, 88, 90)
+  Fusion confidence: mean=0.642, max=0.821
+  Spectral contrast ratio: 0.117
+  LiDAR 3D Profile: elevation=1.44m, rel_height=-2.27m (vs ground), roughness=0.936m, multi-return dz=-80.113m
+  ACE score: mean=0.013, max=0.041 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.847, max=0.973
+  RX anomaly: mean=0.019, max=0.043 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.417, max=0.537
+
+Target #95: Red Building (Medium)
+  Quality Score: 52.7/100 -- MEDIUM CONFIDENCE
+  Location: in Vineyard area (41% of surroundings)
+  Color: Red
+  Size: 22px (Medium)
+  Centroid (row, col): (2.6, 394.0)   Bbox: (0, 4, 391, 398)
+  Fusion confidence: mean=0.599, max=0.742
+  Spectral contrast ratio: 0.801
+  LiDAR 3D Profile: elevation=2.26m, rel_height=-0.64m (vs ground), roughness=3.263m, multi-return dz=-52.924m
+  ACE score: mean=0.009, max=0.033 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.839, max=0.969
+  RX anomaly: mean=0.015, max=0.026 -> Standard background spectral profile
+  Ensemble score: mean=0.385, max=0.522
+
+Target #96: Red Building (Medium)
+  Quality Score: 52.7/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (53% of surroundings)
+  Color: Red
+  Size: 22px (Medium)
+  Centroid (row, col): (107.0, 357.1)   Bbox: (102, 112, 356, 358)
+  Fusion confidence: mean=0.615, max=0.769
+  Spectral contrast ratio: 0.315
+  LiDAR 3D Profile: elevation=1.07m, rel_height=-0.15m (vs ground), roughness=0.398m, multi-return dz=-77.340m
+  ACE score: mean=0.010, max=0.045 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.794, max=0.808
+  RX anomaly: mean=0.015, max=0.024 -> Standard background spectral profile
+  Ensemble score: mean=0.356, max=0.447
+
+Target #97: Red Building (Medium)
+  Quality Score: 52.5/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (54% of surroundings)
+  Color: Red
+  Size: 20px (Medium)
+  Centroid (row, col): (17.7, 39.2)   Bbox: (15, 20, 37, 41)
+  Fusion confidence: mean=0.623, max=0.765
+  Spectral contrast ratio: 0.592
+  LiDAR 3D Profile: elevation=14.96m, rel_height=+1.18m (vs ground), roughness=1.967m, multi-return dz=-51.385m
+  ACE score: mean=0.003, max=0.017 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.785, max=0.800
+  RX anomaly: mean=0.017, max=0.025 -> Standard background spectral profile
+  Ensemble score: mean=0.347, max=0.422
+
+Target #98: Red + Black/Dark Building (Medium)
+  Quality Score: 52.4/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (38% of surroundings)
+  Color: Red + Black/Dark
+  Size: 22px (Medium)
+  Centroid (row, col): (144.9, 59.5)   Bbox: (141, 148, 58, 61)
+  Fusion confidence: mean=0.627, max=0.736
+  Spectral contrast ratio: 0.218
+  LiDAR 3D Profile: elevation=9.85m, rel_height=-1.02m (vs ground), roughness=1.681m, multi-return dz=-50.561m
+  ACE score: mean=0.007, max=0.043 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.805
+  RX anomaly: mean=0.011, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.356, max=0.433
+
+Target #99: Red + Black/Dark Building (Medium)
+  Quality Score: 52.3/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (53% of surroundings)
+  Color: Red + Black/Dark
+  Size: 26px (Medium)
+  Centroid (row, col): (46.1, 3.4)   Bbox: (42, 48, 0, 7)
+  Fusion confidence: mean=0.626, max=0.788
+  Spectral contrast ratio: 0.286
+  LiDAR 3D Profile: elevation=10.81m, rel_height=+0.04m (vs ground), roughness=0.962m, multi-return dz=-57.594m
+  ACE score: mean=0.010, max=0.070 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.793, max=0.818
+  RX anomaly: mean=0.013, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.361, max=0.453
+  (Merged from 2 nearby fragments)
+
+Target #100: Red Building (Small)
+  Quality Score: 52.3/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (57% of surroundings)
+  Color: Red
+  Size: 25px (Medium)
+  Centroid (row, col): (86.9, 2.5)   Bbox: (80, 92, 0, 6)
+  Fusion confidence: mean=0.670, max=0.838
+  Spectral contrast ratio: 0.153
+  LiDAR 3D Profile: elevation=1.00m, rel_height=+0.53m (vs ground), roughness=0.590m, multi-return dz=-84.621m
+  ACE score: mean=0.029, max=0.064 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.784, max=0.801
+  RX anomaly: mean=0.012, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.392, max=0.487
+  (Merged from 3 nearby fragments)
+
+Target #101: Red Building (Medium)
+  Quality Score: 52.2/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (32% of surroundings)
+  Color: Red
+  Size: 20px (Medium)
+  Centroid (row, col): (89.9, 176.7)   Bbox: (87, 93, 175, 178)
+  Fusion confidence: mean=0.716, max=0.837
+  Spectral contrast ratio: 0.802
+  LiDAR 3D Profile: elevation=1.76m, rel_height=+1.70m (vs ground), roughness=0.979m, multi-return dz=-79.288m
+  ACE score: mean=0.004, max=0.014 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.780, max=0.801
+  RX anomaly: mean=0.015, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.390, max=0.448
+
+Target #102: Red Building (Medium)
+  Quality Score: 51.9/100 -- MEDIUM CONFIDENCE
+  Location: in Buildings (TARGET) area (26% of surroundings)
+  Color: Red
+  Size: 21px (Medium)
+  Centroid (row, col): (73.5, 345.0)   Bbox: (71, 76, 343, 347)
+  Fusion confidence: mean=0.703, max=0.866
+  Spectral contrast ratio: 0.398
+  LiDAR 3D Profile: elevation=1.24m, rel_height=+0.77m (vs ground), roughness=1.112m, multi-return dz=-77.046m
+  ACE score: mean=0.002, max=0.010 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.838, max=0.882
+  RX anomaly: mean=0.016, max=0.025 -> Standard background spectral profile
+  Ensemble score: mean=0.430, max=0.548
+
+Target #103: Red + Black/Dark Building (Medium)
+  Quality Score: 51.7/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (36% of surroundings)
+  Color: Red + Black/Dark
+  Size: 24px (Medium)
+  Centroid (row, col): (101.8, 132.3)   Bbox: (99, 104, 130, 135)
+  Fusion confidence: mean=0.647, max=0.817
+  Spectral contrast ratio: 0.895
+  LiDAR 3D Profile: elevation=3.95m, rel_height=+3.31m (vs ground), roughness=1.900m, multi-return dz=-74.754m
+  ACE score: mean=0.011, max=0.036 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.779, max=0.819
+  RX anomaly: mean=0.013, max=0.021 -> Standard background spectral profile
+  Ensemble score: mean=0.361, max=0.459
+
+Target #104: Red Building (Small)
+  Quality Score: 51.5/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (86% of surroundings)
+  Color: Red
+  Size: 21px (Medium)
+  Centroid (row, col): (163.7, 405.9)   Bbox: (162, 165, 399, 409)
+  Fusion confidence: mean=0.633, max=0.791
+  Spectral contrast ratio: 0.265
+  LiDAR 3D Profile: elevation=0.94m, rel_height=+0.11m (vs ground), roughness=0.928m, multi-return dz=-76.336m
+  ACE score: mean=0.004, max=0.017 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.793, max=0.805
+  RX anomaly: mean=0.014, max=0.023 -> Standard background spectral profile
+  Ensemble score: mean=0.360, max=0.431
+  (Merged from 2 nearby fragments)
+
+Target #105: Red Building (Small)
+  Quality Score: 51.3/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (50% of surroundings)
+  Color: Red
+  Size: 13px (Small)
+  Centroid (row, col): (151.4, 243.6)   Bbox: (150, 153, 242, 245)
+  Fusion confidence: mean=0.665, max=0.829
+  Spectral contrast ratio: 0.538
+  LiDAR 3D Profile: elevation=2.17m, rel_height=+1.06m (vs ground), roughness=1.361m, multi-return dz=-71.680m
+  ACE score: mean=0.004, max=0.015 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.786, max=0.826
+  RX anomaly: mean=0.011, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.369, max=0.443
+
+Target #106: Red Building (Small)
+  Quality Score: 51.1/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (55% of surroundings)
+  Color: Red
+  Size: 19px (Small)
+  Centroid (row, col): (89.5, 81.8)   Bbox: (86, 95, 79, 83)
+  Fusion confidence: mean=0.620, max=0.772
+  Spectral contrast ratio: 0.685
+  LiDAR 3D Profile: elevation=11.05m, rel_height=+1.14m (vs ground), roughness=0.779m, multi-return dz=-55.834m
+  ACE score: mean=0.003, max=0.012 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.788, max=0.792
+  RX anomaly: mean=0.013, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.348, max=0.424
+  (Merged from 2 nearby fragments)
+
+Target #107: Red Building (Medium)
+  Quality Score: 51.0/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (28% of surroundings)
+  Color: Red
+  Size: 21px (Medium)
+  Centroid (row, col): (21.2, 208.1)   Bbox: (19, 23, 205, 211)
+  Fusion confidence: mean=0.595, max=0.725
+  Spectral contrast ratio: 0.387
+  LiDAR 3D Profile: elevation=0.95m, rel_height=+0.12m (vs ground), roughness=0.572m, multi-return dz=-83.341m
+  ACE score: mean=0.024, max=0.051 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.778, max=0.790
+  RX anomaly: mean=0.016, max=0.024 -> Standard background spectral profile
+  Ensemble score: mean=0.345, max=0.409
+
+Target #108: Red Building (Small)
+  Quality Score: 51.0/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (60% of surroundings)
+  Color: Red
+  Size: 14px (Small)
+  Centroid (row, col): (116.5, 528.5)   Bbox: (115, 118, 527, 530)
+  Fusion confidence: mean=0.679, max=0.799
+  Spectral contrast ratio: 0.122
+  LiDAR 3D Profile: elevation=1.21m, rel_height=-0.10m (vs ground), roughness=0.514m, multi-return dz=-79.934m
+  ACE score: mean=0.008, max=0.021 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.811
+  RX anomaly: mean=0.009, max=0.013 -> Standard background spectral profile
+  Ensemble score: mean=0.384, max=0.445
+
+Target #109: Red Building (Small)
+  Quality Score: 50.8/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (33% of surroundings)
+  Color: Red
+  Size: 20px (Medium)
+  Centroid (row, col): (157.9, 76.3)   Bbox: (152, 162, 75, 78)
+  Fusion confidence: mean=0.609, max=0.749
+  Spectral contrast ratio: 1.124
+  LiDAR 3D Profile: elevation=13.78m, rel_height=+3.03m (vs ground), roughness=0.729m, multi-return dz=-52.850m
+  ACE score: mean=0.004, max=0.021 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.780, max=0.786
+  RX anomaly: mean=0.010, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.337, max=0.410
+  (Merged from 2 nearby fragments)
+
+Target #110: Red Building (Small)
+  Quality Score: 50.6/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (54% of surroundings)
+  Color: Red
+  Size: 16px (Small)
+  Centroid (row, col): (82.8, 504.6)   Bbox: (81, 85, 502, 506)
+  Fusion confidence: mean=0.629, max=0.770
+  Spectral contrast ratio: 0.539
+  LiDAR 3D Profile: elevation=1.45m, rel_height=+0.33m (vs ground), roughness=0.385m, multi-return dz=-81.545m
+  ACE score: mean=0.016, max=0.040 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.783, max=0.792
+  RX anomaly: mean=0.012, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.359, max=0.423
+
+Target #111: Red Building (Small)
+  Quality Score: 50.5/100 -- MEDIUM CONFIDENCE
+  Location: in Apple trees area (35% of surroundings)
+  Color: Red
+  Size: 16px (Small)
+  Centroid (row, col): (103.9, 508.0)   Bbox: (102, 107, 506, 509)
+  Fusion confidence: mean=0.612, max=0.763
+  Spectral contrast ratio: 0.791
+  LiDAR 3D Profile: elevation=1.37m, rel_height=+0.02m (vs ground), roughness=0.274m, multi-return dz=-82.003m
+  ACE score: mean=0.030, max=0.054 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.793, max=0.801
+  RX anomaly: mean=0.012, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.371, max=0.456
+
+Target #112: Red Building (Medium)
+  Quality Score: 50.5/100 -- MEDIUM CONFIDENCE
+  Location: in Class 9 area (54% of surroundings)
+  Color: Red
+  Size: 23px (Medium)
+  Centroid (row, col): (127.5, 285.6)   Bbox: (125, 131, 284, 287)
+  Fusion confidence: mean=0.647, max=0.831
+  Spectral contrast ratio: 0.420
+  LiDAR 3D Profile: elevation=0.73m, rel_height=+0.11m (vs ground), roughness=0.494m, multi-return dz=-77.970m
+  ACE score: mean=0.003, max=0.018 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.807, max=0.818
+  RX anomaly: mean=0.010, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.378, max=0.471
+
+Target #113: Red Building (Medium)
+  Quality Score: 50.2/100 -- MEDIUM CONFIDENCE
+  Location: in Buildings (TARGET) area (34% of surroundings)
+  Color: Red
+  Size: 22px (Medium)
+  Centroid (row, col): (88.8, 196.2)   Bbox: (86, 91, 194, 200)
+  Fusion confidence: mean=0.659, max=0.865
+  Spectral contrast ratio: 0.596
+  LiDAR 3D Profile: elevation=0.83m, rel_height=+0.56m (vs ground), roughness=0.507m, multi-return dz=-84.266m
+  ACE score: mean=0.006, max=0.027 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.804, max=0.816
+  RX anomaly: mean=0.014, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.384, max=0.486
+  (Merged from 2 nearby fragments)
+
+Target #114: Red Building (Medium)
+  Quality Score: 49.8/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (51% of surroundings)
+  Color: Red
+  Size: 24px (Medium)
+  Centroid (row, col): (111.1, 331.0)   Bbox: (108, 114, 329, 334)
+  Fusion confidence: mean=0.647, max=0.793
+  Spectral contrast ratio: 0.142
+  LiDAR 3D Profile: elevation=0.42m, rel_height=+0.27m (vs ground), roughness=0.431m, multi-return dz=-79.867m
+  ACE score: mean=0.001, max=0.004 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.842, max=0.898
+  RX anomaly: mean=0.019, max=0.030 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.405, max=0.505
+
+Target #115: Red Building (Small)
+  Quality Score: 49.7/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (56% of surroundings)
+  Color: Red
+  Size: 15px (Small)
+  Centroid (row, col): (139.4, 74.7)   Bbox: (138, 141, 72, 77)
+  Fusion confidence: mean=0.641, max=0.759
+  Spectral contrast ratio: 0.203
+  LiDAR 3D Profile: elevation=11.20m, rel_height=-0.30m (vs ground), roughness=1.944m, multi-return dz=-58.133m
+  ACE score: mean=0.008, max=0.034 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.786, max=0.793
+  RX anomaly: mean=0.009, max=0.011 -> Standard background spectral profile
+  Ensemble score: mean=0.362, max=0.420
+
+Target #116: Red Building (Small)
+  Quality Score: 49.7/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (42% of surroundings)
+  Color: Red
+  Size: 13px (Small)
+  Centroid (row, col): (141.0, 247.8)   Bbox: (139, 143, 247, 249)
+  Fusion confidence: mean=0.629, max=0.786
+  Spectral contrast ratio: 0.678
+  LiDAR 3D Profile: elevation=2.32m, rel_height=+1.20m (vs ground), roughness=1.057m, multi-return dz=-79.146m
+  ACE score: mean=0.009, max=0.024 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.817
+  RX anomaly: mean=0.009, max=0.012 -> Standard background spectral profile
+  Ensemble score: mean=0.360, max=0.432
+
+Target #117: Red Building (Small)
+  Quality Score: 49.7/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (59% of surroundings)
+  Color: Red
+  Size: 14px (Small)
+  Centroid (row, col): (158.7, 20.6)   Bbox: (157, 161, 19, 22)
+  Fusion confidence: mean=0.646, max=0.774
+  Spectral contrast ratio: 0.221
+  LiDAR 3D Profile: elevation=1.33m, rel_height=+0.27m (vs ground), roughness=0.479m, multi-return dz=-84.814m
+  ACE score: mean=0.029, max=0.049 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.783, max=0.789
+  RX anomaly: mean=0.010, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.379, max=0.443
+
+Target #118: Red Building (Medium)
+  Quality Score: 49.5/100 -- LOW CONFIDENCE
+  Location: in Buildings (TARGET) area (31% of surroundings)
+  Color: Red
+  Size: 27px (Medium)
+  Centroid (row, col): (125.3, 554.9)   Bbox: (122, 128, 550, 558)
+  Fusion confidence: mean=0.653, max=0.790
+  Spectral contrast ratio: 0.387
+  LiDAR 3D Profile: elevation=1.29m, rel_height=+0.43m (vs ground), roughness=0.492m, multi-return dz=-82.843m
+  ACE score: mean=0.014, max=0.042 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.782, max=0.796
+  RX anomaly: mean=0.011, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.370, max=0.445
+  (Merged from 2 nearby fragments)
+
+Target #119: Red Building (Small)
+  Quality Score: 49.5/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (50% of surroundings)
+  Color: Red
+  Size: 12px (Small)
+  Centroid (row, col): (138.0, 551.8)   Bbox: (137, 139, 549, 554)
+  Fusion confidence: mean=0.610, max=0.712
+  Spectral contrast ratio: 0.755
+  LiDAR 3D Profile: elevation=5.41m, rel_height=+4.45m (vs ground), roughness=2.223m, multi-return dz=-45.336m
+  ACE score: mean=0.073, max=0.165 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.917, max=0.986
+  RX anomaly: mean=0.012, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.511, max=0.678
+
+Target #120: Red Building (Small)
+  Quality Score: 49.2/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (57% of surroundings)
+  Color: Red
+  Size: 16px (Small)
+  Centroid (row, col): (35.8, 492.8)   Bbox: (34, 37, 490, 496)
+  Fusion confidence: mean=0.600, max=0.728
+  Spectral contrast ratio: 0.630
+  LiDAR 3D Profile: elevation=1.08m, rel_height=-0.09m (vs ground), roughness=0.526m, multi-return dz=-78.793m
+  ACE score: mean=0.013, max=0.043 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.795, max=0.824
+  RX anomaly: mean=0.011, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.352, max=0.415
+
+Target #121: Red Building (Small)
+  Quality Score: 49.2/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (40% of surroundings)
+  Color: Red
+  Size: 5px (Small)
+  Centroid (row, col): (130.2, 580.6)   Bbox: (129, 131, 580, 581)
+  Fusion confidence: mean=0.575, max=0.616
+  Spectral contrast ratio: 1.165
+  LiDAR 3D Profile: elevation=0.15m, rel_height=-0.14m (vs ground), roughness=0.017m, multi-return dz=-98.653m
+  ACE score: mean=0.066, max=0.088 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.783, max=0.784
+  RX anomaly: mean=0.021, max=0.023 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.376, max=0.398
+
+Target #122: Red Building (Small)
+  Quality Score: 49.1/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (45% of surroundings)
+  Color: Red
+  Size: 13px (Small)
+  Centroid (row, col): (12.5, 483.6)   Bbox: (11, 14, 482, 485)
+  Fusion confidence: mean=0.635, max=0.766
+  Spectral contrast ratio: 0.468
+  LiDAR 3D Profile: elevation=0.36m, rel_height=-0.47m (vs ground), roughness=0.530m, multi-return dz=-79.796m
+  ACE score: mean=0.004, max=0.014 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.814, max=0.834
+  RX anomaly: mean=0.010, max=0.013 -> Standard background spectral profile
+  Ensemble score: mean=0.378, max=0.443
+
+Target #123: Red Building (Medium)
+  Quality Score: 49.1/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (28% of surroundings)
+  Color: Red
+  Size: 21px (Medium)
+  Centroid (row, col): (21.4, 155.9)   Bbox: (17, 25, 155, 157)
+  Fusion confidence: mean=0.616, max=0.781
+  Spectral contrast ratio: 1.173
+  LiDAR 3D Profile: elevation=1.16m, rel_height=+1.01m (vs ground), roughness=0.814m, multi-return dz=-79.602m
+  ACE score: mean=0.006, max=0.021 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.814, max=0.928
+  RX anomaly: mean=0.017, max=0.027 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.370, max=0.484
+
+Target #124: Red Building (Small)
+  Quality Score: 49.1/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (83% of surroundings)
+  Color: Red
+  Size: 19px (Small)
+  Centroid (row, col): (114.3, 398.6)   Bbox: (111, 116, 396, 401)
+  Fusion confidence: mean=0.586, max=0.714
+  Spectral contrast ratio: 0.194
+  LiDAR 3D Profile: elevation=0.86m, rel_height=-0.06m (vs ground), roughness=0.592m, multi-return dz=-83.510m
+  ACE score: mean=0.017, max=0.062 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.789, max=0.809
+  RX anomaly: mean=0.014, max=0.023 -> Standard background spectral profile
+  Ensemble score: mean=0.344, max=0.410
+
+Target #125: Red Building (Small)
+  Quality Score: 48.6/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (39% of surroundings)
+  Color: Red
+  Size: 17px (Small)
+  Centroid (row, col): (113.1, 98.6)   Bbox: (111, 115, 97, 100)
+  Fusion confidence: mean=0.689, max=0.846
+  Spectral contrast ratio: 0.163
+  LiDAR 3D Profile: elevation=5.38m, rel_height=-3.06m (vs ground), roughness=3.229m, multi-return dz=-49.740m
+  ACE score: mean=0.028, max=0.130 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.825, max=0.943
+  RX anomaly: mean=0.011, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.435, max=0.595
+
+Target #126: Red Building (Small)
+  Quality Score: 48.4/100 -- LOW CONFIDENCE
+  Location: in Buildings (TARGET) area (34% of surroundings)
+  Color: Red
+  Size: 19px (Small)
+  Centroid (row, col): (16.7, 173.4)   Bbox: (15, 18, 171, 178)
+  Fusion confidence: mean=0.653, max=0.829
+  Spectral contrast ratio: 0.783
+  LiDAR 3D Profile: elevation=1.25m, rel_height=+0.40m (vs ground), roughness=0.576m, multi-return dz=-84.578m
+  ACE score: mean=0.018, max=0.096 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.855
+  RX anomaly: mean=0.017, max=0.024 -> Standard background spectral profile
+  Ensemble score: mean=0.380, max=0.498
+  (Merged from 2 nearby fragments)
+
+Target #127: Red Building (Small)
+  Quality Score: 48.4/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (61% of surroundings)
+  Color: Red
+  Size: 14px (Small)
+  Centroid (row, col): (21.4, 569.4)   Bbox: (19, 23, 568, 571)
+  Fusion confidence: mean=0.613, max=0.771
+  Spectral contrast ratio: 0.170
+  LiDAR 3D Profile: elevation=0.75m, rel_height=-0.34m (vs ground), roughness=0.529m, multi-return dz=-86.255m
+  ACE score: mean=0.024, max=0.055 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.780, max=0.797
+  RX anomaly: mean=0.011, max=0.014 -> Standard background spectral profile
+  Ensemble score: mean=0.356, max=0.450
+
+Target #128: Red Building (Medium)
+  Quality Score: 48.3/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (46% of surroundings)
+  Color: Red
+  Size: 21px (Medium)
+  Centroid (row, col): (26.1, 257.5)   Bbox: (24, 28, 254, 261)
+  Fusion confidence: mean=0.629, max=0.769
+  Spectral contrast ratio: 0.604
+  LiDAR 3D Profile: elevation=4.88m, rel_height=+4.82m (vs ground), roughness=2.194m, multi-return dz=-65.076m
+  ACE score: mean=0.005, max=0.019 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.798, max=0.827
+  RX anomaly: mean=0.015, max=0.023 -> Standard background spectral profile
+  Ensemble score: mean=0.363, max=0.431
+
+Target #129: Red Building (Small)
+  Quality Score: 48.3/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (49% of surroundings)
+  Color: Red
+  Size: 12px (Small)
+  Centroid (row, col): (91.5, 93.5)   Bbox: (90, 93, 92, 95)
+  Fusion confidence: mean=0.629, max=0.782
+  Spectral contrast ratio: 0.260
+  LiDAR 3D Profile: elevation=3.05m, rel_height=-0.50m (vs ground), roughness=1.082m, multi-return dz=-87.784m
+  ACE score: mean=0.017, max=0.090 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.828, max=0.956
+  RX anomaly: mean=0.014, max=0.023 -> Standard background spectral profile
+  Ensemble score: mean=0.398, max=0.545
+
+Target #130: Red Building (Small)
+  Quality Score: 48.2/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (33% of surroundings)
+  Color: Red
+  Size: 12px (Small)
+  Centroid (row, col): (71.9, 260.6)   Bbox: (71, 73, 259, 263)
+  Fusion confidence: mean=0.635, max=0.753
+  Spectral contrast ratio: 0.353
+  LiDAR 3D Profile: elevation=0.46m, rel_height=-0.02m (vs ground), roughness=0.611m, multi-return dz=-83.958m
+  ACE score: mean=0.010, max=0.037 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.816, max=0.828
+  RX anomaly: mean=0.014, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.384, max=0.444
+
+Target #131: Red Building (Small)
+  Quality Score: 48.0/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (52% of surroundings)
+  Color: Red
+  Size: 15px (Small)
+  Centroid (row, col): (35.3, 565.3)   Bbox: (33, 37, 564, 567)
+  Fusion confidence: mean=0.675, max=0.854
+  Spectral contrast ratio: 0.541
+  LiDAR 3D Profile: elevation=0.58m, rel_height=-0.40m (vs ground), roughness=0.530m, multi-return dz=-77.084m
+  ACE score: mean=0.013, max=0.027 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.803, max=0.817
+  RX anomaly: mean=0.012, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.397, max=0.494
+
+Target #132: Red Building (Small)
+  Quality Score: 48.0/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (46% of surroundings)
+  Color: Red
+  Size: 26px (Medium)
+  Centroid (row, col): (81.9, 337.2)   Bbox: (78, 88, 335, 339)
+  Fusion confidence: mean=0.670, max=0.807
+  Spectral contrast ratio: 0.201
+  LiDAR 3D Profile: elevation=0.47m, rel_height=+0.02m (vs ground), roughness=0.296m, multi-return dz=-77.535m
+  ACE score: mean=0.003, max=0.012 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.814, max=0.844
+  RX anomaly: mean=0.015, max=0.023 -> Standard background spectral profile
+  Ensemble score: mean=0.395, max=0.489
+  (Merged from 2 nearby fragments)
+
+Target #133: Red Building (Medium)
+  Quality Score: 47.8/100 -- LOW CONFIDENCE
+  Location: in Class 8 area (30% of surroundings)
+  Color: Red
+  Size: 22px (Medium)
+  Centroid (row, col): (75.8, 222.1)   Bbox: (73, 78, 217, 225)
+  Fusion confidence: mean=0.647, max=0.763
+  Spectral contrast ratio: 0.376
+  LiDAR 3D Profile: elevation=0.79m, rel_height=+0.29m (vs ground), roughness=0.495m, multi-return dz=-80.864m
+  ACE score: mean=0.004, max=0.014 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.801, max=0.810
+  RX anomaly: mean=0.013, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.373, max=0.427
+  (Merged from 2 nearby fragments)
+
+Target #134: Red Building (Small)
+  Quality Score: 47.7/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (39% of surroundings)
+  Color: Red
+  Size: 10px (Small)
+  Centroid (row, col): (5.0, 572.5)   Bbox: (4, 6, 571, 574)
+  Fusion confidence: mean=0.632, max=0.758
+  Spectral contrast ratio: 0.594
+  LiDAR 3D Profile: elevation=0.93m, rel_height=+0.34m (vs ground), roughness=0.415m, multi-return dz=-80.470m
+  ACE score: mean=0.016, max=0.040 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.774, max=0.783
+  RX anomaly: mean=0.011, max=0.014 -> Standard background spectral profile
+  Ensemble score: mean=0.354, max=0.419
+
+Target #135: Red Building (Small)
+  Quality Score: 47.7/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (66% of surroundings)
+  Color: Red
+  Size: 13px (Small)
+  Centroid (row, col): (26.2, 576.2)   Bbox: (24, 28, 575, 577)
+  Fusion confidence: mean=0.617, max=0.741
+  Spectral contrast ratio: 0.251
+  LiDAR 3D Profile: elevation=1.00m, rel_height=-0.04m (vs ground), roughness=0.517m, multi-return dz=-83.077m
+  ACE score: mean=0.016, max=0.043 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.781, max=0.792
+  RX anomaly: mean=0.011, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.352, max=0.411
+
+Target #136: Light Green Building (Tiny)
+  Quality Score: 47.5/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (51% of surroundings)
+  Color: Light Green
+  Size: 4px (Tiny)
+  Centroid (row, col): (34.5, 81.5)   Bbox: (34, 35, 81, 82)
+  Fusion confidence: mean=0.588, max=0.612
+  Spectral contrast ratio: 0.353
+  LiDAR 3D Profile: elevation=9.86m, rel_height=+2.97m (vs ground), roughness=0.240m, multi-return dz=-24.137m
+  ACE score: mean=0.095, max=0.120 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.983, max=0.987
+  RX anomaly: mean=0.017, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.573, max=0.610
+
+Target #137: Red Building (Small)
+  Quality Score: 47.2/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (63% of surroundings)
+  Color: Red
+  Size: 26px (Medium)
+  Centroid (row, col): (6.8, 361.7)   Bbox: (1, 12, 360, 363)
+  Fusion confidence: mean=0.676, max=0.812
+  Spectral contrast ratio: 0.174
+  LiDAR 3D Profile: elevation=1.51m, rel_height=+1.40m (vs ground), roughness=1.248m, multi-return dz=-72.677m
+  ACE score: mean=0.001, max=0.005 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.881, max=0.912
+  RX anomaly: mean=0.012, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.452, max=0.528
+  (Merged from 2 nearby fragments)
+
+Target #138: Red Building (Small)
+  Quality Score: 47.1/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (49% of surroundings)
+  Color: Red
+  Size: 22px (Medium)
+  Centroid (row, col): (94.6, 552.6)   Bbox: (92, 101, 550, 556)
+  Fusion confidence: mean=0.633, max=0.782
+  Spectral contrast ratio: 0.362
+  LiDAR 3D Profile: elevation=0.97m, rel_height=-0.29m (vs ground), roughness=0.541m, multi-return dz=-75.611m
+  ACE score: mean=0.005, max=0.014 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.800, max=0.826
+  RX anomaly: mean=0.010, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.367, max=0.433
+  (Merged from 2 nearby fragments)
+
+Target #139: Red Building (Small)
+  Quality Score: 47.1/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (55% of surroundings)
+  Color: Red
+  Size: 16px (Small)
+  Centroid (row, col): (114.9, 43.3)   Bbox: (112, 117, 41, 46)
+  Fusion confidence: mean=0.576, max=0.694
+  Spectral contrast ratio: 0.274
+  LiDAR 3D Profile: elevation=10.34m, rel_height=+0.57m (vs ground), roughness=0.958m, multi-return dz=-49.594m
+  ACE score: mean=0.002, max=0.009 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.792, max=0.806
+  RX anomaly: mean=0.013, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.328, max=0.384
+
+Target #140: Red Building (Small)
+  Quality Score: 46.9/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (39% of surroundings)
+  Color: Red
+  Size: 18px (Small)
+  Centroid (row, col): (35.5, 8.3)   Bbox: (34, 37, 6, 11)
+  Fusion confidence: mean=0.631, max=0.813
+  Spectral contrast ratio: 0.327
+  LiDAR 3D Profile: elevation=10.74m, rel_height=-0.56m (vs ground), roughness=1.458m, multi-return dz=-58.366m
+  ACE score: mean=0.004, max=0.014 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.782, max=0.805
+  RX anomaly: mean=0.015, max=0.023 -> Standard background spectral profile
+  Ensemble score: mean=0.350, max=0.436
+
+Target #141: Red Building (Small)
+  Quality Score: 46.9/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (30% of surroundings)
+  Color: Red
+  Size: 15px (Small)
+  Centroid (row, col): (153.1, 39.8)   Bbox: (150, 155, 38, 43)
+  Fusion confidence: mean=0.584, max=0.680
+  Spectral contrast ratio: 0.386
+  LiDAR 3D Profile: elevation=9.79m, rel_height=+0.91m (vs ground), roughness=0.542m, multi-return dz=-59.147m
+  ACE score: mean=0.003, max=0.010 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.779, max=0.791
+  RX anomaly: mean=0.010, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.322, max=0.368
+
+Target #142: Red Building (Small)
+  Quality Score: 46.8/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (61% of surroundings)
+  Color: Red
+  Size: 16px (Small)
+  Centroid (row, col): (124.1, 335.8)   Bbox: (123, 126, 333, 338)
+  Fusion confidence: mean=0.654, max=0.822
+  Spectral contrast ratio: 0.291
+  LiDAR 3D Profile: elevation=0.10m, rel_height=+0.03m (vs ground), roughness=0.059m, multi-return dz=-78.464m
+  ACE score: mean=0.035, max=0.148 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.889, max=0.974
+  RX anomaly: mean=0.023, max=0.042 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.477, max=0.611
+
+Target #143: Red Building (Small)
+  Quality Score: 46.8/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (46% of surroundings)
+  Color: Red
+  Size: 15px (Small)
+  Centroid (row, col): (142.2, 23.3)   Bbox: (140, 144, 22, 25)
+  Fusion confidence: mean=0.591, max=0.677
+  Spectral contrast ratio: 0.226
+  LiDAR 3D Profile: elevation=1.09m, rel_height=+0.06m (vs ground), roughness=0.512m, multi-return dz=-83.378m
+  ACE score: mean=0.023, max=0.041 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.785, max=0.793
+  RX anomaly: mean=0.011, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.349, max=0.403
+
+Target #144: Red Building (Small)
+  Quality Score: 46.7/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (89% of surroundings)
+  Color: Red
+  Size: 11px (Small)
+  Centroid (row, col): (125.7, 443.2)   Bbox: (124, 128, 442, 444)
+  Fusion confidence: mean=0.604, max=0.732
+  Spectral contrast ratio: 0.526
+  LiDAR 3D Profile: elevation=1.20m, rel_height=+0.25m (vs ground), roughness=0.867m, multi-return dz=-79.159m
+  ACE score: mean=0.006, max=0.018 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.786, max=0.798
+  RX anomaly: mean=0.011, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.341, max=0.408
+
+Target #145: Black/Dark Building (Small)
+  Quality Score: 46.6/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (44% of surroundings)
+  Color: Black/Dark
+  Size: 16px (Small)
+  Centroid (row, col): (64.1, 46.6)   Bbox: (60, 66, 45, 50)
+  Fusion confidence: mean=0.595, max=0.717
+  Spectral contrast ratio: 0.244
+  LiDAR 3D Profile: elevation=10.70m, rel_height=-0.02m (vs ground), roughness=1.063m, multi-return dz=-51.534m
+  ACE score: mean=0.008, max=0.027 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.792, max=0.805
+  RX anomaly: mean=0.015, max=0.024 -> Standard background spectral profile
+  Ensemble score: mean=0.343, max=0.420
+  (Merged from 2 nearby fragments)
+
+Target #146: Red Building (Small)
+  Quality Score: 46.6/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (73% of surroundings)
+  Color: Red
+  Size: 15px (Small)
+  Centroid (row, col): (137.7, 121.7)   Bbox: (136, 140, 120, 123)
+  Fusion confidence: mean=0.645, max=0.782
+  Spectral contrast ratio: 0.893
+  LiDAR 3D Profile: elevation=0.78m, rel_height=+0.41m (vs ground), roughness=0.533m, multi-return dz=-78.021m
+  ACE score: mean=0.010, max=0.046 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.787, max=0.822
+  RX anomaly: mean=0.010, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.366, max=0.452
+
+Target #147: Light Green Building (Small)
+  Quality Score: 46.6/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (65% of surroundings)
+  Color: Light Green
+  Size: 6px (Small)
+  Centroid (row, col): (146.8, 525.5)   Bbox: (146, 148, 524, 527)
+  Fusion confidence: mean=0.541, max=0.604
+  Spectral contrast ratio: 0.292
+  LiDAR 3D Profile: elevation=6.90m, rel_height=+1.17m (vs ground), roughness=0.441m, multi-return dz=-16.269m
+  ACE score: mean=0.156, max=0.223 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.978, max=0.984
+  RX anomaly: mean=0.011, max=0.014 -> Standard background spectral profile
+  Ensemble score: mean=0.598, max=0.643
+
+Target #148: Red Building (Small)
+  Quality Score: 46.5/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (41% of surroundings)
+  Color: Red
+  Size: 14px (Small)
+  Centroid (row, col): (102.7, 15.6)   Bbox: (99, 106, 13, 17)
+  Fusion confidence: mean=0.609, max=0.722
+  Spectral contrast ratio: 0.409
+  LiDAR 3D Profile: elevation=0.32m, rel_height=-0.43m (vs ground), roughness=0.675m, multi-return dz=-92.136m
+  ACE score: mean=0.043, max=0.058 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.779, max=0.792
+  RX anomaly: mean=0.012, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.370, max=0.426
+  (Merged from 2 nearby fragments)
+
+Target #149: Red Building (Small)
+  Quality Score: 46.3/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (71% of surroundings)
+  Color: Red
+  Size: 13px (Small)
+  Centroid (row, col): (100.5, 530.8)   Bbox: (98, 102, 528, 533)
+  Fusion confidence: mean=0.582, max=0.698
+  Spectral contrast ratio: 0.483
+  LiDAR 3D Profile: elevation=0.88m, rel_height=-0.32m (vs ground), roughness=0.653m, multi-return dz=-75.892m
+  ACE score: mean=0.011, max=0.036 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.801, max=0.827
+  RX anomaly: mean=0.011, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.347, max=0.397
+
+Target #150: Red Building (Small)
+  Quality Score: 46.2/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (52% of surroundings)
+  Color: Red
+  Size: 11px (Small)
+  Centroid (row, col): (78.6, 480.4)   Bbox: (77, 80, 479, 482)
+  Fusion confidence: mean=0.592, max=0.715
+  Spectral contrast ratio: 0.611
+  LiDAR 3D Profile: elevation=0.91m, rel_height=-0.27m (vs ground), roughness=0.491m, multi-return dz=-81.722m
+  ACE score: mean=0.012, max=0.032 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.783, max=0.804
+  RX anomaly: mean=0.012, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.337, max=0.398
+
+Target #151: Red Building (Tiny)
+  Quality Score: 46.2/100 -- LOW CONFIDENCE
+  Location: in Vineyard area (31% of surroundings)
+  Color: Red
+  Size: 3px (Tiny)
+  Centroid (row, col): (163.3, 182.7)   Bbox: (163, 164, 182, 183)
+  Fusion confidence: mean=0.557, max=0.595
+  Spectral contrast ratio: 0.637
+  LiDAR 3D Profile: elevation=1.05m, rel_height=+0.95m (vs ground), roughness=1.393m, multi-return dz=-36.283m
+  ACE score: mean=0.097, max=0.161 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.943, max=0.954
+  RX anomaly: mean=0.018, max=0.028 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.526, max=0.595
+
+Target #152: Red Building (Small)
+  Quality Score: 46.1/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (54% of surroundings)
+  Color: Red
+  Size: 9px (Small)
+  Centroid (row, col): (91.0, 68.0)   Bbox: (90, 92, 67, 69)
+  Fusion confidence: mean=0.616, max=0.754
+  Spectral contrast ratio: 0.349
+  LiDAR 3D Profile: elevation=11.27m, rel_height=+0.53m (vs ground), roughness=0.676m, multi-return dz=-54.396m
+  ACE score: mean=0.002, max=0.004 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.799, max=0.807
+  RX anomaly: mean=0.013, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.353, max=0.426
+
+Target #153: Red Building (Small)
+  Quality Score: 45.8/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (71% of surroundings)
+  Color: Red
+  Size: 8px (Small)
+  Centroid (row, col): (0.4, 337.0)   Bbox: (0, 1, 335, 339)
+  Fusion confidence: mean=0.710, max=0.891
+  Spectral contrast ratio: 0.307
+  LiDAR 3D Profile: elevation=2.65m, rel_height=+2.34m (vs ground), roughness=0.994m, multi-return dz=-68.720m
+  ACE score: mean=0.014, max=0.041 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.820, max=0.925
+  RX anomaly: mean=0.017, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.429, max=0.517
+
+Target #154: Red Building (Small)
+  Quality Score: 45.8/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (48% of surroundings)
+  Color: Red
+  Size: 12px (Small)
+  Centroid (row, col): (16.0, 421.5)   Bbox: (14, 18, 420, 423)
+  Fusion confidence: mean=0.593, max=0.695
+  Spectral contrast ratio: 0.292
+  LiDAR 3D Profile: elevation=0.38m, rel_height=-0.22m (vs ground), roughness=0.453m, multi-return dz=-76.452m
+  ACE score: mean=0.005, max=0.014 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.797, max=0.822
+  RX anomaly: mean=0.013, max=0.021 -> Standard background spectral profile
+  Ensemble score: mean=0.343, max=0.395
+
+Target #155: Red Building (Small)
+  Quality Score: 45.6/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (65% of surroundings)
+  Color: Red
+  Size: 12px (Small)
+  Centroid (row, col): (109.1, 170.2)   Bbox: (107, 111, 169, 172)
+  Fusion confidence: mean=0.670, max=0.843
+  Spectral contrast ratio: 0.253
+  LiDAR 3D Profile: elevation=0.72m, rel_height=+0.20m (vs ground), roughness=0.535m, multi-return dz=-77.865m
+  ACE score: mean=0.005, max=0.030 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.809, max=0.828
+  RX anomaly: mean=0.012, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.392, max=0.487
+
+Target #156: Red Building (Small)
+  Quality Score: 45.4/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (41% of surroundings)
+  Color: Red
+  Size: 9px (Small)
+  Centroid (row, col): (59.9, 55.1)   Bbox: (58, 61, 54, 56)
+  Fusion confidence: mean=0.613, max=0.690
+  Spectral contrast ratio: 0.522
+  LiDAR 3D Profile: elevation=11.00m, rel_height=+0.55m (vs ground), roughness=0.621m, multi-return dz=-58.448m
+  ACE score: mean=0.002, max=0.009 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.783, max=0.790
+  RX anomaly: mean=0.018, max=0.022 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.340, max=0.381
+
+Target #157: Red Building (Small)
+  Quality Score: 45.3/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (76% of surroundings)
+  Color: Red
+  Size: 12px (Small)
+  Centroid (row, col): (120.8, 120.3)   Bbox: (119, 122, 119, 122)
+  Fusion confidence: mean=0.662, max=0.834
+  Spectral contrast ratio: 0.316
+  LiDAR 3D Profile: elevation=0.70m, rel_height=+0.14m (vs ground), roughness=0.503m, multi-return dz=-74.388m
+  ACE score: mean=0.010, max=0.044 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.807, max=0.831
+  RX anomaly: mean=0.011, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.391, max=0.482
+
+Target #158: Red Building (Small)
+  Quality Score: 45.2/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (52% of surroundings)
+  Color: Red
+  Size: 14px (Small)
+  Centroid (row, col): (4.8, 121.3)   Bbox: (3, 6, 119, 123)
+  Fusion confidence: mean=0.623, max=0.799
+  Spectral contrast ratio: 0.683
+  LiDAR 3D Profile: elevation=3.83m, rel_height=+1.86m (vs ground), roughness=2.135m, multi-return dz=-97.960m
+  ACE score: mean=0.006, max=0.030 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.802, max=0.830
+  RX anomaly: mean=0.021, max=0.030 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.364, max=0.464
+
+Target #159: Red Building (Small)
+  Quality Score: 45.0/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (51% of surroundings)
+  Color: Red
+  Size: 11px (Small)
+  Centroid (row, col): (31.3, 470.1)   Bbox: (28, 33, 468, 472)
+  Fusion confidence: mean=0.599, max=0.700
+  Spectral contrast ratio: 0.507
+  LiDAR 3D Profile: elevation=1.10m, rel_height=-0.10m (vs ground), roughness=0.373m, multi-return dz=-77.455m
+  ACE score: mean=0.011, max=0.018 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.782, max=0.803
+  RX anomaly: mean=0.011, max=0.014 -> Standard background spectral profile
+  Ensemble score: mean=0.338, max=0.395
+  (Merged from 2 nearby fragments)
+
+Target #160: Red Building (Small)
+  Quality Score: 44.9/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (44% of surroundings)
+  Color: Red
+  Size: 8px (Small)
+  Centroid (row, col): (124.8, 220.0)   Bbox: (123, 126, 219, 221)
+  Fusion confidence: mean=0.605, max=0.726
+  Spectral contrast ratio: 0.419
+  LiDAR 3D Profile: elevation=0.90m, rel_height=+0.20m (vs ground), roughness=0.366m, multi-return dz=-79.854m
+  ACE score: mean=0.010, max=0.020 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.797, max=0.800
+  RX anomaly: mean=0.012, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.354, max=0.421
+
+Target #161: Red Building (Small)
+  Quality Score: 44.7/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (44% of surroundings)
+  Color: Red
+  Size: 19px (Small)
+  Centroid (row, col): (151.8, 259.7)   Bbox: (150, 154, 257, 264)
+  Fusion confidence: mean=0.671, max=0.794
+  Spectral contrast ratio: 0.405
+  LiDAR 3D Profile: elevation=0.72m, rel_height=+0.33m (vs ground), roughness=0.356m, multi-return dz=-78.375m
+  ACE score: mean=0.004, max=0.013 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.802, max=0.814
+  RX anomaly: mean=0.008, max=0.013 -> Standard background spectral profile
+  Ensemble score: mean=0.386, max=0.448
+  (Merged from 2 nearby fragments)
+
+Target #162: Red Building (Small)
+  Quality Score: 44.6/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (67% of surroundings)
+  Color: Red
+  Size: 10px (Small)
+  Centroid (row, col): (34.9, 479.6)   Bbox: (32, 37, 479, 480)
+  Fusion confidence: mean=0.578, max=0.637
+  Spectral contrast ratio: 0.886
+  LiDAR 3D Profile: elevation=1.04m, rel_height=-0.27m (vs ground), roughness=0.639m, multi-return dz=-80.057m
+  ACE score: mean=0.014, max=0.029 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.787, max=0.794
+  RX anomaly: mean=0.014, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.336, max=0.372
+
+Target #163: Red Building (Small)
+  Quality Score: 44.4/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (89% of surroundings)
+  Color: Red
+  Size: 6px (Small)
+  Centroid (row, col): (155.5, 399.0)   Bbox: (155, 156, 398, 400)
+  Fusion confidence: mean=0.635, max=0.712
+  Spectral contrast ratio: 0.256
+  LiDAR 3D Profile: elevation=0.50m, rel_height=-0.24m (vs ground), roughness=0.337m, multi-return dz=-77.665m
+  ACE score: mean=0.007, max=0.026 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.794, max=0.806
+  RX anomaly: mean=0.013, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.364, max=0.405
+
+Target #164: Orange/Brown Building (Small)
+  Quality Score: 44.1/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (36% of surroundings)
+  Color: Orange/Brown
+  Size: 13px (Small)
+  Centroid (row, col): (93.6, 120.2)   Bbox: (92, 95, 118, 122)
+  Fusion confidence: mean=0.626, max=0.765
+  Spectral contrast ratio: 0.603
+  LiDAR 3D Profile: elevation=9.76m, rel_height=+2.51m (vs ground), roughness=0.891m, multi-return dz=-52.627m
+  ACE score: mean=0.042, max=0.071 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.924, max=0.950
+  RX anomaly: mean=0.036, max=0.052 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.497, max=0.574
+
+Target #165: Red Building (Medium)
+  Quality Score: 43.9/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (54% of surroundings)
+  Color: Red
+  Size: 21px (Medium)
+  Centroid (row, col): (23.4, 519.8)   Bbox: (22, 25, 516, 524)
+  Fusion confidence: mean=0.565, max=0.667
+  Spectral contrast ratio: 0.333
+  LiDAR 3D Profile: elevation=1.51m, rel_height=+0.94m (vs ground), roughness=0.313m, multi-return dz=-84.059m
+  ACE score: mean=0.007, max=0.024 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.805, max=0.840
+  RX anomaly: mean=0.012, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.338, max=0.402
+
+Target #166: Red Building (Small)
+  Quality Score: 43.9/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (53% of surroundings)
+  Color: Red
+  Size: 9px (Small)
+  Centroid (row, col): (70.6, 470.9)   Bbox: (69, 72, 470, 472)
+  Fusion confidence: mean=0.581, max=0.685
+  Spectral contrast ratio: 0.393
+  LiDAR 3D Profile: elevation=1.38m, rel_height=+0.03m (vs ground), roughness=0.419m, multi-return dz=-81.509m
+  ACE score: mean=0.013, max=0.034 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.800, max=0.819
+  RX anomaly: mean=0.015, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.347, max=0.402
+
+Target #167: Red Building (Small)
+  Quality Score: 43.9/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (57% of surroundings)
+  Color: Red
+  Size: 10px (Small)
+  Centroid (row, col): (123.7, 196.8)   Bbox: (122, 125, 195, 198)
+  Fusion confidence: mean=0.575, max=0.642
+  Spectral contrast ratio: 0.561
+  LiDAR 3D Profile: elevation=0.81m, rel_height=+0.34m (vs ground), roughness=0.503m, multi-return dz=-79.789m
+  ACE score: mean=0.004, max=0.011 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.801, max=0.809
+  RX anomaly: mean=0.009, max=0.014 -> Standard background spectral profile
+  Ensemble score: mean=0.337, max=0.377
+
+Target #168: Red Building (Small)
+  Quality Score: 43.8/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (36% of surroundings)
+  Color: Red
+  Size: 6px (Small)
+  Centroid (row, col): (0.3, 64.5)   Bbox: (0, 1, 63, 66)
+  Fusion confidence: mean=0.692, max=0.829
+  Spectral contrast ratio: 0.595
+  LiDAR 3D Profile: elevation=0.00m, rel_height=-1.33m (vs ground), roughness=0.000m, multi-return dz=-76.500m
+  ACE score: mean=0.002, max=0.006 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.821, max=0.841
+  RX anomaly: mean=0.014, max=0.025 -> Standard background spectral profile
+  Ensemble score: mean=0.410, max=0.471
+
+Target #169: Red Building (Small)
+  Quality Score: 43.8/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (71% of surroundings)
+  Color: Red
+  Size: 16px (Small)
+  Centroid (row, col): (79.3, 328.1)   Bbox: (78, 81, 326, 330)
+  Fusion confidence: mean=0.610, max=0.702
+  Spectral contrast ratio: 0.462
+  LiDAR 3D Profile: elevation=0.31m, rel_height=-0.08m (vs ground), roughness=0.305m, multi-return dz=-78.320m
+  ACE score: mean=0.001, max=0.005 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.818, max=0.828
+  RX anomaly: mean=0.014, max=0.021 -> Standard background spectral profile
+  Ensemble score: mean=0.366, max=0.413
+
+Target #170: Red Building (Small)
+  Quality Score: 43.8/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (46% of surroundings)
+  Color: Red
+  Size: 7px (Small)
+  Centroid (row, col): (118.3, 35.0)   Bbox: (117, 119, 34, 36)
+  Fusion confidence: mean=0.585, max=0.684
+  Spectral contrast ratio: 0.792
+  LiDAR 3D Profile: elevation=9.11m, rel_height=+1.06m (vs ground), roughness=0.683m, multi-return dz=-64.171m
+  ACE score: mean=0.008, max=0.015 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.773, max=0.777
+  RX anomaly: mean=0.012, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.321, max=0.375
+
+Target #171: Red Building (Small)
+  Quality Score: 43.6/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (42% of surroundings)
+  Color: Red
+  Size: 10px (Small)
+  Centroid (row, col): (5.2, 520.5)   Bbox: (4, 6, 519, 522)
+  Fusion confidence: mean=0.660, max=0.786
+  Spectral contrast ratio: 0.345
+  LiDAR 3D Profile: elevation=1.03m, rel_height=+0.25m (vs ground), roughness=0.581m, multi-return dz=-78.869m
+  ACE score: mean=0.011, max=0.024 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.801, max=0.849
+  RX anomaly: mean=0.011, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.386, max=0.464
+
+Target #172: Red Building (Small)
+  Quality Score: 43.6/100 -- LOW CONFIDENCE
+  Location: in Ground area (41% of surroundings)
+  Color: Red
+  Size: 11px (Small)
+  Centroid (row, col): (51.5, 126.2)   Bbox: (50, 53, 125, 128)
+  Fusion confidence: mean=0.563, max=0.629
+  Spectral contrast ratio: 0.455
+  LiDAR 3D Profile: elevation=0.56m, rel_height=+0.33m (vs ground), roughness=0.517m, multi-return dz=-84.711m
+  ACE score: mean=0.004, max=0.015 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.806, max=0.824
+  RX anomaly: mean=0.015, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.335, max=0.369
+
+Target #173: Red Building (Small)
+  Quality Score: 43.6/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (40% of surroundings)
+  Color: Red
+  Size: 9px (Small)
+  Centroid (row, col): (83.3, 129.9)   Bbox: (82, 85, 129, 131)
+  Fusion confidence: mean=0.666, max=0.812
+  Spectral contrast ratio: 0.307
+  LiDAR 3D Profile: elevation=0.99m, rel_height=+0.59m (vs ground), roughness=1.407m, multi-return dz=-86.451m
+  ACE score: mean=0.008, max=0.025 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.820, max=0.868
+  RX anomaly: mean=0.012, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.402, max=0.486
+
+Target #174: Red Building (Small)
+  Quality Score: 43.6/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (74% of surroundings)
+  Color: Red
+  Size: 13px (Small)
+  Centroid (row, col): (91.5, 478.0)   Bbox: (89, 94, 477, 480)
+  Fusion confidence: mean=0.547, max=0.623
+  Spectral contrast ratio: 0.289
+  LiDAR 3D Profile: elevation=0.89m, rel_height=-0.37m (vs ground), roughness=0.491m, multi-return dz=-78.568m
+  ACE score: mean=0.013, max=0.025 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.787, max=0.809
+  RX anomaly: mean=0.011, max=0.014 -> Standard background spectral profile
+  Ensemble score: mean=0.319, max=0.364
+
+Target #175: Red Building (Small)
+  Quality Score: 43.2/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (41% of surroundings)
+  Color: Red
+  Size: 12px (Small)
+  Centroid (row, col): (34.9, 250.7)   Bbox: (33, 36, 249, 253)
+  Fusion confidence: mean=0.632, max=0.759
+  Spectral contrast ratio: 0.361
+  LiDAR 3D Profile: elevation=0.01m, rel_height=-0.09m (vs ground), roughness=0.012m, multi-return dz=-77.654m
+  ACE score: mean=0.004, max=0.014 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.833, max=0.858
+  RX anomaly: mean=0.018, max=0.026 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.393, max=0.462
+
+Target #176: Red Building (Small)
+  Quality Score: 43.2/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (61% of surroundings)
+  Color: Red
+  Size: 9px (Small)
+  Centroid (row, col): (70.2, 419.1)   Bbox: (69, 71, 417, 421)
+  Fusion confidence: mean=0.577, max=0.660
+  Spectral contrast ratio: 0.277
+  LiDAR 3D Profile: elevation=1.12m, rel_height=+0.10m (vs ground), roughness=0.491m, multi-return dz=-84.326m
+  ACE score: mean=0.012, max=0.040 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.800
+  RX anomaly: mean=0.015, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.336, max=0.378
+
+Target #177: Red Building (Small)
+  Quality Score: 43.2/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (65% of surroundings)
+  Color: Red
+  Size: 9px (Small)
+  Centroid (row, col): (85.4, 397.9)   Bbox: (84, 87, 397, 399)
+  Fusion confidence: mean=0.585, max=0.645
+  Spectral contrast ratio: 0.293
+  LiDAR 3D Profile: elevation=0.34m, rel_height=-0.02m (vs ground), roughness=0.524m, multi-return dz=-78.442m
+  ACE score: mean=0.017, max=0.046 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.798, max=0.805
+  RX anomaly: mean=0.015, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.350, max=0.386
+
+Target #178: Red Building (Small)
+  Quality Score: 43.2/100 -- LOW CONFIDENCE
+  Location: in Vineyard area (42% of surroundings)
+  Color: Red
+  Size: 6px (Small)
+  Centroid (row, col): (164.0, 54.5)   Bbox: (163, 165, 54, 55)
+  Fusion confidence: mean=0.618, max=0.680
+  Spectral contrast ratio: 0.214
+  LiDAR 3D Profile: elevation=10.08m, rel_height=+0.89m (vs ground), roughness=0.664m, multi-return dz=-42.751m
+  ACE score: mean=0.004, max=0.010 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.802, max=0.805
+  RX anomaly: mean=0.010, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.360, max=0.388
+
+Target #179: Red Building (Small)
+  Quality Score: 43.0/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (47% of surroundings)
+  Color: Red
+  Size: 7px (Small)
+  Centroid (row, col): (84.3, 551.1)   Bbox: (83, 85, 550, 552)
+  Fusion confidence: mean=0.591, max=0.673
+  Spectral contrast ratio: 0.359
+  LiDAR 3D Profile: elevation=1.15m, rel_height=-0.16m (vs ground), roughness=0.500m, multi-return dz=-76.991m
+  ACE score: mean=0.011, max=0.034 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.788, max=0.801
+  RX anomaly: mean=0.009, max=0.013 -> Standard background spectral profile
+  Ensemble score: mean=0.340, max=0.376
+
+Target #180: Red Building (Small)
+  Quality Score: 42.9/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (57% of surroundings)
+  Color: Red
+  Size: 8px (Small)
+  Centroid (row, col): (99.4, 442.9)   Bbox: (98, 101, 442, 444)
+  Fusion confidence: mean=0.549, max=0.617
+  Spectral contrast ratio: 1.214
+  LiDAR 3D Profile: elevation=0.09m, rel_height=-0.46m (vs ground), roughness=0.086m, multi-return dz=-77.788m
+  ACE score: mean=0.004, max=0.021 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.828, max=0.856
+  RX anomaly: mean=0.015, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.346, max=0.400
+
+Target #181: Red Building (Small)
+  Quality Score: 42.7/100 -- LOW CONFIDENCE
+  Location: in Ground area (26% of surroundings)
+  Color: Red
+  Size: 14px (Small)
+  Centroid (row, col): (68.9, 507.5)   Bbox: (64, 75, 507, 508)
+  Fusion confidence: mean=0.568, max=0.631
+  Spectral contrast ratio: 0.445
+  LiDAR 3D Profile: elevation=1.14m, rel_height=+0.11m (vs ground), roughness=0.416m, multi-return dz=-83.078m
+  ACE score: mean=0.015, max=0.040 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.792, max=0.805
+  RX anomaly: mean=0.011, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.335, max=0.370
+  (Merged from 2 nearby fragments)
+
+Target #182: Red Building (Small)
+  Quality Score: 42.5/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (40% of surroundings)
+  Color: Red
+  Size: 10px (Small)
+  Centroid (row, col): (3.2, 433.5)   Bbox: (2, 4, 432, 435)
+  Fusion confidence: mean=0.624, max=0.757
+  Spectral contrast ratio: 0.629
+  LiDAR 3D Profile: elevation=0.73m, rel_height=+0.18m (vs ground), roughness=0.633m, multi-return dz=-83.572m
+  ACE score: mean=0.004, max=0.017 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.828, max=0.843
+  RX anomaly: mean=0.011, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.385, max=0.457
+
+Target #183: Red Building (Small)
+  Quality Score: 42.5/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (66% of surroundings)
+  Color: Red
+  Size: 19px (Small)
+  Centroid (row, col): (154.9, 210.9)   Bbox: (154, 157, 206, 217)
+  Fusion confidence: mean=0.589, max=0.671
+  Spectral contrast ratio: 0.394
+  LiDAR 3D Profile: elevation=2.00m, rel_height=+0.32m (vs ground), roughness=0.138m, multi-return dz=-85.749m
+  ACE score: mean=0.019, max=0.066 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.788, max=0.821
+  RX anomaly: mean=0.011, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.345, max=0.399
+  (Merged from 2 nearby fragments)
+
+Target #184: Red Building (Small)
+  Quality Score: 42.4/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (57% of surroundings)
+  Color: Red
+  Size: 8px (Small)
+  Centroid (row, col): (44.8, 478.2)   Bbox: (43, 46, 477, 479)
+  Fusion confidence: mean=0.551, max=0.615
+  Spectral contrast ratio: 0.934
+  LiDAR 3D Profile: elevation=1.17m, rel_height=-0.20m (vs ground), roughness=0.368m, multi-return dz=-78.209m
+  ACE score: mean=0.012, max=0.027 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.787, max=0.796
+  RX anomaly: mean=0.017, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.320, max=0.344
+
+Target #185: Red Building (Small)
+  Quality Score: 42.4/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (89% of surroundings)
+  Color: Red
+  Size: 7px (Small)
+  Centroid (row, col): (118.1, 446.4)   Bbox: (117, 119, 445, 448)
+  Fusion confidence: mean=0.581, max=0.644
+  Spectral contrast ratio: 0.463
+  LiDAR 3D Profile: elevation=0.66m, rel_height=-0.00m (vs ground), roughness=0.692m, multi-return dz=-81.765m
+  ACE score: mean=0.004, max=0.011 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.804
+  RX anomaly: mean=0.015, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.331, max=0.356
+
+Target #186: Red Building (Small)
+  Quality Score: 42.3/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (72% of surroundings)
+  Color: Red
+  Size: 13px (Small)
+  Centroid (row, col): (101.2, 332.0)   Bbox: (100, 102, 330, 334)
+  Fusion confidence: mean=0.600, max=0.736
+  Spectral contrast ratio: 0.365
+  LiDAR 3D Profile: elevation=0.83m, rel_height=+0.68m (vs ground), roughness=0.453m, multi-return dz=-77.019m
+  ACE score: mean=0.002, max=0.005 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.857, max=0.894
+  RX anomaly: mean=0.018, max=0.031 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.394, max=0.475
+
+Target #187: Red Building (Small)
+  Quality Score: 42.2/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (62% of surroundings)
+  Color: Red
+  Size: 8px (Small)
+  Centroid (row, col): (80.0, 409.8)   Bbox: (78, 82, 409, 411)
+  Fusion confidence: mean=0.555, max=0.625
+  Spectral contrast ratio: 0.693
+  LiDAR 3D Profile: elevation=0.12m, rel_height=-0.58m (vs ground), roughness=0.260m, multi-return dz=-80.502m
+  ACE score: mean=0.008, max=0.027 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.807, max=0.815
+  RX anomaly: mean=0.011, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.335, max=0.374
+
+Target #188: Red Building (Small)
+  Quality Score: 42.1/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (64% of surroundings)
+  Color: Red
+  Size: 11px (Small)
+  Centroid (row, col): (127.1, 126.4)   Bbox: (126, 128, 125, 128)
+  Fusion confidence: mean=0.600, max=0.767
+  Spectral contrast ratio: 0.552
+  LiDAR 3D Profile: elevation=0.83m, rel_height=+0.29m (vs ground), roughness=0.454m, multi-return dz=-78.811m
+  ACE score: mean=0.009, max=0.027 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.799, max=0.813
+  RX anomaly: mean=0.013, max=0.025 -> Standard background spectral profile
+  Ensemble score: mean=0.352, max=0.437
+
+Target #189: Red Building (Small)
+  Quality Score: 41.7/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (36% of surroundings)
+  Color: Red
+  Size: 6px (Small)
+  Centroid (row, col): (54.0, 49.5)   Bbox: (53, 55, 49, 50)
+  Fusion confidence: mean=0.584, max=0.644
+  Spectral contrast ratio: 0.311
+  LiDAR 3D Profile: elevation=11.10m, rel_height=+0.53m (vs ground), roughness=1.148m, multi-return dz=-57.563m
+  ACE score: mean=0.006, max=0.024 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.786, max=0.795
+  RX anomaly: mean=0.012, max=0.014 -> Standard background spectral profile
+  Ensemble score: mean=0.330, max=0.354
+
+Target #190: Red Building (Small)
+  Quality Score: 41.4/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (57% of surroundings)
+  Color: Red
+  Size: 6px (Small)
+  Centroid (row, col): (72.5, 459.5)   Bbox: (71, 74, 459, 460)
+  Fusion confidence: mean=0.578, max=0.627
+  Spectral contrast ratio: 0.392
+  LiDAR 3D Profile: elevation=1.61m, rel_height=+0.49m (vs ground), roughness=0.495m, multi-return dz=-79.728m
+  ACE score: mean=0.020, max=0.034 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.792, max=0.800
+  RX anomaly: mean=0.012, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.344, max=0.369
+
+Target #191: Red Building (Small)
+  Quality Score: 41.3/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (42% of surroundings)
+  Color: Red
+  Size: 7px (Small)
+  Centroid (row, col): (50.0, 539.3)   Bbox: (48, 52, 539, 540)
+  Fusion confidence: mean=0.564, max=0.581
+  Spectral contrast ratio: 0.685
+  LiDAR 3D Profile: elevation=1.45m, rel_height=+0.37m (vs ground), roughness=0.290m, multi-return dz=-77.839m
+  ACE score: mean=0.006, max=0.021 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.807, max=0.828
+  RX anomaly: mean=0.008, max=0.010 -> Standard background spectral profile
+  Ensemble score: mean=0.338, max=0.362
+
+Target #192: Red Building (Small)
+  Quality Score: 41.3/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (67% of surroundings)
+  Color: Red
+  Size: 5px (Small)
+  Centroid (row, col): (93.8, 205.4)   Bbox: (93, 95, 205, 206)
+  Fusion confidence: mean=0.589, max=0.640
+  Spectral contrast ratio: 0.284
+  LiDAR 3D Profile: elevation=1.03m, rel_height=+0.12m (vs ground), roughness=0.518m, multi-return dz=-79.374m
+  ACE score: mean=0.011, max=0.023 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.799, max=0.807
+  RX anomaly: mean=0.010, max=0.013 -> Standard background spectral profile
+  Ensemble score: mean=0.348, max=0.386
+
+Target #193: Red Building (Small)
+  Quality Score: 41.2/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (72% of surroundings)
+  Color: Red
+  Size: 6px (Small)
+  Centroid (row, col): (43.0, 543.8)   Bbox: (42, 44, 543, 545)
+  Fusion confidence: mean=0.573, max=0.643
+  Spectral contrast ratio: 0.252
+  LiDAR 3D Profile: elevation=1.20m, rel_height=-0.06m (vs ground), roughness=0.828m, multi-return dz=-80.298m
+  ACE score: mean=0.006, max=0.017 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.796, max=0.813
+  RX anomaly: mean=0.013, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.333, max=0.372
+
+Target #194: Red Building (Small)
+  Quality Score: 41.2/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (29% of surroundings)
+  Color: Red
+  Size: 5px (Small)
+  Centroid (row, col): (52.4, 85.8)   Bbox: (51, 54, 85, 86)
+  Fusion confidence: mean=0.566, max=0.650
+  Spectral contrast ratio: 0.576
+  LiDAR 3D Profile: elevation=0.81m, rel_height=+0.63m (vs ground), roughness=1.149m, multi-return dz=-84.192m
+  ACE score: mean=0.003, max=0.006 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.794, max=0.803
+  RX anomaly: mean=0.018, max=0.023 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.325, max=0.368
+
+Target #195: Red Building (Small)
+  Quality Score: 41.0/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (61% of surroundings)
+  Color: Red
+  Size: 10px (Small)
+  Centroid (row, col): (90.5, 360.3)   Bbox: (89, 92, 359, 362)
+  Fusion confidence: mean=0.607, max=0.745
+  Spectral contrast ratio: 0.286
+  LiDAR 3D Profile: elevation=1.69m, rel_height=+0.52m (vs ground), roughness=0.314m, multi-return dz=-80.712m
+  ACE score: mean=0.005, max=0.013 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.824, max=0.846
+  RX anomaly: mean=0.018, max=0.029 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.373, max=0.451
+
+Target #196: Red Building (Small)
+  Quality Score: 41.0/100 -- LOW CONFIDENCE
+  Location: in Buildings (TARGET) area (33% of surroundings)
+  Color: Red
+  Size: 9px (Small)
+  Centroid (row, col): (141.9, 210.3)   Bbox: (141, 143, 209, 212)
+  Fusion confidence: mean=0.633, max=0.726
+  Spectral contrast ratio: 0.199
+  LiDAR 3D Profile: elevation=0.80m, rel_height=-0.02m (vs ground), roughness=0.543m, multi-return dz=-82.752m
+  ACE score: mean=0.007, max=0.015 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.796, max=0.803
+  RX anomaly: mean=0.011, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.364, max=0.409
+
+Target #197: Red Building (Tiny)
+  Quality Score: 40.9/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (42% of surroundings)
+  Color: Red
+  Size: 4px (Tiny)
+  Centroid (row, col): (104.5, 33.5)   Bbox: (104, 105, 33, 34)
+  Fusion confidence: mean=0.582, max=0.649
+  Spectral contrast ratio: 0.381
+  LiDAR 3D Profile: elevation=7.32m, rel_height=-0.64m (vs ground), roughness=0.580m, multi-return dz=-63.180m
+  ACE score: mean=0.005, max=0.010 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.783, max=0.787
+  RX anomaly: mean=0.014, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.327, max=0.358
+
+Target #198: Red Building (Tiny)
+  Quality Score: 40.6/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (35% of surroundings)
+  Color: Red
+  Size: 4px (Tiny)
+  Centroid (row, col): (158.5, 230.5)   Bbox: (158, 159, 230, 231)
+  Fusion confidence: mean=0.557, max=0.580
+  Spectral contrast ratio: 1.201
+  LiDAR 3D Profile: elevation=2.24m, rel_height=+0.46m (vs ground), roughness=0.134m, multi-return dz=-88.256m
+  ACE score: mean=0.028, max=0.042 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.777, max=0.778
+  RX anomaly: mean=0.013, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.329, max=0.352
+
+Target #199: Red Building (Small)
+  Quality Score: 40.4/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (52% of surroundings)
+  Color: Red
+  Size: 5px (Small)
+  Centroid (row, col): (100.2, 256.4)   Bbox: (99, 101, 256, 257)
+  Fusion confidence: mean=0.575, max=0.611
+  Spectral contrast ratio: 0.300
+  LiDAR 3D Profile: elevation=3.09m, rel_height=-0.30m (vs ground), roughness=1.000m, multi-return dz=-77.310m
+  ACE score: mean=0.018, max=0.056 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.846, max=0.911
+  RX anomaly: mean=0.006, max=0.010 -> Standard background spectral profile
+  Ensemble score: mean=0.386, max=0.469
+
+Target #200: Red Building (Small)
+  Quality Score: 40.2/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (52% of surroundings)
+  Color: Red
+  Size: 6px (Small)
+  Centroid (row, col): (0.5, 309.0)   Bbox: (0, 1, 308, 310)
+  Fusion confidence: mean=0.615, max=0.746
+  Spectral contrast ratio: 0.749
+  LiDAR 3D Profile: elevation=3.49m, rel_height=+1.95m (vs ground), roughness=1.585m, multi-return dz=-69.176m
+  ACE score: mean=0.006, max=0.021 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.775, max=0.776
+  RX anomaly: mean=0.021, max=0.030 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.337, max=0.398
+
+Target #201: Red Building (Tiny)
+  Quality Score: 40.0/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (58% of surroundings)
+  Color: Red
+  Size: 4px (Tiny)
+  Centroid (row, col): (78.5, 40.5)   Bbox: (78, 79, 40, 41)
+  Fusion confidence: mean=0.570, max=0.617
+  Spectral contrast ratio: 0.411
+  LiDAR 3D Profile: elevation=13.75m, rel_height=+1.24m (vs ground), roughness=0.544m, multi-return dz=-42.251m
+  ACE score: mean=0.002, max=0.004 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.787, max=0.792
+  RX anomaly: mean=0.016, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.321, max=0.349
+
+Target #202: Red Building (Small)
+  Quality Score: 39.8/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (67% of surroundings)
+  Color: Red
+  Size: 5px (Small)
+  Centroid (row, col): (120.2, 360.4)   Bbox: (119, 121, 360, 361)
+  Fusion confidence: mean=0.545, max=0.571
+  Spectral contrast ratio: 0.839
+  LiDAR 3D Profile: elevation=1.06m, rel_height=-0.16m (vs ground), roughness=0.620m, multi-return dz=-85.545m
+  ACE score: mean=0.013, max=0.046 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.798
+  RX anomaly: mean=0.016, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.320, max=0.356
+
+Target #203: Red Building (Small)
+  Quality Score: 39.8/100 -- LOW CONFIDENCE
+  Location: in Buildings (TARGET) area (33% of surroundings)
+  Color: Red
+  Size: 13px (Small)
+  Centroid (row, col): (134.9, 194.4)   Bbox: (131, 139, 193, 198)
+  Fusion confidence: mean=0.588, max=0.667
+  Spectral contrast ratio: 0.617
+  LiDAR 3D Profile: elevation=0.75m, rel_height=+0.29m (vs ground), roughness=0.499m, multi-return dz=-80.754m
+  ACE score: mean=0.003, max=0.015 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.799, max=0.809
+  RX anomaly: mean=0.011, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.341, max=0.380
+  (Merged from 2 nearby fragments)
+
+Target #204: Red Building (Small)
+  Quality Score: 39.7/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (40% of surroundings)
+  Color: Red
+  Size: 7px (Small)
+  Centroid (row, col): (4.4, 536.7)   Bbox: (4, 5, 535, 538)
+  Fusion confidence: mean=0.608, max=0.720
+  Spectral contrast ratio: 0.590
+  LiDAR 3D Profile: elevation=0.21m, rel_height=-0.29m (vs ground), roughness=0.305m, multi-return dz=-69.222m
+  ACE score: mean=0.004, max=0.014 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.828, max=0.868
+  RX anomaly: mean=0.008, max=0.011 -> Standard background spectral profile
+  Ensemble score: mean=0.376, max=0.430
+
+Target #205: Red Building (Tiny)
+  Quality Score: 39.7/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (60% of surroundings)
+  Color: Red
+  Size: 4px (Tiny)
+  Centroid (row, col): (44.5, 23.5)   Bbox: (44, 45, 23, 24)
+  Fusion confidence: mean=0.545, max=0.559
+  Spectral contrast ratio: 1.128
+  LiDAR 3D Profile: elevation=11.38m, rel_height=+0.69m (vs ground), roughness=0.883m, multi-return dz=-61.617m
+  ACE score: mean=0.007, max=0.014 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.785, max=0.786
+  RX anomaly: mean=0.017, max=0.022 -> Standard background spectral profile
+  Ensemble score: mean=0.310, max=0.318
+
+Target #206: Red Building (Tiny)
+  Quality Score: 39.6/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (44% of surroundings)
+  Color: Red
+  Size: 4px (Tiny)
+  Centroid (row, col): (96.8, 522.8)   Bbox: (96, 97, 522, 524)
+  Fusion confidence: mean=0.541, max=0.569
+  Spectral contrast ratio: 1.090
+  LiDAR 3D Profile: elevation=1.13m, rel_height=-0.08m (vs ground), roughness=0.301m, multi-return dz=-80.121m
+  ACE score: mean=0.024, max=0.040 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.787, max=0.790
+  RX anomaly: mean=0.011, max=0.013 -> Standard background spectral profile
+  Ensemble score: mean=0.325, max=0.353
+
+Target #207: Red Building (Tiny)
+  Quality Score: 39.5/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (94% of surroundings)
+  Color: Red
+  Size: 4px (Tiny)
+  Centroid (row, col): (105.5, 420.5)   Bbox: (105, 106, 420, 421)
+  Fusion confidence: mean=0.549, max=0.604
+  Spectral contrast ratio: 0.631
+  LiDAR 3D Profile: elevation=1.24m, rel_height=+0.17m (vs ground), roughness=1.062m, multi-return dz=-78.507m
+  ACE score: mean=0.011, max=0.016 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.778, max=0.781
+  RX anomaly: mean=0.017, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.310, max=0.340
+
+Target #208: Red Building (Small)
+  Quality Score: 39.4/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (86% of surroundings)
+  Color: Red
+  Size: 5px (Small)
+  Centroid (row, col): (47.6, 434.2)   Bbox: (46, 49, 434, 435)
+  Fusion confidence: mean=0.545, max=0.621
+  Spectral contrast ratio: 0.251
+  LiDAR 3D Profile: elevation=0.78m, rel_height=-0.30m (vs ground), roughness=0.642m, multi-return dz=-79.424m
+  ACE score: mean=0.011, max=0.029 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.794, max=0.806
+  RX anomaly: mean=0.012, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.322, max=0.354
+
+Target #209: Red Building (Small)
+  Quality Score: 39.2/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (32% of surroundings)
+  Color: Red
+  Size: 10px (Small)
+  Centroid (row, col): (50.7, 514.6)   Bbox: (48, 53, 511, 519)
+  Fusion confidence: mean=0.642, max=0.704
+  Spectral contrast ratio: 0.357
+  LiDAR 3D Profile: elevation=1.33m, rel_height=+0.37m (vs ground), roughness=0.307m, multi-return dz=-75.467m
+  ACE score: mean=0.015, max=0.027 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.797
+  RX anomaly: mean=0.009, max=0.013 -> Standard background spectral profile
+  Ensemble score: mean=0.371, max=0.409
+  (Merged from 2 nearby fragments)
+
+Target #210: Red Building (Small)
+  Quality Score: 39.2/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (51% of surroundings)
+  Color: Red
+  Size: 9px (Small)
+  Centroid (row, col): (61.9, 570.6)   Bbox: (61, 63, 569, 572)
+  Fusion confidence: mean=0.587, max=0.700
+  Spectral contrast ratio: 0.328
+  LiDAR 3D Profile: elevation=0.66m, rel_height=-0.04m (vs ground), roughness=0.338m, multi-return dz=-78.898m
+  ACE score: mean=0.008, max=0.028 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.799
+  RX anomaly: mean=0.010, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.337, max=0.393
+
+Target #211: Red Building (Small)
+  Quality Score: 39.1/100 -- LOW CONFIDENCE
+  Location: in Class 8 area (40% of surroundings)
+  Color: Red
+  Size: 10px (Small)
+  Centroid (row, col): (37.5, 314.0)   Bbox: (36, 39, 313, 315)
+  Fusion confidence: mean=0.587, max=0.684
+  Spectral contrast ratio: 0.146
+  LiDAR 3D Profile: elevation=0.59m, rel_height=+0.11m (vs ground), roughness=0.287m, multi-return dz=-79.912m
+  ACE score: mean=0.002, max=0.005 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.806, max=0.821
+  RX anomaly: mean=0.016, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.345, max=0.405
+
+Target #212: Red Building (Small)
+  Quality Score: 39.1/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (86% of surroundings)
+  Color: Red
+  Size: 6px (Small)
+  Centroid (row, col): (143.5, 163.0)   Bbox: (143, 144, 162, 164)
+  Fusion confidence: mean=0.628, max=0.695
+  Spectral contrast ratio: 0.373
+  LiDAR 3D Profile: elevation=0.35m, rel_height=+0.22m (vs ground), roughness=0.204m, multi-return dz=-72.985m
+  ACE score: mean=0.010, max=0.021 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.829, max=0.849
+  RX anomaly: mean=0.014, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.392, max=0.436
+
+Target #213: Red Building (Small)
+  Quality Score: 39.0/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (65% of surroundings)
+  Color: Red
+  Size: 5px (Small)
+  Centroid (row, col): (60.4, 459.8)   Bbox: (60, 61, 459, 461)
+  Fusion confidence: mean=0.549, max=0.589
+  Spectral contrast ratio: 0.203
+  LiDAR 3D Profile: elevation=0.95m, rel_height=-0.08m (vs ground), roughness=0.724m, multi-return dz=-79.449m
+  ACE score: mean=0.009, max=0.030 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.793, max=0.802
+  RX anomaly: mean=0.014, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.322, max=0.338
+
+Target #214: Green Building (Tiny)
+  Quality Score: 38.9/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (38% of surroundings)
+  Color: Green
+  Size: 2px (Tiny)
+  Centroid (row, col): (11.0, 384.5)   Bbox: (11, 11, 384, 385)
+  Fusion confidence: mean=0.523, max=0.525
+  Spectral contrast ratio: 0.848
+  LiDAR 3D Profile: elevation=2.16m, rel_height=+2.01m (vs ground), roughness=0.005m, multi-return dz=-76.338m
+  ACE score: mean=0.095, max=0.114 (threshold 0.053) -> CONFIRMED by ACE
+  SAM score: mean=0.978, max=0.979
+  RX anomaly: mean=0.020, max=0.026 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.536, max=0.553
+
+Target #215: Red Building (Small)
+  Quality Score: 38.9/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (45% of surroundings)
+  Color: Red
+  Size: 8px (Small)
+  Centroid (row, col): (25.0, 419.6)   Bbox: (23, 27, 419, 420)
+  Fusion confidence: mean=0.602, max=0.673
+  Spectral contrast ratio: 0.364
+  LiDAR 3D Profile: elevation=0.14m, rel_height=-0.42m (vs ground), roughness=0.153m, multi-return dz=-78.107m
+  ACE score: mean=0.016, max=0.041 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.803
+  RX anomaly: mean=0.013, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.351, max=0.377
+
+Target #216: Red Building (Tiny)
+  Quality Score: 38.7/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (29% of surroundings)
+  Color: Red
+  Size: 5px (Small)
+  Centroid (row, col): (96.6, 493.0)   Bbox: (95, 98, 490, 495)
+  Fusion confidence: mean=0.567, max=0.579
+  Spectral contrast ratio: 0.586
+  LiDAR 3D Profile: elevation=1.04m, rel_height=+0.06m (vs ground), roughness=0.619m, multi-return dz=-79.962m
+  ACE score: mean=0.002, max=0.003 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.786, max=0.793
+  RX anomaly: mean=0.009, max=0.011 -> Standard background spectral profile
+  Ensemble score: mean=0.318, max=0.330
+  (Merged from 2 nearby fragments)
+
+Target #217: Red Building (Small)
+  Quality Score: 38.6/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (62% of surroundings)
+  Color: Red
+  Size: 12px (Small)
+  Centroid (row, col): (114.2, 513.6)   Bbox: (110, 117, 511, 516)
+  Fusion confidence: mean=0.576, max=0.679
+  Spectral contrast ratio: 0.606
+  LiDAR 3D Profile: elevation=1.10m, rel_height=-0.21m (vs ground), roughness=0.466m, multi-return dz=-80.149m
+  ACE score: mean=0.004, max=0.007 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.813, max=0.823
+  RX anomaly: mean=0.011, max=0.014 -> Standard background spectral profile
+  Ensemble score: mean=0.347, max=0.404
+  (Merged from 2 nearby fragments)
+
+Target #218: Red Building (Tiny)
+  Quality Score: 38.3/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (72% of surroundings)
+  Color: Red
+  Size: 5px (Small)
+  Centroid (row, col): (57.4, 549.4)   Bbox: (53, 61, 549, 550)
+  Fusion confidence: mean=0.567, max=0.568
+  Spectral contrast ratio: 0.462
+  LiDAR 3D Profile: elevation=0.76m, rel_height=-0.59m (vs ground), roughness=0.439m, multi-return dz=-81.744m
+  ACE score: mean=0.033, max=0.060 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.785, max=0.792
+  RX anomaly: mean=0.010, max=0.014 -> Standard background spectral profile
+  Ensemble score: mean=0.344, max=0.361
+  (Merged from 2 nearby fragments)
+
+Target #219: Red Building (Small)
+  Quality Score: 38.3/100 -- LOW CONFIDENCE
+  Location: in Buildings (TARGET) area (63% of surroundings)
+  Color: Red
+  Size: 9px (Small)
+  Centroid (row, col): (57.8, 584.4)   Bbox: (56, 60, 584, 585)
+  Fusion confidence: mean=0.585, max=0.645
+  Spectral contrast ratio: 0.321
+  LiDAR 3D Profile: elevation=0.05m, rel_height=-0.13m (vs ground), roughness=0.036m, multi-return dz=-88.391m
+  ACE score: mean=0.028, max=0.048 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.798, max=0.805
+  RX anomaly: mean=0.017, max=0.024 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.360, max=0.394
+
+Target #220: Red Building (Tiny)
+  Quality Score: 38.3/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (75% of surroundings)
+  Color: Red
+  Size: 2px (Tiny)
+  Centroid (row, col): (98.5, 379.0)   Bbox: (98, 99, 379, 379)
+  Fusion confidence: mean=0.538, max=0.543
+  Spectral contrast ratio: 1.134
+  LiDAR 3D Profile: elevation=0.31m, rel_height=-0.81m (vs ground), roughness=0.136m, multi-return dz=-81.686m
+  ACE score: mean=0.005, max=0.009 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.808, max=0.812
+  RX anomaly: mean=0.012, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.324, max=0.327
+
+Target #221: Red Building (Tiny)
+  Quality Score: 38.3/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (92% of surroundings)
+  Color: Red
+  Size: 3px (Tiny)
+  Centroid (row, col): (106.7, 376.3)   Bbox: (106, 107, 376, 377)
+  Fusion confidence: mean=0.557, max=0.571
+  Spectral contrast ratio: 0.378
+  LiDAR 3D Profile: elevation=0.90m, rel_height=-0.30m (vs ground), roughness=0.584m, multi-return dz=-84.770m
+  ACE score: mean=0.008, max=0.013 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.789, max=0.797
+  RX anomaly: mean=0.020, max=0.021 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.321, max=0.325
+
+Target #222: Red Building (Tiny)
+  Quality Score: 38.3/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (63% of surroundings)
+  Color: Red
+  Size: 3px (Tiny)
+  Centroid (row, col): (106.3, 450.7)   Bbox: (106, 107, 450, 451)
+  Fusion confidence: mean=0.550, max=0.566
+  Spectral contrast ratio: 0.538
+  LiDAR 3D Profile: elevation=0.38m, rel_height=-0.38m (vs ground), roughness=0.312m, multi-return dz=-72.619m
+  ACE score: mean=0.008, max=0.012 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.804, max=0.807
+  RX anomaly: mean=0.016, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.330, max=0.338
+
+Target #223: Red Building (Tiny)
+  Quality Score: 38.3/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (72% of surroundings)
+  Color: Red
+  Size: 7px (Small)
+  Centroid (row, col): (151.7, 417.9)   Bbox: (148, 156, 415, 421)
+  Fusion confidence: mean=0.546, max=0.587
+  Spectral contrast ratio: 0.205
+  LiDAR 3D Profile: elevation=1.87m, rel_height=+0.76m (vs ground), roughness=1.004m, multi-return dz=-77.634m
+  ACE score: mean=0.004, max=0.008 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.782, max=0.791
+  RX anomaly: mean=0.014, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.307, max=0.320
+  (Merged from 2 nearby fragments)
+
+Target #224: Red Building (Small)
+  Quality Score: 38.0/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (45% of surroundings)
+  Color: Red
+  Size: 7px (Small)
+  Centroid (row, col): (4.4, 464.3)   Bbox: (4, 5, 463, 466)
+  Fusion confidence: mean=0.585, max=0.680
+  Spectral contrast ratio: 0.415
+  LiDAR 3D Profile: elevation=0.53m, rel_height=+0.41m (vs ground), roughness=0.324m, multi-return dz=-76.469m
+  ACE score: mean=0.011, max=0.022 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.804, max=0.813
+  RX anomaly: mean=0.012, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.351, max=0.395
+
+Target #225: Red Building (Small)
+  Quality Score: 37.9/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (41% of surroundings)
+  Color: Red
+  Size: 5px (Small)
+  Centroid (row, col): (25.6, 181.8)   Bbox: (25, 26, 181, 183)
+  Fusion confidence: mean=0.532, max=0.551
+  Spectral contrast ratio: 0.234
+  LiDAR 3D Profile: elevation=1.71m, rel_height=+0.17m (vs ground), roughness=0.136m, multi-return dz=-85.492m
+  ACE score: mean=0.008, max=0.026 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.783, max=0.785
+  RX anomaly: mean=0.017, max=0.025 -> Standard background spectral profile
+  Ensemble score: mean=0.303, max=0.327
+
+Target #226: Red Building (Tiny)
+  Quality Score: 37.6/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (90% of surroundings)
+  Color: Red
+  Size: 2px (Tiny)
+  Centroid (row, col): (20.0, 453.5)   Bbox: (20, 20, 453, 454)
+  Fusion confidence: mean=0.542, max=0.561
+  Spectral contrast ratio: 0.592
+  LiDAR 3D Profile: elevation=0.79m, rel_height=-0.29m (vs ground), roughness=0.562m, multi-return dz=-80.206m
+  ACE score: mean=0.007, max=0.009 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.783, max=0.788
+  RX anomaly: mean=0.014, max=0.014 -> Standard background spectral profile
+  Ensemble score: mean=0.308, max=0.320
+
+Target #227: Black/Dark Building (Tiny)
+  Quality Score: 37.4/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (61% of surroundings)
+  Color: Black/Dark
+  Size: 3px (Tiny)
+  Centroid (row, col): (69.0, 32.0)   Bbox: (69, 69, 31, 33)
+  Fusion confidence: mean=0.538, max=0.574
+  Spectral contrast ratio: 0.225
+  LiDAR 3D Profile: elevation=9.30m, rel_height=-0.14m (vs ground), roughness=0.337m, multi-return dz=-51.363m
+  ACE score: mean=0.002, max=0.004 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.795, max=0.799
+  RX anomaly: mean=0.013, max=0.014 -> Standard background spectral profile
+  Ensemble score: mean=0.311, max=0.328
+
+Target #228: Red Building (Tiny)
+  Quality Score: 37.3/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (59% of surroundings)
+  Color: Red
+  Size: 4px (Tiny)
+  Centroid (row, col): (51.5, 28.5)   Bbox: (51, 52, 28, 29)
+  Fusion confidence: mean=0.529, max=0.548
+  Spectral contrast ratio: 0.277
+  LiDAR 3D Profile: elevation=10.74m, rel_height=+0.48m (vs ground), roughness=0.577m, multi-return dz=-59.006m
+  ACE score: mean=0.002, max=0.006 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.801
+  RX anomaly: mean=0.018, max=0.026 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.304, max=0.322
+
+Target #229: Red Building (Small)
+  Quality Score: 37.3/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (37% of surroundings)
+  Color: Red
+  Size: 13px (Small)
+  Centroid (row, col): (114.6, 180.1)   Bbox: (110, 118, 179, 182)
+  Fusion confidence: mean=0.560, max=0.628
+  Spectral contrast ratio: 0.394
+  LiDAR 3D Profile: elevation=0.12m, rel_height=+0.00m (vs ground), roughness=0.015m, multi-return dz=-80.550m
+  ACE score: mean=0.009, max=0.028 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.807, max=0.829
+  RX anomaly: mean=0.011, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.339, max=0.366
+  (Merged from 2 nearby fragments)
+
+Target #230: Red Building (Tiny)
+  Quality Score: 37.3/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (47% of surroundings)
+  Color: Red
+  Size: 2px (Tiny)
+  Centroid (row, col): (134.5, 217.0)   Bbox: (134, 135, 217, 217)
+  Fusion confidence: mean=0.544, max=0.573
+  Spectral contrast ratio: 0.357
+  LiDAR 3D Profile: elevation=2.75m, rel_height=+1.82m (vs ground), roughness=0.538m, multi-return dz=-83.251m
+  ACE score: mean=0.002, max=0.004 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.800, max=0.800
+  RX anomaly: mean=0.011, max=0.013 -> Standard background spectral profile
+  Ensemble score: mean=0.319, max=0.332
+
+Target #231: Red Building (Tiny)
+  Quality Score: 37.1/100 -- LOW CONFIDENCE
+  Location: in Class 7 area (38% of surroundings)
+  Color: Red
+  Size: 4px (Tiny)
+  Centroid (row, col): (0.2, 38.0)   Bbox: (0, 1, 37, 39)
+  Fusion confidence: mean=0.603, max=0.668
+  Spectral contrast ratio: 0.494
+  LiDAR 3D Profile: elevation=14.19m, rel_height=-0.74m (vs ground), roughness=0.830m, multi-return dz=-54.556m
+  ACE score: mean=0.001, max=0.003 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.783, max=0.789
+  RX anomaly: mean=0.015, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.334, max=0.369
+
+Target #232: Red Building (Small)
+  Quality Score: 37.1/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (35% of surroundings)
+  Color: Red
+  Size: 5px (Small)
+  Centroid (row, col): (13.4, 205.8)   Bbox: (13, 14, 205, 207)
+  Fusion confidence: mean=0.597, max=0.665
+  Spectral contrast ratio: 0.363
+  LiDAR 3D Profile: elevation=1.17m, rel_height=+0.08m (vs ground), roughness=0.538m, multi-return dz=-80.626m
+  ACE score: mean=0.013, max=0.022 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.779, max=0.794
+  RX anomaly: mean=0.018, max=0.023 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.338, max=0.371
+
+Target #233: Red Building (Small)
+  Quality Score: 37.1/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (60% of surroundings)
+  Color: Red
+  Size: 5px (Small)
+  Centroid (row, col): (126.6, 171.2)   Bbox: (126, 127, 170, 172)
+  Fusion confidence: mean=0.603, max=0.658
+  Spectral contrast ratio: 0.290
+  LiDAR 3D Profile: elevation=0.32m, rel_height=+0.12m (vs ground), roughness=0.246m, multi-return dz=-80.681m
+  ACE score: mean=0.019, max=0.034 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.813, max=0.856
+  RX anomaly: mean=0.011, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.374, max=0.407
+
+Target #234: Red Building (Tiny)
+  Quality Score: 37.0/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (95% of surroundings)
+  Color: Red
+  Size: 2px (Tiny)
+  Centroid (row, col): (122.5, 408.0)   Bbox: (122, 123, 408, 408)
+  Fusion confidence: mean=0.541, max=0.547
+  Spectral contrast ratio: 0.424
+  LiDAR 3D Profile: elevation=1.10m, rel_height=+0.37m (vs ground), roughness=0.715m, multi-return dz=-74.401m
+  ACE score: mean=0.004, max=0.008 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.794, max=0.794
+  RX anomaly: mean=0.010, max=0.011 -> Standard background spectral profile
+  Ensemble score: mean=0.313, max=0.313
+
+Target #235: Red Building (Small)
+  Quality Score: 37.0/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (68% of surroundings)
+  Color: Red
+  Size: 7px (Small)
+  Centroid (row, col): (156.7, 304.6)   Bbox: (155, 158, 304, 305)
+  Fusion confidence: mean=0.576, max=0.660
+  Spectral contrast ratio: 0.234
+  LiDAR 3D Profile: elevation=0.62m, rel_height=+0.27m (vs ground), roughness=0.251m, multi-return dz=-80.095m
+  ACE score: mean=0.003, max=0.007 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.811, max=0.825
+  RX anomaly: mean=0.017, max=0.029 -> Standard background spectral profile
+  Ensemble score: mean=0.344, max=0.387
+
+Target #236: Red Building (Tiny)
+  Quality Score: 36.8/100 -- LOW CONFIDENCE
+  Location: in Ground area (40% of surroundings)
+  Color: Red
+  Size: 3px (Tiny)
+  Centroid (row, col): (84.7, 584.7)   Bbox: (84, 85, 584, 585)
+  Fusion confidence: mean=0.510, max=0.522
+  Spectral contrast ratio: 0.815
+  LiDAR 3D Profile: elevation=0.25m, rel_height=+0.12m (vs ground), roughness=0.060m, multi-return dz=-90.079m
+  ACE score: mean=0.044, max=0.048 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.790, max=0.790
+  RX anomaly: mean=0.019, max=0.025 -> ANOMALOUS (confirmed by RX)
+  Ensemble score: mean=0.329, max=0.339
+
+Target #237: Red Building (Tiny)
+  Quality Score: 36.6/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (80% of surroundings)
+  Color: Red
+  Size: 3px (Tiny)
+  Centroid (row, col): (47.0, 448.0)   Bbox: (46, 48, 448, 448)
+  Fusion confidence: mean=0.513, max=0.530
+  Spectral contrast ratio: 0.578
+  LiDAR 3D Profile: elevation=1.58m, rel_height=+0.52m (vs ground), roughness=0.186m, multi-return dz=-84.756m
+  ACE score: mean=0.033, max=0.051 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.781, max=0.783
+  RX anomaly: mean=0.014, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.313, max=0.324
+
+Target #238: Red Building (Small)
+  Quality Score: 36.4/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (49% of surroundings)
+  Color: Red
+  Size: 6px (Small)
+  Centroid (row, col): (94.0, 35.3)   Bbox: (93, 95, 34, 37)
+  Fusion confidence: mean=0.563, max=0.657
+  Spectral contrast ratio: 0.423
+  LiDAR 3D Profile: elevation=8.29m, rel_height=-0.94m (vs ground), roughness=0.809m, multi-return dz=-62.208m
+  ACE score: mean=0.000, max=0.001 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.785, max=0.793
+  RX anomaly: mean=0.012, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.314, max=0.364
+
+Target #239: Red Building (Small)
+  Quality Score: 36.1/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (59% of surroundings)
+  Color: Red
+  Size: 8px (Small)
+  Centroid (row, col): (39.5, 385.0)   Bbox: (39, 40, 383, 387)
+  Fusion confidence: mean=0.550, max=0.620
+  Spectral contrast ratio: 0.290
+  LiDAR 3D Profile: elevation=0.60m, rel_height=+0.46m (vs ground), roughness=0.674m, multi-return dz=-81.027m
+  ACE score: mean=0.005, max=0.013 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.809, max=0.821
+  RX anomaly: mean=0.016, max=0.021 -> Standard background spectral profile
+  Ensemble score: mean=0.332, max=0.376
+
+Target #240: Red Building (Tiny)
+  Quality Score: 36.1/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (35% of surroundings)
+  Color: Red
+  Size: 3px (Tiny)
+  Centroid (row, col): (40.7, 188.3)   Bbox: (40, 41, 188, 189)
+  Fusion confidence: mean=0.516, max=0.526
+  Spectral contrast ratio: 0.322
+  LiDAR 3D Profile: elevation=1.52m, rel_height=+0.03m (vs ground), roughness=0.162m, multi-return dz=-86.480m
+  ACE score: mean=0.009, max=0.013 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.782, max=0.787
+  RX anomaly: mean=0.017, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.295, max=0.300
+
+Target #241: Red Building (Small)
+  Quality Score: 36.0/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (34% of surroundings)
+  Color: Red
+  Size: 5px (Small)
+  Centroid (row, col): (38.2, 225.6)   Bbox: (37, 39, 225, 226)
+  Fusion confidence: mean=0.573, max=0.666
+  Spectral contrast ratio: 0.210
+  LiDAR 3D Profile: elevation=0.02m, rel_height=-0.06m (vs ground), roughness=0.026m, multi-return dz=-82.580m
+  ACE score: mean=0.016, max=0.032 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.793, max=0.800
+  RX anomaly: mean=0.017, max=0.024 -> Standard background spectral profile
+  Ensemble score: mean=0.340, max=0.396
+
+Target #242: Black/Dark Building (Tiny)
+  Quality Score: 35.9/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (52% of surroundings)
+  Color: Black/Dark
+  Size: 2px (Tiny)
+  Centroid (row, col): (70.0, 71.5)   Bbox: (70, 70, 71, 72)
+  Fusion confidence: mean=0.506, max=0.507
+  Spectral contrast ratio: 0.791
+  LiDAR 3D Profile: elevation=8.21m, rel_height=-1.84m (vs ground), roughness=0.521m, multi-return dz=-49.290m
+  ACE score: mean=0.005, max=0.006 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.788, max=0.788
+  RX anomaly: mean=0.017, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.292, max=0.292
+
+Target #243: Red Building (Tiny)
+  Quality Score: 35.7/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (42% of surroundings)
+  Color: Red
+  Size: 2px (Tiny)
+  Centroid (row, col): (15.0, 16.5)   Bbox: (15, 15, 16, 17)
+  Fusion confidence: mean=0.523, max=0.532
+  Spectral contrast ratio: 0.209
+  LiDAR 3D Profile: elevation=12.81m, rel_height=-0.29m (vs ground), roughness=0.041m, multi-return dz=-49.686m
+  ACE score: mean=0.002, max=0.004 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.796, max=0.801
+  RX anomaly: mean=0.010, max=0.013 -> Standard background spectral profile
+  Ensemble score: mean=0.305, max=0.315
+
+Target #244: Red Building (Tiny)
+  Quality Score: 35.7/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (69% of surroundings)
+  Color: Red
+  Size: 4px (Tiny)
+  Centroid (row, col): (44.0, 524.2)   Bbox: (43, 45, 524, 525)
+  Fusion confidence: mean=0.565, max=0.650
+  Spectral contrast ratio: 0.594
+  LiDAR 3D Profile: elevation=1.33m, rel_height=+0.17m (vs ground), roughness=0.118m, multi-return dz=-77.421m
+  ACE score: mean=0.003, max=0.006 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.811, max=0.818
+  RX anomaly: mean=0.011, max=0.014 -> Standard background spectral profile
+  Ensemble score: mean=0.339, max=0.391
+
+Target #245: Red Building (Tiny)
+  Quality Score: 35.7/100 -- LOW CONFIDENCE
+  Location: in Apple trees area (83% of surroundings)
+  Color: Red
+  Size: 2px (Tiny)
+  Centroid (row, col): (76.0, 428.5)   Bbox: (76, 76, 428, 429)
+  Fusion confidence: mean=0.507, max=0.508
+  Spectral contrast ratio: 0.666
+  LiDAR 3D Profile: elevation=1.12m, rel_height=+0.01m (vs ground), roughness=0.462m, multi-return dz=-83.377m
+  ACE score: mean=0.002, max=0.005 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.801, max=0.808
+  RX anomaly: mean=0.015, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.301, max=0.305
+
+Target #246: Black/Dark Building (Tiny)
+  Quality Score: 35.2/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (31% of surroundings)
+  Color: Black/Dark
+  Size: 4px (Tiny)
+  Centroid (row, col): (116.5, 59.5)   Bbox: (116, 117, 59, 60)
+  Fusion confidence: mean=0.562, max=0.592
+  Spectral contrast ratio: 0.831
+  LiDAR 3D Profile: elevation=9.88m, rel_height=-0.06m (vs ground), roughness=1.230m, multi-return dz=-53.867m
+  ACE score: mean=0.015, max=0.024 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.799, max=0.802
+  RX anomaly: mean=0.011, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.338, max=0.363
+
+Target #247: Red Building (Small)
+  Quality Score: 35.1/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (46% of surroundings)
+  Color: Red
+  Size: 5px (Small)
+  Centroid (row, col): (83.4, 309.2)   Bbox: (83, 84, 308, 310)
+  Fusion confidence: mean=0.555, max=0.602
+  Spectral contrast ratio: 0.550
+  LiDAR 3D Profile: elevation=0.41m, rel_height=+0.20m (vs ground), roughness=0.300m, multi-return dz=-78.591m
+  ACE score: mean=0.002, max=0.005 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.811, max=0.813
+  RX anomaly: mean=0.013, max=0.021 -> Standard background spectral profile
+  Ensemble score: mean=0.333, max=0.355
+
+Target #248: Red Building (Tiny)
+  Quality Score: 34.7/100 -- LOW CONFIDENCE
+  Location: in Buildings (TARGET) area (74% of surroundings)
+  Color: Red
+  Size: 2px (Tiny)
+  Centroid (row, col): (0.0, 257.5)   Bbox: (0, 0, 257, 258)
+  Fusion confidence: mean=0.574, max=0.617
+  Spectral contrast ratio: 0.661
+  LiDAR 3D Profile: elevation=0.28m, rel_height=-0.02m (vs ground), roughness=0.132m, multi-return dz=-89.721m
+  ACE score: mean=0.048, max=0.054 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.782, max=0.783
+  RX anomaly: mean=0.017, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.359, max=0.377
+
+Target #249: Red Building (Small)
+  Quality Score: 34.0/100 -- LOW CONFIDENCE
+  Location: in Buildings (TARGET) area (41% of surroundings)
+  Color: Red
+  Size: 7px (Small)
+  Centroid (row, col): (7.0, 177.9)   Bbox: (6, 9, 177, 179)
+  Fusion confidence: mean=0.524, max=0.551
+  Spectral contrast ratio: 0.442
+  LiDAR 3D Profile: elevation=1.41m, rel_height=+0.39m (vs ground), roughness=0.329m, multi-return dz=-86.021m
+  ACE score: mean=0.010, max=0.024 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.785, max=0.802
+  RX anomaly: mean=0.017, max=0.020 -> Standard background spectral profile
+  Ensemble score: mean=0.302, max=0.317
+
+Target #250: Red Building (Tiny)
+  Quality Score: 33.8/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (62% of surroundings)
+  Color: Red
+  Size: 2px (Tiny)
+  Centroid (row, col): (66.0, 159.5)   Bbox: (66, 66, 159, 160)
+  Fusion confidence: mean=0.565, max=0.569
+  Spectral contrast ratio: 0.766
+  LiDAR 3D Profile: elevation=1.15m, rel_height=+1.09m (vs ground), roughness=0.438m, multi-return dz=-73.352m
+  ACE score: mean=0.002, max=0.003 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.817, max=0.829
+  RX anomaly: mean=0.015, max=0.018 -> Standard background spectral profile
+  Ensemble score: mean=0.343, max=0.354
+
+Target #251: Red Building (Tiny)
+  Quality Score: 33.4/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (42% of surroundings)
+  Color: Red
+  Size: 2px (Tiny)
+  Centroid (row, col): (59.5, 526.0)   Bbox: (59, 60, 526, 526)
+  Fusion confidence: mean=0.564, max=0.574
+  Spectral contrast ratio: 0.536
+  LiDAR 3D Profile: elevation=1.32m, rel_height=+0.17m (vs ground), roughness=0.086m, multi-return dz=-76.176m
+  ACE score: mean=0.002, max=0.002 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.802, max=0.806
+  RX anomaly: mean=0.013, max=0.017 -> Standard background spectral profile
+  Ensemble score: mean=0.331, max=0.339
+
+Target #252: Red Building (Tiny)
+  Quality Score: 32.8/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (93% of surroundings)
+  Color: Red
+  Size: 3px (Tiny)
+  Centroid (row, col): (112.3, 155.3)   Bbox: (112, 113, 155, 156)
+  Fusion confidence: mean=0.547, max=0.561
+  Spectral contrast ratio: 0.387
+  LiDAR 3D Profile: elevation=1.25m, rel_height=+0.61m (vs ground), roughness=0.328m, multi-return dz=-79.755m
+  ACE score: mean=0.015, max=0.027 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.799, max=0.802
+  RX anomaly: mean=0.014, max=0.019 -> Standard background spectral profile
+  Ensemble score: mean=0.330, max=0.331
+
+Target #253: Red Building (Tiny)
+  Quality Score: 32.2/100 -- LOW CONFIDENCE
+  Location: in Class 8 area (39% of surroundings)
+  Color: Red
+  Size: 3px (Tiny)
+  Centroid (row, col): (47.7, 328.7)   Bbox: (47, 48, 328, 329)
+  Fusion confidence: mean=0.537, max=0.547
+  Spectral contrast ratio: 0.352
+  LiDAR 3D Profile: elevation=0.48m, rel_height=+0.14m (vs ground), roughness=0.142m, multi-return dz=-76.182m
+  ACE score: mean=0.000, max=0.001 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.815, max=0.820
+  RX anomaly: mean=0.011, max=0.013 -> Standard background spectral profile
+  Ensemble score: mean=0.326, max=0.330
+
+Target #254: Red Building (Tiny)
+  Quality Score: 32.0/100 -- LOW CONFIDENCE
+  Location: in Buildings (TARGET) area (35% of surroundings)
+  Color: Red
+  Size: 2px (Tiny)
+  Centroid (row, col): (119.5, 329.0)   Bbox: (119, 120, 329, 329)
+  Fusion confidence: mean=0.524, max=0.531
+  Spectral contrast ratio: 0.831
+  LiDAR 3D Profile: elevation=0.43m, rel_height=+0.22m (vs ground), roughness=0.034m, multi-return dz=-75.575m
+  ACE score: mean=0.001, max=0.002 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.878, max=0.886
+  RX anomaly: mean=0.016, max=0.016 -> Standard background spectral profile
+  Ensemble score: mean=0.373, max=0.382
+
+Target #255: Red Building (Tiny)
+  Quality Score: 31.6/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (58% of surroundings)
+  Color: Red
+  Size: 2px (Tiny)
+  Centroid (row, col): (38.5, 518.0)   Bbox: (38, 39, 518, 518)
+  Fusion confidence: mean=0.520, max=0.534
+  Spectral contrast ratio: 0.697
+  LiDAR 3D Profile: elevation=1.50m, rel_height=+0.37m (vs ground), roughness=0.081m, multi-return dz=-78.001m
+  ACE score: mean=0.026, max=0.040 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.793, max=0.799
+  RX anomaly: mean=0.011, max=0.013 -> Standard background spectral profile
+  Ensemble score: mean=0.321, max=0.335
+
+Target #256: Red Building (Tiny)
+  Quality Score: 31.4/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (55% of surroundings)
+  Color: Red
+  Size: 3px (Tiny)
+  Centroid (row, col): (27.3, 391.3)   Bbox: (27, 28, 391, 392)
+  Fusion confidence: mean=0.518, max=0.532
+  Spectral contrast ratio: 0.365
+  LiDAR 3D Profile: elevation=0.50m, rel_height=+0.40m (vs ground), roughness=0.125m, multi-return dz=-74.498m
+  ACE score: mean=0.021, max=0.030 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.821, max=0.825
+  RX anomaly: mean=0.013, max=0.015 -> Standard background spectral profile
+  Ensemble score: mean=0.340, max=0.345
+
+Target #257: Red Building (Tiny)
+  Quality Score: 31.0/100 -- LOW CONFIDENCE
+  Location: in Class 8 area (27% of surroundings)
+  Color: Red
+  Size: 2px (Tiny)
+  Centroid (row, col): (131.5, 261.0)   Bbox: (131, 132, 261, 261)
+  Fusion confidence: mean=0.514, max=0.514
+  Spectral contrast ratio: 0.645
+  LiDAR 3D Profile: elevation=0.35m, rel_height=-0.47m (vs ground), roughness=0.254m, multi-return dz=-82.648m
+  ACE score: mean=0.002, max=0.003 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.814, max=0.816
+  RX anomaly: mean=0.009, max=0.013 -> Standard background spectral profile
+  Ensemble score: mean=0.314, max=0.315
+
+Target #258: Red Building (Tiny)
+  Quality Score: 30.9/100 -- LOW CONFIDENCE
+  Location: in Class 9 area (42% of surroundings)
+  Color: Red
+  Size: 2px (Tiny)
+  Centroid (row, col): (103.5, 557.0)   Bbox: (103, 104, 557, 557)
+  Fusion confidence: mean=0.517, max=0.525
+  Spectral contrast ratio: 0.470
+  LiDAR 3D Profile: elevation=0.89m, rel_height=-0.19m (vs ground), roughness=0.375m, multi-return dz=-75.608m
+  ACE score: mean=0.000, max=0.000 (threshold 0.053) -> FUSION ONLY (ACE below threshold)
+  SAM score: mean=0.796, max=0.797
+  RX anomaly: mean=0.012, max=0.014 -> Standard background spectral profile
+  Ensemble score: mean=0.300, max=0.305

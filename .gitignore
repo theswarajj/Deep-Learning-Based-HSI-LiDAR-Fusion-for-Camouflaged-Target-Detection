@@ -1,0 +1,113 @@
+# ===========================================================================
+# Byte-compiled / optimized / DLL files & caches
+# ===========================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ===========================================================================
+# Virtual Environments
+# ===========================================================================
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ===========================================================================
+# IDE, Editor, & Operating System files
+# ===========================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ===========================================================================
+# Model Checkpoints & Large Weights (>50MB / 100MB GitHub limit)
+# Pretrained checkpoints are downloaded automatically via download.py
+# ===========================================================================
+*.pt
+*.pth
+*.pkl
+*.bin
+*.ckpt
+*.onnx
+*.weights
+*.safetensors
+yolov8n.pt
+
+# Checkpoint & Training directories
+runs/
+pretrained_models/
+
+# ===========================================================================
+# Raw & Processed Datasets (Multi-GB / Binary Scientific Arrays)
+# ===========================================================================
+*.npy
+*.npz
+*.mat
+*.h5
+*.hdf5
+*.las
+*.laz
+*.tif
+*.tiff
+*.bil
+*.bil.*
+*.times
+*.lcf
+*.kml
+
+preprocessed/
+houston_full/
+MUUFLGulfport-master/
+Trento-main/
+INPUTS/
+
+# ===========================================================================
+# Large HTML reports with embedded multi-megabyte base64 images
+# ===========================================================================
+OUTPUT/**/report.html
+
+# ===========================================================================
+# Ensure Essential Output Assets, Figures, and Reports Are Tracked
+# ===========================================================================
+!assets/**/*.png
+!assets/**/*.jpg
+!assets/**/*.jpeg
+!assets/**/*.svg
+!detection_output/**/*.png
+!detection_output/**/*.txt
+!detection_output/**/*.json
+!detection_output/**/*.csv
+!OUTPUT/**/*.png
+!OUTPUT/**/*.txt
+!OUTPUT/**/*.json
+!OUTPUT/**/*.csv

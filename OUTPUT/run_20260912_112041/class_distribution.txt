@@ -1,0 +1,15 @@
+
+Predicted class distribution:
+  Class                              Pixels       %
+  --------------------------------------------------
+  Trees                              28,810   40.3%
+  Mostly Grass                        5,642    7.9%
+  Mixed Ground Surface                9,773   13.7%
+  Dirt and Sand                       2,961    4.1%
+  Road                                9,399   13.1%
+  Water                                 535    0.7%
+  Shadow of Buildings                 3,600    5.0%
+  Buildings                           6,875    9.6%
+  Sidewalk                            3,133    4.4%
+  Yellow Curb                           411    0.6%
+  Cloth Panels (TARGET)                 361    0.5%  <<<

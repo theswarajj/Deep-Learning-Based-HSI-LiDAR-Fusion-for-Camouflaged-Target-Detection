@@ -1,0 +1,8 @@
+id,name,dominant_color,size_category,surrounding_context,surrounding_pct,size_pixels,centroid,bbox,mean_confidence,max_confidence,quality_score,quality_tier
+1,Dark Gray Cloth Panel (Small),Dark Gray,Small,Trees,60.0,11,"(71.8, 41.0)","(69, 75, 40, 42)",0.7963226437568665,0.990329384803772,68.3,MEDIUM CONFIDENCE
+2,Red + Dark Gray Cloth Panel (Medium),Red + Dark Gray,Medium,Mixed Ground Surface,63.9,27,"(80.1, 30.9)","(77, 82, 27, 35)",0.8989918231964111,0.9975544810295105,82.1,HIGH CONFIDENCE
+3,Red + Green + Blue Cloth Panel (Large),Red + Green + Blue,Large,Mixed Ground Surface,65.5,301,"(159.5, 156.4)","(147, 173, 148, 164)",0.9903852343559265,0.9994926452636719,99.6,HIGH CONFIDENCE
+4,Red Cloth Panel (Small),Red,Small,Mostly Grass,97.7,7,"(209.4, 171.6)","(208, 211, 171, 173)",0.9102386832237244,0.9964876174926758,70.5,MEDIUM CONFIDENCE
+5,Red Cloth Panel (Small),Red,Small,Trees,45.6,9,"(289.6, 69.2)","(289, 290, 67, 71)",0.7539205551147461,0.963996171951294,64.8,MEDIUM CONFIDENCE
+6,Dark Gray Cloth Panel (Tiny),Dark Gray,Tiny,Trees,68.8,3,"(295.7, 128.7)","(295, 296, 128, 129)",0.5286484360694885,0.5357484221458435,43.7,LOW CONFIDENCE
+7,Dark Gray Cloth Panel (Tiny),Dark Gray,Tiny,Trees,63.1,2,"(296.5, 70.0)","(296, 297, 70, 70)",0.9145113229751587,0.9854012131690979,67.5,MEDIUM CONFIDENCE

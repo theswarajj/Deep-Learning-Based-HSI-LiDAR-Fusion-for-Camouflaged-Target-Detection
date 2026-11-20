@@ -1,0 +1,74 @@
+Detected 8 candidate target(s), confidence threshold = 0.5
+======================================================================
+
+Target #1: Red + Green + Blue Cloth Panel (Large)
+  Quality Score: 99.6/100 -- HIGH CONFIDENCE
+  Location: in Mixed Ground Surface area (65% of surroundings)
+  Color: Red + Green + Blue
+  Size: 297px (Large)
+  Centroid (row, col): (159.5, 156.4)   Bbox: (147, 173, 148, 164)
+  Fusion confidence: mean=0.990, max=0.999
+  ACE score: mean=0.236, max=0.503 (threshold 0.162) -> CONFIRMED by ACE
+
+Target #2: Red + Dark Gray Cloth Panel (Medium)
+  Quality Score: 82.2/100 -- HIGH CONFIDENCE
+  Location: in Mixed Ground Surface area (51% of surroundings)
+  Color: Red + Dark Gray
+  Size: 27px (Medium)
+  Centroid (row, col): (80.1, 30.7)   Bbox: (77, 82, 27, 34)
+  Fusion confidence: mean=0.901, max=0.997
+  ACE score: mean=0.007, max=0.026 (threshold 0.162) -> FUSION ONLY (ACE below threshold)
+
+Target #3: Red Cloth Panel (Small)
+  Quality Score: 66.9/100 -- MEDIUM CONFIDENCE
+  Location: in Mostly Grass area (99% of surroundings)
+  Color: Red
+  Size: 6px (Small)
+  Centroid (row, col): (209.2, 171.7)   Bbox: (208, 210, 171, 173)
+  Fusion confidence: mean=0.863, max=0.941
+  ACE score: mean=0.110, max=0.119 (threshold 0.162) -> FUSION ONLY (ACE below threshold)
+
+Target #4: Dark Gray Cloth Panel (Small)
+  Quality Score: 66.8/100 -- MEDIUM CONFIDENCE
+  Location: in Trees area (60% of surroundings)
+  Color: Dark Gray
+  Size: 5px (Small)
+  Centroid (row, col): (73.8, 41.2)   Bbox: (72, 75, 41, 42)
+  Fusion confidence: mean=0.854, max=0.982
+  ACE score: mean=0.003, max=0.006 (threshold 0.162) -> FUSION ONLY (ACE below threshold)
+
+Target #5: Dark Gray Cloth Panel (Tiny)
+  Quality Score: 62.5/100 -- MEDIUM CONFIDENCE
+  Location: in Trees area (78% of surroundings)
+  Color: Dark Gray
+  Size: 3px (Tiny)
+  Centroid (row, col): (70.0, 41.0)   Bbox: (70, 70, 40, 42)
+  Fusion confidence: mean=0.799, max=0.934
+  ACE score: mean=0.001, max=0.004 (threshold 0.162) -> FUSION ONLY (ACE below threshold)
+
+Target #6: Dark Gray Cloth Panel (Tiny)
+  Quality Score: 62.5/100 -- MEDIUM CONFIDENCE
+  Location: in Trees area (63% of surroundings)
+  Color: Dark Gray
+  Size: 2px (Tiny)
+  Centroid (row, col): (296.5, 70.0)   Bbox: (296, 297, 70, 70)
+  Fusion confidence: mean=0.800, max=0.965
+  ACE score: mean=0.001, max=0.001 (threshold 0.162) -> FUSION ONLY (ACE below threshold)
+
+Target #7: Red Cloth Panel (Tiny)
+  Quality Score: 58.3/100 -- MEDIUM CONFIDENCE
+  Location: in Trees area (45% of surroundings)
+  Color: Red
+  Size: 2px (Tiny)
+  Centroid (row, col): (289.5, 68.0)   Bbox: (289, 290, 68, 68)
+  Fusion confidence: mean=0.736, max=0.883
+  ACE score: mean=0.005, max=0.011 (threshold 0.162) -> FUSION ONLY (ACE below threshold)
+
+Target #8: Red Cloth Panel (Tiny)
+  Quality Score: 55.0/100 -- MEDIUM CONFIDENCE
+  Location: in Trees area (57% of surroundings)
+  Color: Red
+  Size: 3px (Tiny)
+  Centroid (row, col): (289.7, 70.7)   Bbox: (289, 290, 70, 71)
+  Fusion confidence: mean=0.647, max=0.864
+  ACE score: mean=0.021, max=0.034 (threshold 0.162) -> FUSION ONLY (ACE below threshold)

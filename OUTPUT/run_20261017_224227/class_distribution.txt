@@ -1,0 +1,10 @@
+
+Predicted class distribution:
+  Class                              Pixels       %
+  --------------------------------------------------
+  Apple trees                        32,899   33.0%
+  Buildings (TARGET)                  6,670    6.7%
+  Ground                              6,987    7.0%
+  Wood                                1,663    1.7%
+  Vineyard                            6,252    6.3%
+  Roads                                   1    0.0%

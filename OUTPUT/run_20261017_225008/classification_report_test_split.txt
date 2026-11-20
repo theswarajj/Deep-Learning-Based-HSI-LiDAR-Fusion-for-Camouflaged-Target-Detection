@@ -1,0 +1,21 @@
+Test split: 10,738 pixels
+Accuracy: 0.9730
+
+                       precision    recall  f1-score   support
+
+                Trees      0.986     0.982     0.984      4650
+         Mostly Grass      0.958     0.977     0.967       854
+ Mixed Ground Surface      0.971     0.964     0.967      1377
+        Dirt and Sand      0.957     0.973     0.965       365
+                 Road      0.973     0.971     0.972      1338
+                Water      1.000     0.989     0.995        93
+  Shadow of Buildings      0.935     0.971     0.953       446
+            Buildings      0.989     0.980     0.984      1248
+             Sidewalk      0.867     0.892     0.879       277
+          Yellow Curb      0.686     0.667     0.676        36
+Cloth Panels (TARGET)      0.943     0.926     0.935        54
+
+             accuracy                          0.973     10738
+            macro avg      0.933     0.935     0.934     10738
+         weighted avg      0.973     0.973     0.973     10738
+

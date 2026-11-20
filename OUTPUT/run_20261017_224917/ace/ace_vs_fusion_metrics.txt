@@ -1,0 +1,14 @@
+Detector comparison on TEST pixels (n=6,043, targets=581)
+  Method                                AUC     AP  PD@1%FPR   Prec    Rec     F1
+  -------------------------------------------------------------------------------
+  Fusion model (argmax class)         0.442  0.083     0.015  0.000  0.000  0.000
+  ACE (HSI only, no training)         0.950  0.542     0.120  0.517  0.940  0.667
+  SAM (HSI only, no training)         0.948  0.586     0.236  0.488  0.995  0.655
+  RX Anomaly (HSI only, unsuperv)     0.786  0.244     0.028  0.251  0.552  0.346
+  Ensemble (Fusion+ACE+SAM)           0.880  0.355     0.081  0.299  0.910  0.450
+  ACE threshold = 0.0529 (best-F1 on train+val pixels)
+  SAM threshold = 0.9017 (best-F1 on train+val pixels)
+  RX threshold = 0.0172 (best-F1 on train+val pixels)
+  Ensemble threshold = 0.2438 (best-F1 on train+val pixels)
+
+ACE signature: mean of 2322 train+val target pixels

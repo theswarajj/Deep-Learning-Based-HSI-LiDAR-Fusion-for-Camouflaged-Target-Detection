@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "name": "Red + Green + Blue Cloth Panel (Large)",
+        "dominant_color": "Red + Green + Blue",
+        "size_category": "Large",
+        "surrounding_context": "Mixed Ground Surface",
+        "surrounding_pct": 65.0,
+        "size_pixels": 299,
+        "centroid": [
+            159.4,
+            156.5
+        ],
+        "bbox": [
+            147,
+            173,
+            148,
+            164
+        ],
+        "mean_confidence": 0.8784118294715881,
+        "max_confidence": 0.9991194009780884,
+        "spectral_contrast": 2.778,
+        "lidar_elevation_m": 5.55,
+        "lidar_relative_height_m": 0.296,
+        "lidar_roughness_std_m": 1.472,
+        "lidar_multi_return_dz_m": -166.899,
+        "ace_mean": 0.2335,
+        "ace_max": 0.5059,
+        "ace_verdict": "CONFIRMED by ACE",
+        "sam_mean": 0.9483,
+        "sam_max": 0.9822,
+        "rx_mean": 0.341,
+        "rx_max": 0.795,
+        "rx_verdict": "ANOMALOUS (confirmed by RX)",
+        "ensemble_mean": 0.7588,
+        "ensemble_max": 0.998,
+        "quality_score": 91.3,
+        "quality_tier": "HIGH CONFIDENCE"
+    },
+    {
+        "id": 2,
+        "name": "Red + Dark Gray Cloth Panel (Medium)",
+        "dominant_color": "Red + Dark Gray",
+        "size_category": "Medium",
+        "surrounding_context": "Mixed Ground Surface",
+        "surrounding_pct": 54.5,
+        "size_pixels": 22,
+        "centroid": [
+            80.5,
+            30.3
+        ],
+        "bbox": [
+            78,
+            82,
+            27,
+            33
+        ],
+        "mean_confidence": 0.694075345993042,
+        "max_confidence": 0.8726528882980347,
+        "spectral_contrast": 0.361,
+        "lidar_elevation_m": 5.1,
+        "lidar_relative_height_m": -0.1,
+        "lidar_roughness_std_m": 0.036,
+        "lidar_multi_return_dz_m": -164.793,
+        "ace_mean": 0.0072,
+        "ace_max": 0.0279,
+        "ace_verdict": "FUSION ONLY (ACE below threshold)",
+        "sam_mean": 0.9354,
+        "sam_max": 0.9553,
+        "rx_mean": 0.0186,
+        "rx_max": 0.0288,
+        "rx_verdict": "Standard background spectral profile",
+        "ensemble_mean": 0.5255,
+        "ensemble_max": 0.6105,
+        "quality_score": 57.1,
+        "quality_tier": "MEDIUM CONFIDENCE"
+    }
+]

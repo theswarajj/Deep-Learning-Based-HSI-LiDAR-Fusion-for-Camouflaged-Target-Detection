@@ -1,0 +1,9 @@
+id,name,dominant_color,size_category,surrounding_context,surrounding_pct,size_pixels,centroid,bbox,mean_confidence,max_confidence,quality_score,quality_tier,ace_mean,ace_max,ace_verdict
+1,Red + Green + Blue Cloth Panel (Large),Red + Green + Blue,Large,Mixed Ground Surface,65.2,297,"(159.5, 156.4)","(147, 173, 148, 164)",0.9901484847068787,0.9992223978042603,99.6,HIGH CONFIDENCE,0.2363,0.5035,CONFIRMED by ACE
+2,Red + Dark Gray Cloth Panel (Medium),Red + Dark Gray,Medium,Mixed Ground Surface,51.3,27,"(80.1, 30.7)","(77, 82, 27, 34)",0.9013623595237732,0.9968706965446472,82.2,HIGH CONFIDENCE,0.0069,0.026,FUSION ONLY (ACE below threshold)
+3,Red Cloth Panel (Small),Red,Small,Mostly Grass,98.8,6,"(209.2, 171.7)","(208, 210, 171, 173)",0.863145112991333,0.9409500956535339,66.9,MEDIUM CONFIDENCE,0.1095,0.119,FUSION ONLY (ACE below threshold)
+4,Dark Gray Cloth Panel (Small),Dark Gray,Small,Trees,59.5,5,"(73.8, 41.2)","(72, 75, 41, 42)",0.8535217046737671,0.9824029207229614,66.8,MEDIUM CONFIDENCE,0.003,0.0062,FUSION ONLY (ACE below threshold)
+5,Dark Gray Cloth Panel (Tiny),Dark Gray,Tiny,Trees,77.9,3,"(70.0, 41.0)","(70, 70, 40, 42)",0.7991825938224792,0.9343485832214355,62.5,MEDIUM CONFIDENCE,0.0013,0.0038,FUSION ONLY (ACE below threshold)
+6,Dark Gray Cloth Panel (Tiny),Dark Gray,Tiny,Trees,63.1,2,"(296.5, 70.0)","(296, 297, 70, 70)",0.7995306253433228,0.9652704000473022,62.5,MEDIUM CONFIDENCE,0.0005,0.0006,FUSION ONLY (ACE below threshold)
+7,Red Cloth Panel (Tiny),Red,Tiny,Trees,44.6,2,"(289.5, 68.0)","(289, 290, 68, 68)",0.7360979318618774,0.8828263282775879,58.3,MEDIUM CONFIDENCE,0.0054,0.0108,FUSION ONLY (ACE below threshold)
+8,Red Cloth Panel (Tiny),Red,Tiny,Trees,56.7,3,"(289.7, 70.7)","(289, 290, 70, 71)",0.6468458771705627,0.8644483685493469,55.0,MEDIUM CONFIDENCE,0.0208,0.0341,FUSION ONLY (ACE below threshold)

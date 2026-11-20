@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "name": "Red + Green + Blue Cloth Panel (Large)",
+        "dominant_color": "Red + Green + Blue",
+        "size_category": "Large",
+        "surrounding_context": "Mixed Ground Surface",
+        "surrounding_pct": 65.2,
+        "size_pixels": 297,
+        "centroid": [
+            159.5,
+            156.4
+        ],
+        "bbox": [
+            147,
+            173,
+            148,
+            164
+        ],
+        "mean_confidence": 0.9901484847068787,
+        "max_confidence": 0.9992223978042603,
+        "quality_score": 99.6,
+        "quality_tier": "HIGH CONFIDENCE",
+        "ace_mean": 0.2363,
+        "ace_max": 0.5035,
+        "ace_verdict": "CONFIRMED by ACE"
+    },
+    {
+        "id": 2,
+        "name": "Red + Dark Gray Cloth Panel (Medium)",
+        "dominant_color": "Red + Dark Gray",
+        "size_category": "Medium",
+        "surrounding_context": "Mixed Ground Surface",
+        "surrounding_pct": 51.3,
+        "size_pixels": 27,
+        "centroid": [
+            80.1,
+            30.7
+        ],
+        "bbox": [
+            77,
+            82,
+            27,
+            34
+        ],
+        "mean_confidence": 0.9013623595237732,
+        "max_confidence": 0.9968706965446472,
+        "quality_score": 82.2,
+        "quality_tier": "HIGH CONFIDENCE",
+        "ace_mean": 0.0069,
+        "ace_max": 0.026,
+        "ace_verdict": "FUSION ONLY (ACE below threshold)"
+    },
+    {
+        "id": 3,
+        "name": "Red Cloth Panel (Small)",
+        "dominant_color": "Red",
+        "size_category": "Small",
+        "surrounding_context": "Mostly Grass",
+        "surrounding_pct": 98.8,
+        "size_pixels": 6,
+        "centroid": [
+            209.2,
+            171.7
+        ],
+        "bbox": [
+            208,
+            210,
+            171,
+            173
+        ],
+        "mean_confidence": 0.863145112991333,
+        "max_confidence": 0.9409500956535339,
+        "quality_score": 66.9,
+        "quality_tier": "MEDIUM CONFIDENCE",
+        "ace_mean": 0.1095,
+        "ace_max": 0.119,
+        "ace_verdict": "FUSION ONLY (ACE below threshold)"
+    },
+    {
+        "id": 4,
+        "name": "Dark Gray Cloth Panel (Small)",
+        "dominant_color": "Dark Gray",
+        "size_category": "Small",
+        "surrounding_context": "Trees",
+        "surrounding_pct": 59.5,
+        "size_pixels": 5,
+        "centroid": [
+            73.8,
+            41.2
+        ],
+        "bbox": [
+            72,
+            75,
+            41,
+            42
+        ],
+        "mean_confidence": 0.8535217046737671,
+        "max_confidence": 0.9824029207229614,
+        "quality_score": 66.8,
+        "quality_tier": "MEDIUM CONFIDENCE",
+        "ace_mean": 0.003,
+        "ace_max": 0.0062,
+        "ace_verdict": "FUSION ONLY (ACE below threshold)"
+    },
+    {
+        "id": 5,
+        "name": "Dark Gray Cloth Panel (Tiny)",
+        "dominant_color": "Dark Gray",
+        "size_category": "Tiny",
+        "surrounding_context": "Trees",
+        "surrounding_pct": 77.9,
+        "size_pixels": 3,
+        "centroid": [
+            70.0,
+            41.0
+        ],
+        "bbox": [
+            70,
+            70,
+            40,
+            42
+        ],
+        "mean_confidence": 0.7991825938224792,
+        "max_confidence": 0.9343485832214355,
+        "quality_score": 62.5,
+        "quality_tier": "MEDIUM CONFIDENCE",
+        "ace_mean": 0.0013,
+        "ace_max": 0.0038,
+        "ace_verdict": "FUSION ONLY (ACE below threshold)"
+    },
+    {
+        "id": 6,
+        "name": "Dark Gray Cloth Panel (Tiny)",
+        "dominant_color": "Dark Gray",
+        "size_category": "Tiny",
+        "surrounding_context": "Trees",
+        "surrounding_pct": 63.1,
+        "size_pixels": 2,
+        "centroid": [
+            296.5,
+            70.0
+        ],
+        "bbox": [
+            296,
+            297,
+            70,
+            70
+        ],
+        "mean_confidence": 0.7995306253433228,
+        "max_confidence": 0.9652704000473022,
+        "quality_score": 62.5,
+        "quality_tier": "MEDIUM CONFIDENCE",
+        "ace_mean": 0.0005,
+        "ace_max": 0.0006,
+        "ace_verdict": "FUSION ONLY (ACE below threshold)"
+    },
+    {
+        "id": 7,
+        "name": "Red Cloth Panel (Tiny)",
+        "dominant_color": "Red",
+        "size_category": "Tiny",
+        "surrounding_context": "Trees",
+        "surrounding_pct": 44.6,
+        "size_pixels": 2,
+        "centroid": [
+            289.5,
+            68.0
+        ],
+        "bbox": [
+            289,
+            290,
+            68,
+            68
+        ],
+        "mean_confidence": 0.7360979318618774,
+        "max_confidence": 0.8828263282775879,
+        "quality_score": 58.3,
+        "quality_tier": "MEDIUM CONFIDENCE",
+        "ace_mean": 0.0054,
+        "ace_max": 0.0108,
+        "ace_verdict": "FUSION ONLY (ACE below threshold)"
+    },
+    {
+        "id": 8,
+        "name": "Red Cloth Panel (Tiny)",
+        "dominant_color": "Red",
+        "size_category": "Tiny",
+        "surrounding_context": "Trees",
+        "surrounding_pct": 56.7,
+        "size_pixels": 3,
+        "centroid": [
+            289.7,
+            70.7
+        ],
+        "bbox": [
+            289,
+            290,
+            70,
+            71
+        ],
+        "mean_confidence": 0.6468458771705627,
+        "max_confidence": 0.8644483685493469,
+        "quality_score": 55.0,
+        "quality_tier": "MEDIUM CONFIDENCE",
+        "ace_mean": 0.0208,
+        "ace_max": 0.0341,
+        "ace_verdict": "FUSION ONLY (ACE below threshold)"
+    }
+]

@@ -1,0 +1,66 @@
+Detected 7 candidate target(s), confidence threshold = 0.5
+======================================================================
+
+Target #1: Dark Gray Cloth Panel (Small)
+  Quality Score: 68.3/100 -- MEDIUM CONFIDENCE
+  Location: in Trees area (60%)
+  Color: Dark Gray
+  Size: 11px (Small)
+  Centroid: (71.8, 41.0)
+  Bbox: (69, 75, 40, 42)
+  Confidence: mean=0.796, max=0.990
+
+Target #2: Red + Dark Gray Cloth Panel (Medium)
+  Quality Score: 82.1/100 -- HIGH CONFIDENCE
+  Location: in Mixed Ground Surface area (64%)
+  Color: Red + Dark Gray
+  Size: 27px (Medium)
+  Centroid: (80.1, 30.9)
+  Bbox: (77, 82, 27, 35)
+  Confidence: mean=0.899, max=0.998
+
+Target #3: Red + Green + Blue Cloth Panel (Large)
+  Quality Score: 99.6/100 -- HIGH CONFIDENCE
+  Location: in Mixed Ground Surface area (66%)
+  Color: Red + Green + Blue
+  Size: 301px (Large)
+  Centroid: (159.5, 156.4)
+  Bbox: (147, 173, 148, 164)
+  Confidence: mean=0.990, max=0.999
+
+Target #4: Red Cloth Panel (Small)
+  Quality Score: 70.5/100 -- MEDIUM CONFIDENCE
+  Location: in Mostly Grass area (98%)
+  Color: Red
+  Size: 7px (Small)
+  Centroid: (209.4, 171.6)
+  Bbox: (208, 211, 171, 173)
+  Confidence: mean=0.910, max=0.996
+
+Target #5: Red Cloth Panel (Small)
+  Quality Score: 64.8/100 -- MEDIUM CONFIDENCE
+  Location: in Trees area (46%)
+  Color: Red
+  Size: 9px (Small)
+  Centroid: (289.6, 69.2)
+  Bbox: (289, 290, 67, 71)
+  Confidence: mean=0.754, max=0.964
+
+Target #6: Dark Gray Cloth Panel (Tiny)
+  Quality Score: 43.7/100 -- LOW CONFIDENCE
+  Location: in Trees area (69%)
+  Color: Dark Gray
+  Size: 3px (Tiny)
+  Centroid: (295.7, 128.7)
+  Bbox: (295, 296, 128, 129)
+  Confidence: mean=0.529, max=0.536
+
+Target #7: Dark Gray Cloth Panel (Tiny)
+  Quality Score: 67.5/100 -- MEDIUM CONFIDENCE
+  Location: in Trees area (63%)
+  Color: Dark Gray
+  Size: 2px (Tiny)
+  Centroid: (296.5, 70.0)
+  Bbox: (296, 297, 70, 70)
+  Confidence: mean=0.915, max=0.985
+
